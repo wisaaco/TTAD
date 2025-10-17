@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'TTAD-master'
-copyright = '2024, TTAD Team'
-author = 'TTAD Team'
-release = '1.0.0'
+project = 'TTAD Subject Material'
+copyright = '2025, Isaac Lera, Miquel Miró'
+author = 'Isaac Lera, Miquel Miró'
+release = '2025-26, v0.01'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -24,6 +24,12 @@ extensions = [
 
 templates_path = ['_templates']
 exclude_patterns = []
+
+# Add the notebooks directory to the path
+import os
+import sys
+sys.path.insert(0, os.path.abspath('..'))
+sys.path.insert(0, os.path.abspath('../notebooks'))
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output

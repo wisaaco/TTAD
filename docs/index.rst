@@ -11,47 +11,47 @@ Welcome to TTAD-master's documentation!
    :maxdepth: 1
    :caption: Introducción a Python
 
-   notebooks/01_Python/01_Introduction.ipynb
-   notebooks/01_Python/02_BasicConcepts.ipynb
-   notebooks/01_Python/03_ControlStatements.ipynb
-   notebooks/01_Python/04_OtherTypes.ipynb
+   notebooks/01_Python/01_Introduction
+   notebooks/01_Python/02_BasicConcepts
+   notebooks/01_Python/03_ControlStatements
+   notebooks/01_Python/04_OtherTypes
    
 .. toctree::
    :maxdepth: 2
    :caption: Librería Numpy
    
-   notebooks/02_Numpy/01_Introduction.ipynb
+   notebooks/02_Numpy/01_Introduction
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Pandas
 
-   notebooks/03_Pandas/01_Introduction.ipynb
-   notebooks/03_Pandas/02_GroupingData.ipynb
-   notebooks/03_Pandas/03_OtherActions.ipynb
-   notebooks/03_Pandas/04_Visualization.ipynb
+   notebooks/03_Pandas/01_Introduction
+   notebooks/03_Pandas/02_GroupingData
+   notebooks/03_Pandas/03_OtherActions
+   notebooks/03_Pandas/04_Visualization
 
 .. toctree::
    :maxdepth: 2
    :caption: ETL Process
 
-   notebooks/04_ETLprocess/01_Introduction.ipynb
-   notebooks/04_ETLprocess/02_Automatization.ipynb
-   notebooks/04_ETLprocess/03_Orchestration.ipynb
+   notebooks/04_ETLprocess/01_Introduction
+   notebooks/04_ETLprocess/02_Automatization
+   notebooks/04_ETLprocess/03_Orchestration
 
 .. toctree::
    :maxdepth: 2
    :caption: Machine Learning techniques
 
-   notebooks/05_MachineLearning/01_Introduction.ipynb
-   notebooks/05_MachineLearning/02_PredictiveModelling.ipynb
-   notebooks/05_MachineLearning/03_Activity_LinearRegression.ipynb
-   notebooks/05_MachineLearning/04_Regression.ipynb
-   notebooks/05_MachineLearning/04b_Ejercicio1.ipynb
-   notebooks/05_MachineLearning/04b_Ejercicio2.ipynb
-   notebooks/05_MachineLearning/05_Classification.ipynb
-   notebooks/05_MachineLearning/06_Clustering.ipynb
+   notebooks/05_MachineLearning/01_Introduction
+   notebooks/05_MachineLearning/02_PredictiveModelling
+   notebooks/05_MachineLearning/03_Activity_LinearRegression
+   notebooks/05_MachineLearning/04_Regression
+   notebooks/05_MachineLearning/04b_Ejercicio1
+   notebooks/05_MachineLearning/04b_Ejercicio2
+   notebooks/05_MachineLearning/05_Classification
+   notebooks/05_MachineLearning/06_Clustering
 
    
 

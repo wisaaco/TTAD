@@ -11,11 +11,21 @@ Welcome to TTAD-master's documentation!
    :maxdepth: 1
    :caption: Introducción a Python
 
-   notebooks/01_Python/01_Introduction
-   notebooks/01_Python/02_BasicConcepts
-   notebooks/01_Python/03_ControlStatements
-   notebooks/01_Python/04_OtherTypes
-   
+   notebooks/01_Python/01_BasicConcepts
+   notebooks/01_Python/02_ControlStatements
+   notebooks/01_Python/03_OtherTypes
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Estructura de proyecto
+
+   notebooks/02_Proyectos/01_Introduction
+   notebooks/02_Proyectos/02_Proyectos
+   notebooks/02_Proyectos/03_Notebooks_y_scripts
+   notebooks/02_Proyectos/03_Paths
+   notebooks/02_Proyectos/03_Paths
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Librería Numpy

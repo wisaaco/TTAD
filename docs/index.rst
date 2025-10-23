@@ -23,6 +23,7 @@ Welcome to TTAD-master's documentation!
    notebooks/02_Proyectos/02_Proyectos
    notebooks/02_Proyectos/03_Notebooks_y_scripts
    notebooks/02_Proyectos/04_Paths
+   notebooks/02_Proyectos/05_Terminal
 
 
 .. toctree::

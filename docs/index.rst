@@ -34,7 +34,7 @@ Welcome to TTAD-master's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Librería Numpy
+   :caption: Control de versiones
 
    notebooks/04_Git/01_Git
 

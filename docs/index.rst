@@ -32,36 +32,41 @@ Welcome to TTAD-master's documentation!
    
    notebooks/03_Numpy/01_Introduction
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Librería Numpy
+
+   notebooks/04_Git/01_Git
 
 .. toctree::
    :maxdepth: 1
    :caption: Pandas
 
-   notebooks/04_Pandas/01_Introduction
-   notebooks/04_Pandas/02_GroupingData
-   notebooks/04_Pandas/03_OtherActions
-   notebooks/04_Pandas/04_Visualization
+   notebooks/05_Pandas/01_Introduction
+   notebooks/05_Pandas/02_GroupingData
+   notebooks/05_Pandas/03_OtherActions
+   notebooks/05_Pandas/04_Visualization
 
 .. toctree::
    :maxdepth: 2
    :caption: ETL Process
 
-   notebooks/05_ETLprocess/01_Introduction
-   notebooks/05_ETLprocess/02_Automatization
-   notebooks/05_ETLprocess/03_Orchestration
+   notebooks/06_ETLprocess/01_Introduction
+   notebooks/06_ETLprocess/02_Automatization
+   notebooks/06_ETLprocess/03_Orchestration
 
 .. toctree::
    :maxdepth: 2
    :caption: Machine Learning techniques
 
-   notebooks/06_MachineLearning/01_Introduction
-   notebooks/06_MachineLearning/02_PredictiveModelling
-   notebooks/06_MachineLearning/03_Activity_LinearRegression
-   notebooks/06_MachineLearning/04_Regression
-   notebooks/06_MachineLearning/04b_Ejercicio1
-   notebooks/06_MachineLearning/04b_Ejercicio2
-   notebooks/06_MachineLearning/05_Classification
-   notebooks/06_MachineLearning/06_Clustering
+   notebooks/07_MachineLearning/01_Introduction
+   notebooks/07_MachineLearning/02_PredictiveModelling
+   notebooks/07_MachineLearning/03_Activity_LinearRegression
+   notebooks/07_MachineLearning/04_Regression
+   notebooks/07_MachineLearning/04b_Ejercicio1
+   notebooks/07_MachineLearning/04b_Ejercicio2
+   notebooks/07_MachineLearning/05_Classification
+   notebooks/07_MachineLearning/06_Clustering
 
    
 

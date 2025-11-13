@@ -43,9 +43,10 @@ Welcome to TTAD-master's documentation!
    :caption: Pandas
 
    notebooks/05_Pandas/01_Introduction
-   notebooks/05_Pandas/02_GroupingData
-   notebooks/05_Pandas/03_OtherActions
-   notebooks/05_Pandas/04_Visualization
+   notebooks/05_Pandas/02_Scripts_Notebooks
+   notebooks/05_Pandas/03_GroupingData
+   notebooks/05_Pandas/04_OtherActions
+   notebooks/05_Pandas/05_Visualization
 
 .. toctree::
    :maxdepth: 2

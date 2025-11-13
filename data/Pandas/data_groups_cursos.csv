@@ -1,0 +1,4001 @@
+,Dni,Nom,Curso
+0,R5715872G,Emma de Almagro,F
+1,N5111030B,Carlos Ramírez Benavent,B
+2,S1410175B,Lucas Frutos Andrés,F
+3,J2387634E,Martí Antonio Nicolás Giner,F
+4,P2199273J,Enzo de Osorio,B
+5,Q9514578E,Anna Benítez Rovira,D
+6,H13226295,Pau Rosado Palomar,C
+7,S2330516B,Arnau David Armas Carreño,E
+8,S9029257D,Francisco Vilanova Mármol,C
+9,H60091485,Sofía Collado Botella,E
+10,F9551675C,Ana Morante-Vazquez,D
+11,U8112016D,Joan Villalobos Carnero,F
+12,S5329165D,Hugo Sanz Amat,C
+13,C29574233,Sílvia Ana Mármol Vázquez,A
+14,B29905627,Pol Gómez Isern,D
+15,U9160336E,Xavier Salcedo Villanueva,E
+16,F8243580A,Montserrat Saez Sabater,C
+17,Q4232915A,Antònia Colomer Blanca,B
+18,W9833166C,Leo Èric Ibarra Castellanos,C
+19,U0476516J,Isabel Miró Arana,D
+20,F8773593B,David Sainz-Royo,F
+21,H59430249,Júlia Aramburu Delgado,A
+22,E20240735,Enzo de Garrido,C
+23,J0110698H,Antonio Rocamora Aragón,E
+24,S3945679C,Daniel Ródenas Lastra,A
+25,B57625451,Antonia Campoy Alcalde,C
+26,S1410175B,Lucas Frutos Andrés,D
+27,G13084090,Lucas Ocaña Huertas,E
+28,E50342690,Ana Anna Perea Bermúdez,E
+29,S2330516B,Arnau David Armas Carreño,D
+30,W4284402G,Mia Ona Tirado Herranz,C
+31,N2759694I,María Dolores Júlia Montenegro Ramón,F
+32,U5982724F,Jorge Manzano-Oliver,D
+33,D57672396,Chlóe Tomas Santamaria,D
+34,G44377703,Noa Mate Diego,C
+35,U7558214H,Núria Alegre-Roma,E
+36,R8192469H,Enzo Escalona Morales,F
+37,W2486654C,Sofía Abril Caro Rocamora,D
+38,U7611560I,Álex Navas Granados,C
+39,P9348817I,Antonio Amo Castañeda,C
+40,C94387792,Paula Rosa Perea,A
+41,S0662896J,Álex Julián Cervantes,C
+42,N6720616I,Cristina Coll Marín,A
+43,F7093027F,Bruno Valderrama-Gutierrez,F
+44,C33342999,Anna Avilés-Palomar,D
+45,S8641797I,Aina Pi Trujillo,A
+46,W9727961F,Albert Cerdán Chamorro,F
+47,J0110698H,Antonio Rocamora Aragón,F
+48,G26937243,Josefa Moll Piñeiro,F
+49,W9727961F,Albert Cerdán Chamorro,C
+50,E73982548,Júlia Palomino Company,D
+51,C48788897,Clàudia Manzanares Angulo,B
+52,N5426927I,Aleix Cervera Alfaro,C
+53,G68200534,Martina Cano Pineda,F
+54,R5336309I,Rosa Torralba Rozas,A
+55,P6887458E,Nil del Morillo,F
+56,W1247153H,Martina Nuñez Estevez,C
+57,N9805030E,Laia Real Sanmartín,F
+58,S7995912H,Josefa Laura Llorens Villanueva,F
+59,H23653579,Manuel David Rosado Acero,D
+60,Q7832857B,Valèria Sánchez,A
+61,N5426927I,Aleix Cervera Alfaro,B
+62,G90306762,Èric Blázquez Gil,B
+63,J2410709F,Júlia Montenegro Muro,C
+64,N2518597F,Noa de Grande,F
+65,C78976982,Pau del Avilés,B
+66,G26285767,Hugo del Núñez,F
+67,S1898085D,Biel Vazquez Valverde,C
+68,C87660817,María Dolores Romeu-Bastida,D
+69,A71678262,Francisco Sanmartín,E
+70,U3073814J,Jordi Carretero-Sáez,D
+71,N6720616I,Cristina Coll Marín,A
+72,G79531372,Laia Seguí,F
+73,C75059956,Jorge Baena,C
+74,F8773593B,David Sainz-Royo,B
+75,B41571647,Mia Escudero Galan,A
+76,B64747389,Èric Roman Mena,A
+77,S8037889F,Arlet Torre Ponce,F
+78,B22399109,Clàudia Valdés Jover,E
+79,U4212659I,Xavier Vicente Meléndez,A
+80,A28346542,Martina Fuentes-Moll,D
+81,W4699949F,Mia Catalán Barros,F
+82,P2473520A,Sílvia Carnero Bas,E
+83,W8922173C,Álex Amo Alcalá,F
+84,B11913498,Pedro Ricart Cantón,D
+85,A94992674,Nil del Roselló,A
+86,D51426096,Paula de Cantero,D
+87,A09069840,Leo Abellán,F
+88,B31484074,Jordi Cuenca Blanes,E
+89,F1014977A,Pedro Murcia-Valbuena,B
+90,D43493675,Èric Marin Comas,A
+91,S3989833C,Aleix Jove Cantero,D
+92,J8835130I,Carmen Salas Verdejo,A
+93,C47311329,Sofía Guzman Villar,E
+94,G56742331,Max Llano Bertrán,E
+95,D86117876,Enzo Gimeno Carnero,A
+96,A84080670,Joan de Olmedo,C
+97,G99523896,Pau Ros Pallarès,A
+98,P6345075C,Enzo Pera Arias,F
+99,N8496367G,Ona de Torrens,F
+100,F9589350I,Daniel Laguna,C
+101,R5672939E,Cristina Laia Bonilla Alvarado,E
+102,P2473520A,Sílvia Carnero Bas,F
+103,Q3854328F,Lucia Sílvia Méndez Uría,E
+104,U5487419C,Pol Nil Barbero Olivera,C
+105,J3659481J,Clàudia Sancho Aragón,A
+106,D14737068,Paula Villalba Alcázar,D
+107,D05154323,Paula Tomás Bello,D
+108,Q6050189G,María Ordóñez Llamas,D
+109,G07621824,Sara Ángel Nieto,A
+110,C06753156,Lucas Paniagua Llano,B
+111,W9833166C,Leo Èric Ibarra Castellanos,B
+112,N0515267C,Noa Ochoa Bartolomé,D
+113,U7141532G,Pau Talavera Moliner,C
+114,N3777084I,Pau Herranz Artigas,B
+115,D94996444,Núria Miguel Huertas,C
+116,J9446526G,Marta Águila Cervantes,C
+117,Q0041000A,David Chaves Cantero,C
+118,F4210663C,Dolores Trujillo Estévez,E
+119,B55324438,Antònia Elorza Requena,F
+120,A51927812,Lucas Jordi Rodriguez Lobo,F
+121,C48788897,Clàudia Manzanares Angulo,D
+122,N8243349A,Paula Sáez Ripoll,F
+123,C87660817,María Dolores Romeu-Bastida,F
+124,J5950441E,Chlóe del Villalba,B
+125,D57672396,Chlóe Tomas Santamaria,F
+126,C75059956,Jorge Baena,F
+127,J6049614H,Júlia Sevillano Palomar,A
+128,P6353735A,Rosa del Neira,F
+129,E23616857,Marc Luz Casas,D
+130,N4056672A,Carmen Emma Iñiguez Azcona,B
+131,D62147475,Josep Blázquez,C
+132,G56742331,Max Llano Bertrán,E
+133,U9908499H,Laura de Villegas,D
+134,C78976982,Pau del Avilés,D
+135,R4624337D,Anna del Otero,A
+136,G73658932,Laura Bilbao Sala,D
+137,D05154323,Paula Tomás Bello,A
+138,B31484074,Jordi Cuenca Blanes,C
+139,N2795608E,Èric de Bustamante,C
+140,U9908499H,Laura de Villegas,C
+141,H34827741,David Olivares-Julián,C
+142,W9218380E,Pol del Sanjuan,A
+143,G89205264,Montserrat Carla Lobato Salamanca,A
+144,Q2116390B,Francisca Marta Arias Ferrero,D
+145,N0515267C,Noa Ochoa Bartolomé,F
+146,N8631109I,Francisca Martina Rodríguez Hoyos,F
+147,A04422861,Francisca Rubio Paredes,D
+148,H47198551,Marta Goicoechea Mercader,D
+149,H48271738,Laia Oliveras Puente,D
+150,E65877607,Antonia Carlos Valderrama,A
+151,E50536853,Max Aragonés Cabello,D
+152,G61008355,Arlet Lladó Diego,D
+153,S0662896J,Álex Julián Cervantes,B
+154,J9643335D,Juan Maldonado Mayol,C
+155,J9446526G,Marta Águila Cervantes,E
+156,H31037914,Laura Llorente Olivares,A
+157,D18702910,Marc Villar Nicolás,C
+158,U0476516J,Isabel Miró Arana,A
+159,U7611560I,Álex Navas Granados,B
+160,U7558214H,Núria Alegre-Roma,C
+161,B88818059,Martina María Carreño Villaverde,B
+162,G08270886,José María de Galvez,F
+163,G99523896,Pau Ros Pallarès,B
+164,C56963325,Abril Díez,F
+165,N2423224A,Biel de Guitart,D
+166,C78976982,Pau del Avilés,C
+167,A53234324,Marc Navas Bermúdez,B
+168,G65300782,Juan Rodrigo-Mercader,C
+169,D89560940,Xavier de Ribes,D
+170,C94387792,Paula Rosa Perea,E
+171,E50536853,Max Aragonés Cabello,C
+172,C80754989,Ana Lucia Montoya Requena,C
+173,E56877343,Martí Iglesias Espejo,D
+174,H04319513,Lucia Castells Huerta,D
+175,Q7186100I,Èric Cifuentes,F
+176,S0085490A,Ona Salvà Pizarro,E
+177,F2328450H,Pol Bosch Sanabria,B
+178,D64321540,María Dolores del Boada,F
+179,D14737068,Paula Villalba Alcázar,C
+180,P2617169D,Cristina Yáñez Girón,F
+181,W0083928B,Sara Gil Jordán,A
+182,G71220651,Júlia Gras Porta,D
+183,N8243349A,Paula Sáez Ripoll,D
+184,S3651419H,Enzo Carnero-Aliaga,B
+185,C78976982,Pau del Avilés,E
+186,U9908499H,Laura de Villegas,B
+187,B41571647,Mia Escudero Galan,B
+188,Q0552283D,Clàudia Verdú-Montalbán,A
+189,C80754989,Ana Lucia Montoya Requena,D
+190,U7558214H,Núria Alegre-Roma,F
+191,B64747389,Èric Roman Mena,E
+192,F0005249H,Arnau Huguet Chaparro,B
+193,P5810009J,Ramón Donoso Aguilar,E
+194,G96947643,María Del Carmen Esparza Godoy,B
+195,B41571647,Mia Escudero Galan,C
+196,H59430249,Júlia Aramburu Delgado,D
+197,P8832380C,María Dolores Luz-Pera,C
+198,H02560167,Enzo Quesada,B
+199,W8974025B,Dolores Mayol Cabrero,B
+200,P6057674A,María Del Carmen Valèria Raya Mena,A
+201,V8982148B,Carlos Carlos Espejo,D
+202,Q4287906D,José Pou Cobo,A
+203,P2473520A,Sílvia Carnero Bas,E
+204,W4799866A,Manuel Cózar Albero,D
+205,Q5328944C,Xavier Carrillo Iglesia,C
+206,G26285767,Hugo del Núñez,C
+207,R6463216I,Ona Ona Roma Prieto,A
+208,A84080670,Joan de Olmedo,E
+209,W4345678I,Leo Franco Nieto,E
+210,A94992674,Nil del Roselló,D
+211,P3531278D,Èric de Agustí,C
+212,F8243580A,Montserrat Saez Sabater,C
+213,J8863857B,Rosa Alberola Coll,F
+214,B37939139,Josep Casanovas Vázquez,D
+215,W4359932C,Dolores del Miguel,E
+216,S7995912H,Josefa Laura Llorens Villanueva,C
+217,V3380673H,Enzo Alberdi Sainz,B
+218,G73658932,Laura Bilbao Sala,F
+219,G73658932,Laura Bilbao Sala,F
+220,F6441455J,Carla Hernández Estrada,C
+221,Q9766397E,Francisco de Cabezas,E
+222,D78897097,Núria Verdejo Arteaga,A
+223,P1659317J,Hugo Castrillo Otero,F
+224,J9967593F,Nil Patiño-Perea,A
+225,Q3443120E,Emma Aina Fábregas Moll,B
+226,B82071457,Noa Coello Mendoza,D
+227,N0515267C,Noa Ochoa Bartolomé,F
+228,B37939139,Josep Casanovas Vázquez,D
+229,P5810009J,Ramón Donoso Aguilar,E
+230,A04422861,Francisca Rubio Paredes,F
+231,W4359932C,Dolores del Miguel,A
+232,V2447244A,Jordi Vilar Fortuny,B
+233,Q0041000A,David Chaves Cantero,F
+234,S7366447F,Carlos Crespi Perales,B
+235,S8651023G,Adam Pombo Palomo,E
+236,P7187021F,Antònia Paula Juliá Jaén,F
+237,N2518597F,Noa de Grande,F
+238,P0078682B,María Del Carmen del Belda,F
+239,F5675046F,José Carballo Gutierrez,D
+240,J2907838C,Carmen Marta Cruz Carpio,B
+241,W9218380E,Pol del Sanjuan,E
+242,Q4232915A,Antònia Colomer Blanca,D
+243,W1247153H,Martina Nuñez Estevez,B
+244,Q2116390B,Francisca Marta Arias Ferrero,E
+245,H70835210,Joan de Cañas,D
+246,S0085490A,Ona Salvà Pizarro,E
+247,F2776503A,Francisca Ureña,F
+248,R5336309I,Rosa Torralba Rozas,C
+249,C49543051,Pau Caro Gallego,E
+250,H60091485,Sofía Collado Botella,F
+251,H78024064,Max Quintana-Morales,C
+252,E55193205,Laia Boix Montenegro,E
+253,G65300782,Juan Rodrigo-Mercader,D
+254,W4284402G,Mia Ona Tirado Herranz,E
+255,G65300782,Juan Rodrigo-Mercader,E
+256,W4359932C,Dolores del Miguel,A
+257,B52401858,José Buendía-Sarabia,F
+258,H78024064,Max Quintana-Morales,E
+259,E96573001,Sara Gárate Nuñez,F
+260,C06753156,Lucas Paniagua Llano,B
+261,P9008815D,Xavier Robledo Arroyo,A
+262,P2473520A,Sílvia Carnero Bas,D
+263,D98780919,María Teresa Aznar-Perez,C
+264,N5111030B,Carlos Ramírez Benavent,B
+265,E73982548,Júlia Palomino Company,C
+266,U4804259B,Max Goñi Dávila,F
+267,C28777001,Ana Vidal Lamas,E
+268,N2845937H,Montserrat Manzanares-Herrero,F
+269,G07621824,Sara Ángel Nieto,A
+270,Q0552283D,Clàudia Verdú-Montalbán,D
+271,N2759694I,María Dolores Júlia Montenegro Ramón,A
+272,J5155116F,Júlia Abellán-Pou,E
+273,G24609380,Júlia Miralles-Boada,E
+274,W1796907B,Mia Abellán Pulido,E
+275,E99188005,Biel Alcalde Samper,B
+276,C14434534,María Teresa del Villalonga,A
+277,A09069840,Leo Abellán,F
+278,A13684352,Leo Adam Saavedra Verdejo,D
+279,N7359672H,Daniel Bartolomé Vilar,E
+280,D78897097,Núria Verdejo Arteaga,F
+281,J2410709F,Júlia Montenegro Muro,B
+282,N3504030B,Antònia Marquez Rebollo,F
+283,E25161068,Marta Oliver Alfaro,D
+284,N6853244I,Bruno del Canales,A
+285,H70835210,Joan de Cañas,F
+286,D77234466,Enzo Albert Roselló Castejón,F
+287,C56963325,Abril Díez,B
+288,G71220651,Júlia Gras Porta,B
+289,W4699949F,Mia Catalán Barros,D
+290,R5336309I,Rosa Torralba Rozas,E
+291,C28142149,Aleix Moya Collado,F
+292,V4055410G,Clàudia Lobo,C
+293,A42249482,Marta del Bernat,E
+294,D05154323,Paula Tomás Bello,A
+295,S8641797I,Aina Pi Trujillo,D
+296,S6417982C,Arnau Gonzalo-Barrios,E
+297,P6579449G,Laura Manjón Barón,B
+298,C99290520,Antònia Baró-Elías,F
+299,P3012798I,Hugo Rueda,E
+300,H23073786,Anna Armas Moles,F
+301,A09069840,Leo Abellán,A
+302,R5336309I,Rosa Torralba Rozas,C
+303,H78024064,Max Quintana-Morales,F
+304,H45996352,Antonia Canals Coloma,A
+305,Q0041000A,David Chaves Cantero,B
+306,C12466413,Laia Lucia Heras Bermejo,A
+307,B43465343,Hugo Alberto Girón,E
+308,Q7186100I,Èric Cifuentes,A
+309,P7256844G,Mia Giménez Carlos,E
+310,G24609380,Júlia Miralles-Boada,B
+311,P1659317J,Hugo Castrillo Otero,C
+312,G08270886,José María de Galvez,E
+313,J6049614H,Júlia Sevillano Palomar,D
+314,N7090594H,Chlóe Plana Echevarría,D
+315,Q7186100I,Èric Cifuentes,B
+316,J8918438F,Francisco Roldan,F
+317,N6468272G,Joan Ortuño Segura,A
+318,J1443172J,Pau Javier Lara Tur,A
+319,Q5328944C,Xavier Carrillo Iglesia,E
+320,C06753156,Lucas Paniagua Llano,C
+321,V8982148B,Carlos Carlos Espejo,D
+322,U0533919G,Carla Pi Falcó,C
+323,N5426927I,Aleix Cervera Alfaro,A
+324,N2423224A,Biel de Guitart,C
+325,J1443172J,Pau Javier Lara Tur,B
+326,B48122808,Sara Jaume Lobo,F
+327,D64321540,María Dolores del Boada,C
+328,G54830989,Sofía Mateo Alemany,A
+329,H75562959,Bruno Lozano Galan,F
+330,G61008355,Arlet Lladó Diego,A
+331,P2302883J,Èric Font Vargas,D
+332,A94992674,Nil del Roselló,D
+333,R1153706E,Carlos Capdevila,F
+334,C28777001,Ana Vidal Lamas,C
+335,C06753156,Lucas Paniagua Llano,D
+336,U4212659I,Xavier Vicente Meléndez,D
+337,Q7554170F,José María Cuenca-Pera,C
+338,B27774157,Jordi Revilla,D
+339,J9643335D,Juan Maldonado Mayol,A
+340,V7809521C,Antònia Anna Saez Belda,B
+341,H70835210,Joan de Cañas,A
+342,C28777001,Ana Vidal Lamas,E
+343,S8651023G,Adam Pombo Palomo,B
+344,C81417628,Núria Martín,E
+345,F9340007E,Chlóe Moliner,C
+346,G36745990,Marc Blanco Valderrama,B
+347,C12466413,Laia Lucia Heras Bermejo,A
+348,Q9514578E,Anna Benítez Rovira,B
+349,G26937243,Josefa Moll Piñeiro,C
+350,F4119576I,Carlos Mayoral Cervantes,A
+351,C95560819,Biel Hierro Salom,A
+352,F5675046F,José Carballo Gutierrez,B
+353,N2845937H,Montserrat Manzanares-Herrero,A
+354,C75059956,Jorge Baena,C
+355,E85913895,Álex Juliá Cantón,A
+356,S8355279D,Antonia Bermejo Bayo,A
+357,G89205264,Montserrat Carla Lobato Salamanca,C
+358,P0078682B,María Del Carmen del Belda,D
+359,C17131251,Lucia Uribe,A
+360,Q7967239J,Paula Agustín Gimeno,F
+361,P0280894G,Leo Gaya Laguna,C
+362,R4624337D,Anna del Otero,F
+363,J7285606E,Emma Pallarès-Colom,A
+364,U0847812E,Abril Andres Herrera,E
+365,S9346078J,Francisco Pareja Peinado,D
+366,H36110567,Laia Castell Llobet,C
+367,D43493675,Èric Marin Comas,E
+368,P7855416I,Leo Bustamante Zapata,D
+369,G90306762,Èric Blázquez Gil,B
+370,A90436353,Júlia Saura-Colomer,C
+371,H31037914,Laura Llorente Olivares,A
+372,Q4232915A,Antònia Colomer Blanca,F
+373,G07621824,Sara Ángel Nieto,C
+374,B88818059,Martina María Carreño Villaverde,D
+375,A09069840,Leo Abellán,A
+376,N2759694I,María Dolores Júlia Montenegro Ramón,A
+377,U7038519J,Ana Cortina Rubio,C
+378,R1153706E,Carlos Capdevila,B
+379,E50536853,Max Aragonés Cabello,F
+380,S3409072J,Adam del Lara,C
+381,V4046368I,María Dolores Mendez Sebastián,C
+382,F8971698I,Ramón Rozas Baró,E
+383,F9340007E,Chlóe Moliner,F
+384,H42115923,Clàudia Perea Bermudez,E
+385,R4624337D,Anna del Otero,A
+386,G07621824,Sara Ángel Nieto,F
+387,H73279598,Jordi Manrique Verdugo,B
+388,H04319513,Lucia Castells Huerta,D
+389,A51927812,Lucas Jordi Rodriguez Lobo,F
+390,C26701623,Arnau Bertrán Aragón,F
+391,W8604747I,Lucia Ribas Dalmau,F
+392,U3398151E,Lucia Rincón Rosales,D
+393,U1774374A,Martina Solano Roma,E
+394,C17131251,Lucia Uribe,D
+395,W5008386D,Laura Montes Céspedes,C
+396,H49305378,Antonio Sanjuan Belda,B
+397,U7308622E,Mia Palomares-Torrijos,F
+398,U8112016D,Joan Villalobos Carnero,B
+399,D96545363,Jorge Adam Conesa Nevado,F
+400,R8192469H,Enzo Escalona Morales,E
+401,Q4232915A,Antònia Colomer Blanca,F
+402,F8773593B,David Sainz-Royo,F
+403,H13226295,Pau Rosado Palomar,B
+404,H60091485,Sofía Collado Botella,C
+405,C40980427,Nil Adam Leon Jaén,E
+406,E73982548,Júlia Palomino Company,D
+407,Q7554170F,José María Cuenca-Pera,D
+408,G96947643,María Del Carmen Esparza Godoy,A
+409,J5950441E,Chlóe del Villalba,D
+410,Q7186100I,Èric Cifuentes,F
+411,P3351363A,María Dolores Montesinos Marin,D
+412,G96947643,María Del Carmen Esparza Godoy,B
+413,G76937929,María Dolores Sofía Salvador Teruel,A
+414,S5329165D,Hugo Sanz Amat,A
+415,Q2116390B,Francisca Marta Arias Ferrero,A
+416,G44377703,Noa Mate Diego,F
+417,H48271738,Laia Oliveras Puente,B
+418,H59430249,Júlia Aramburu Delgado,A
+419,A84080670,Joan de Olmedo,B
+420,F7513084I,Martí Rocamora Bilbao,B
+421,A84080670,Joan de Olmedo,F
+422,B48122808,Sara Jaume Lobo,D
+423,S0085490A,Ona Salvà Pizarro,B
+424,C78976982,Pau del Avilés,C
+425,P2199273J,Enzo de Osorio,E
+426,G90306762,Èric Blázquez Gil,E
+427,V2738762J,Bruno Adam Bonet Pulido,F
+428,H31037914,Laura Llorente Olivares,C
+429,S9346078J,Francisco Pareja Peinado,B
+430,R6463216I,Ona Ona Roma Prieto,A
+431,N7359672H,Daniel Bartolomé Vilar,D
+432,N9624314B,Júlia Vera-Bueno,A
+433,E20240735,Enzo de Garrido,C
+434,P2302883J,Èric Font Vargas,A
+435,Q0552283D,Clàudia Verdú-Montalbán,E
+436,S8037889F,Arlet Torre Ponce,C
+437,C27618396,Rosa Mariño,B
+438,D43493675,Èric Marin Comas,B
+439,F7093027F,Bruno Valderrama-Gutierrez,E
+440,C78976982,Pau del Avilés,D
+441,C06753156,Lucas Paniagua Llano,D
+442,D05154323,Paula Tomás Bello,E
+443,D33698531,Aina Ferrán-Dávila,F
+444,E55193205,Laia Boix Montenegro,B
+445,E25161068,Marta Oliver Alfaro,F
+446,R7687550I,Juan Pozuelo Vila,B
+447,B22399109,Clàudia Valdés Jover,A
+448,H46432969,Antònia Noa Pedrero Diéguez,F
+449,N6209101B,Francisco Dueñas,A
+450,H23073786,Anna Armas Moles,D
+451,V4258212B,Marc Dominguez Barberá,D
+452,S5329165D,Hugo Sanz Amat,A
+453,F5675046F,José Carballo Gutierrez,E
+454,A94611183,Antònia Frías Macías,E
+455,N3380714J,Clàudia Espejo Benitez,F
+456,V7809521C,Antònia Anna Saez Belda,E
+457,G29421625,Isabel Aramburu Baquero,B
+458,F8100344D,Abril Macías Guardiola,A
+459,B11913498,Pedro Ricart Cantón,D
+460,F8025276J,Carla Ribas Ariño,A
+461,J3353939F,Isabel Varela,E
+462,P4346331D,Bruno Joan Fernandez Rozas,C
+463,E73982548,Júlia Palomino Company,C
+464,V2015246H,Martí Agullo-Campos,A
+465,E48027734,Francisco Arnau Calderón Ángel,B
+466,J4450361C,Júlia Cano Amorós,B
+467,D65605370,Martina Velasco Soriano,A
+468,G71220651,Júlia Gras Porta,E
+469,B48122808,Sara Jaume Lobo,E
+470,E01391861,José Pi Alvarez,D
+471,Q5285042G,Manuel Galiano Teruel,C
+472,A51927812,Lucas Jordi Rodriguez Lobo,A
+473,B80106230,Martina Barberá Cabrero,F
+474,Q7967239J,Paula Agustín Gimeno,E
+475,N3184593F,Antonio Peralta Angulo,F
+476,S0085490A,Ona Salvà Pizarro,D
+477,G68200534,Martina Cano Pineda,F
+478,A35443936,Pol Salgado Buendía,D
+479,V8231148A,Ona de Arjona,A
+480,Q0552283D,Clàudia Verdú-Montalbán,C
+481,E99188005,Biel Alcalde Samper,F
+482,V4665297J,Juan Cruz Pallarès,A
+483,N3620309I,Dolores Gelabert,C
+484,P2473520A,Sílvia Carnero Bas,F
+485,G08809550,Biel Alberto Berrocal,A
+486,Q6050189G,María Ordóñez Llamas,E
+487,P1659317J,Hugo Castrillo Otero,D
+488,B43465343,Hugo Alberto Girón,F
+489,N9882065G,Francisca Luís Aller,F
+490,J2907838C,Carmen Marta Cruz Carpio,F
+491,N8152756F,Laia Batalla-Villalba,B
+492,W4699949F,Mia Catalán Barros,A
+493,S8355279D,Antonia Bermejo Bayo,B
+494,D07727019,Álex Hervia Vazquez,C
+495,P6057674A,María Del Carmen Valèria Raya Mena,B
+496,P5810009J,Ramón Donoso Aguilar,B
+497,S1410175B,Lucas Frutos Andrés,B
+498,W9727961F,Albert Cerdán Chamorro,E
+499,G29421625,Isabel Aramburu Baquero,F
+500,C40980427,Nil Adam Leon Jaén,C
+501,F8773593B,David Sainz-Royo,E
+502,N9805030E,Laia Real Sanmartín,C
+503,B43837079,Laura Marquez Izquierdo,F
+504,H70835210,Joan de Cañas,D
+505,J6049614H,Júlia Sevillano Palomar,E
+506,U5982724F,Jorge Manzano-Oliver,F
+507,P3798114I,Ana de Larrea,D
+508,G52644184,Martí Enzo Pujadas Pedrero,B
+509,J3512655F,Enzo Escolano Sanmiguel,B
+510,R8469182C,Nil Marc Blanco Barroso,F
+511,J6049614H,Júlia Sevillano Palomar,D
+512,D05154323,Paula Tomás Bello,B
+513,S1410175B,Lucas Frutos Andrés,D
+514,H19110485,María de Villena,A
+515,H19110485,María de Villena,E
+516,G71220651,Júlia Gras Porta,B
+517,N7185603C,Arlet Chaves Roldan,F
+518,N4056672A,Carmen Emma Iñiguez Azcona,C
+519,S1471928J,Carla Ferrán Tenorio,A
+520,G36745990,Marc Blanco Valderrama,A
+521,Q0041000A,David Chaves Cantero,A
+522,C04838918,Valèria Urrutia Cal,D
+523,G26937243,Josefa Moll Piñeiro,E
+524,D05154323,Paula Tomás Bello,C
+525,F5675046F,José Carballo Gutierrez,F
+526,G45806411,Hugo Torres Iborra,F
+527,H65400632,Abril Cáceres Manjón,B
+528,S0085490A,Ona Salvà Pizarro,C
+529,Q4232915A,Antònia Colomer Blanca,D
+530,R4624337D,Anna del Otero,C
+531,N9318716I,Pedro Valderrama Marí,F
+532,Q7967239J,Paula Agustín Gimeno,F
+533,W9727961F,Albert Cerdán Chamorro,D
+534,R5656344H,Carla Linares Escolano,C
+535,G92617570,Carmen del Martín,F
+536,F1405226J,Adam Abella Valle,E
+537,S0397959H,María Dolores Arroyo Saez,B
+538,G92617570,Carmen del Martín,E
+539,U7308622E,Mia Palomares-Torrijos,F
+540,E96573001,Sara Gárate Nuñez,F
+541,J4450361C,Júlia Cano Amorós,C
+542,F6441455J,Carla Hernández Estrada,F
+543,F2431907A,Sílvia Pino Torrent,B
+544,E48027734,Francisco Arnau Calderón Ángel,D
+545,N5762693I,Josep Ramírez,E
+546,S7366447F,Carlos Crespi Perales,C
+547,C40980427,Nil Adam Leon Jaén,F
+548,H59430249,Júlia Aramburu Delgado,A
+549,W1247153H,Martina Nuñez Estevez,C
+550,D64321540,María Dolores del Boada,B
+551,S1410175B,Lucas Frutos Andrés,C
+552,C56963325,Abril Díez,B
+553,B52401858,José Buendía-Sarabia,C
+554,P0280894G,Leo Gaya Laguna,E
+555,W9218380E,Pol del Sanjuan,B
+556,E99188005,Biel Alcalde Samper,C
+557,P3531278D,Èric de Agustí,A
+558,Q5177739I,Josefa de Muro,B
+559,H44219327,David de Carretero,F
+560,G65300782,Juan Rodrigo-Mercader,D
+561,N0515267C,Noa Ochoa Bartolomé,F
+562,F6017604G,Biel Sedano Oliveras,A
+563,U1774374A,Martina Solano Roma,D
+564,C70021340,Arnau Álex Villanueva Ojeda,C
+565,B19312776,Aleix Doménech Pombo,C
+566,B21983689,Josep de Ibarra,D
+567,N3184593F,Antonio Peralta Angulo,E
+568,G07621824,Sara Ángel Nieto,F
+569,V2665575C,Xavier Collado Domínguez,F
+570,V7809521C,Antònia Anna Saez Belda,E
+571,Q9771076H,Valèria Tomas Ramírez,F
+572,W7861640F,Aleix de Fiol,A
+573,H73279598,Jordi Manrique Verdugo,A
+574,P7917625A,Joan Ferrera Canals,E
+575,H64288004,Abril Samper Ibáñez,C
+576,S8037889F,Arlet Torre Ponce,A
+577,P6887458E,Nil del Morillo,B
+578,W9218380E,Pol del Sanjuan,C
+579,D03554946,Joan Azcona,D
+580,D62147475,Josep Blázquez,F
+581,P7187021F,Antònia Paula Juliá Jaén,D
+582,N8243349A,Paula Sáez Ripoll,D
+583,C97387187,Sara de Jover,B
+584,F8773593B,David Sainz-Royo,A
+585,P0546131D,José María Bru Cuesta,A
+586,E63638506,Bruno Andreu-Andrade,D
+587,Q0552283D,Clàudia Verdú-Montalbán,E
+588,F6804250F,María Dolores Ferrández Colom,D
+589,J2410709F,Júlia Montenegro Muro,E
+590,A42249482,Marta del Bernat,D
+591,S7995912H,Josefa Laura Llorens Villanueva,E
+592,R5715872G,Emma de Almagro,B
+593,V7809521C,Antònia Anna Saez Belda,E
+594,J1443172J,Pau Javier Lara Tur,E
+595,B27774157,Jordi Revilla,F
+596,V8982148B,Carlos Carlos Espejo,C
+597,N3504030B,Antònia Marquez Rebollo,C
+598,N3620309I,Dolores Gelabert,F
+599,A94611183,Antònia Frías Macías,E
+600,B82071457,Noa Coello Mendoza,F
+601,N4218554F,Francisco Sanz Perea,D
+602,P7917625A,Joan Ferrera Canals,F
+603,H42115923,Clàudia Perea Bermudez,D
+604,H03012952,Mia Méndez Ribes,B
+605,Q5177739I,Josefa de Muro,F
+606,B11913498,Pedro Ricart Cantón,F
+607,Q4232915A,Antònia Colomer Blanca,A
+608,P6887458E,Nil del Morillo,C
+609,R1233513I,Cristina Fábregas Domingo,A
+610,H59430249,Júlia Aramburu Delgado,A
+611,G45806411,Hugo Torres Iborra,D
+612,B82071457,Noa Coello Mendoza,A
+613,S3651419H,Enzo Carnero-Aliaga,F
+614,V2665575C,Xavier Collado Domínguez,B
+615,C78976982,Pau del Avilés,A
+616,R5336309I,Rosa Torralba Rozas,D
+617,G99523896,Pau Ros Pallarès,B
+618,H23653579,Manuel David Rosado Acero,B
+619,B95922167,Miguel Prieto Ribera,A
+620,C94387792,Paula Rosa Perea,B
+621,H31037914,Laura Llorente Olivares,D
+622,R5672939E,Cristina Laia Bonilla Alvarado,A
+623,N9318716I,Pedro Valderrama Marí,D
+624,F8773593B,David Sainz-Royo,E
+625,N1790348E,Arlet Huguet Coloma,D
+626,V2447244A,Jordi Vilar Fortuny,B
+627,H45996352,Antonia Canals Coloma,D
+628,H65400632,Abril Cáceres Manjón,F
+629,J7904048A,Èric Portillo Ferrera,D
+630,H37157526,Arlet Sala Narváez,E
+631,J7397889B,Montserrat Cánovas,A
+632,S1471928J,Carla Ferrán Tenorio,D
+633,E65877607,Antonia Carlos Valderrama,F
+634,P3531278D,Èric de Agustí,F
+635,B60410958,Pol Cáceres,B
+636,J3353939F,Isabel Varela,D
+637,D10065217,Xavier Bárcena Castillo,C
+638,E65877607,Antonia Carlos Valderrama,E
+639,F8025276J,Carla Ribas Ariño,D
+640,H75562959,Bruno Lozano Galan,B
+641,Q5177739I,Josefa de Muro,F
+642,C27618396,Rosa Mariño,D
+643,H75562959,Bruno Lozano Galan,E
+644,W4345678I,Leo Franco Nieto,B
+645,R8469182C,Nil Marc Blanco Barroso,C
+646,W9727961F,Albert Cerdán Chamorro,E
+647,P3012798I,Hugo Rueda,D
+648,H48271738,Laia Oliveras Puente,D
+649,B41571647,Mia Escudero Galan,E
+650,C78976982,Pau del Avilés,E
+651,F9589350I,Daniel Laguna,B
+652,A71678262,Francisco Sanmartín,E
+653,R5715872G,Emma de Almagro,F
+654,J9967593F,Nil Patiño-Perea,A
+655,W4284402G,Mia Ona Tirado Herranz,B
+656,Q7967239J,Paula Agustín Gimeno,A
+657,S3989833C,Aleix Jove Cantero,F
+658,N1790348E,Arlet Huguet Coloma,D
+659,G76937929,María Dolores Sofía Salvador Teruel,F
+660,S9149045H,Pedro de Pellicer,D
+661,B90285073,Lucia de Ballester,F
+662,S6417982C,Arnau Gonzalo-Barrios,F
+663,E85913895,Álex Juliá Cantón,F
+664,E63659452,Joan Sales,F
+665,P6713486F,Cristina Tomas Salvà,A
+666,H37157526,Arlet Sala Narváez,B
+667,P6887458E,Nil del Morillo,D
+668,P3771212B,Josep de Martí,C
+669,P2199273J,Enzo de Osorio,E
+670,S0085490A,Ona Salvà Pizarro,A
+671,P6579449G,Laura Manjón Barón,A
+672,J3353939F,Isabel Varela,F
+673,J8835130I,Carmen Salas Verdejo,A
+674,D32512451,Albert Viña Gallardo,A
+675,S0662896J,Álex Julián Cervantes,B
+676,F0005249H,Arnau Huguet Chaparro,F
+677,N6720616I,Cristina Coll Marín,B
+678,W9218380E,Pol del Sanjuan,E
+679,B37939139,Josep Casanovas Vázquez,C
+680,W1247153H,Martina Nuñez Estevez,A
+681,H36269512,Antonia Cuevas,B
+682,C87660817,María Dolores Romeu-Bastida,B
+683,E99188005,Biel Alcalde Samper,A
+684,A84080670,Joan de Olmedo,F
+685,H59430249,Júlia Aramburu Delgado,A
+686,S5329165D,Hugo Sanz Amat,B
+687,E65793119,Enzo Leiva-Sainz,A
+688,R4624337D,Anna del Otero,C
+689,G71220651,Júlia Gras Porta,F
+690,B90285073,Lucia de Ballester,C
+691,D51426096,Paula de Cantero,B
+692,H34184069,Bruno del Ojeda,B
+693,H31037914,Laura Llorente Olivares,E
+694,B41571647,Mia Escudero Galan,D
+695,N8631109I,Francisca Martina Rodríguez Hoyos,D
+696,P3012798I,Hugo Rueda,E
+697,A04422861,Francisca Rubio Paredes,A
+698,W1247153H,Martina Nuñez Estevez,F
+699,Q2116390B,Francisca Marta Arias Ferrero,B
+700,W5008386D,Laura Montes Céspedes,D
+701,F4119576I,Carlos Mayoral Cervantes,C
+702,H59430249,Júlia Aramburu Delgado,D
+703,G45806411,Hugo Torres Iborra,C
+704,N7090594H,Chlóe Plana Echevarría,C
+705,G13084090,Lucas Ocaña Huertas,C
+706,E88184023,Bruno Recio Cid,D
+707,Q7832857B,Valèria Sánchez,F
+708,S0727486C,Adam Aliaga Pons,A
+709,F8100344D,Abril Macías Guardiola,A
+710,H70835210,Joan de Cañas,F
+711,B22399109,Clàudia Valdés Jover,F
+712,U4804259B,Max Goñi Dávila,F
+713,A84080670,Joan de Olmedo,D
+714,D94996444,Núria Miguel Huertas,F
+715,D43493675,Èric Marin Comas,C
+716,E34862805,Rosa Porta,E
+717,N5426927I,Aleix Cervera Alfaro,C
+718,W9727961F,Albert Cerdán Chamorro,A
+719,B31484074,Jordi Cuenca Blanes,C
+720,J2387634E,Martí Antonio Nicolás Giner,A
+721,Q7010862F,Miguel Torrens Fernandez,D
+722,P3351363A,María Dolores Montesinos Marin,F
+723,N9805030E,Laia Real Sanmartín,A
+724,N2518597F,Noa de Grande,E
+725,S3409072J,Adam del Lara,C
+726,U9961248C,Pau Priego Paniagua,E
+727,E23616857,Marc Luz Casas,A
+728,S1017264A,Rosa Vigil,C
+729,J8918438F,Francisco Roldan,E
+730,U7141532G,Pau Talavera Moliner,B
+731,Q0041000A,David Chaves Cantero,A
+732,H19110485,María de Villena,A
+733,B57625451,Antonia Campoy Alcalde,C
+734,W4699949F,Mia Catalán Barros,D
+735,D57989162,Noa Carnero Cortés,B
+736,V8231148A,Ona de Arjona,B
+737,F8773593B,David Sainz-Royo,C
+738,D57672396,Chlóe Tomas Santamaria,A
+739,Q7010862F,Miguel Torrens Fernandez,D
+740,N2845937H,Montserrat Manzanares-Herrero,D
+741,P3410537I,Martí Paredes,A
+742,G37728771,Noa Gallego Martin,A
+743,S9149045H,Pedro de Pellicer,A
+744,J3751394B,Josep Ramón Palomar Múgica,A
+745,Q9766397E,Francisco de Cabezas,D
+746,H03012952,Mia Méndez Ribes,C
+747,A94992674,Nil del Roselló,B
+748,H64502842,Pau Valencia Martinez,B
+749,E48027734,Francisco Arnau Calderón Ángel,A
+750,U0533919G,Carla Pi Falcó,B
+751,V2447244A,Jordi Vilar Fortuny,B
+752,P5728622A,Daniel Castillo Hurtado,A
+753,S7366447F,Carlos Crespi Perales,E
+754,A62916705,Cristina Leiva Quevedo,B
+755,J5466519E,Arnau Lerma Catalá,E
+756,D10065217,Xavier Bárcena Castillo,E
+757,Q4579611G,Leo Verdú Sastre,B
+758,P2199273J,Enzo de Osorio,F
+759,N7359672H,Daniel Bartolomé Vilar,B
+760,W7861640F,Aleix de Fiol,F
+761,P6887458E,Nil del Morillo,D
+762,R4624337D,Anna del Otero,D
+763,H46432969,Antònia Noa Pedrero Diéguez,F
+764,A78168275,Montserrat Arrieta Baquero,E
+765,J5155116F,Júlia Abellán-Pou,F
+766,R3314974A,María Teresa Ona Ferrándiz Donoso,C
+767,Q4232915A,Antònia Colomer Blanca,E
+768,E50536853,Max Aragonés Cabello,C
+769,S9149045H,Pedro de Pellicer,D
+770,D07727019,Álex Hervia Vazquez,D
+771,H49305378,Antonio Sanjuan Belda,E
+772,R3314974A,María Teresa Ona Ferrándiz Donoso,D
+773,C28777001,Ana Vidal Lamas,B
+774,N5426927I,Aleix Cervera Alfaro,F
+775,G68200534,Martina Cano Pineda,C
+776,C64875321,Pau del Bayón,B
+777,C26701623,Arnau Bertrán Aragón,D
+778,R3314974A,María Teresa Ona Ferrándiz Donoso,A
+779,H19110485,María de Villena,E
+780,E52404001,Josefa Uriarte,B
+781,Q0041000A,David Chaves Cantero,B
+782,D18702910,Marc Villar Nicolás,F
+783,S7366447F,Carlos Crespi Perales,A
+784,G26285767,Hugo del Núñez,A
+785,D57672396,Chlóe Tomas Santamaria,C
+786,H42115923,Clàudia Perea Bermudez,A
+787,P3410537I,Martí Paredes,E
+788,C52853389,Carla Leiva Pacheco,E
+789,Q7010862F,Miguel Torrens Fernandez,D
+790,N2423224A,Biel de Guitart,B
+791,E47464060,Francisco Palomares Ocaña,D
+792,J5155116F,Júlia Abellán-Pou,C
+793,U7141532G,Pau Talavera Moliner,A
+794,D64321540,María Dolores del Boada,E
+795,J1443172J,Pau Javier Lara Tur,B
+796,P2302883J,Èric Font Vargas,C
+797,G26285767,Hugo del Núñez,D
+798,B29905627,Pol Gómez Isern,C
+799,F0005249H,Arnau Huguet Chaparro,E
+800,S0662896J,Álex Julián Cervantes,E
+801,J3659481J,Clàudia Sancho Aragón,F
+802,G19357722,Núria Olmedo-Portero,D
+803,D03554946,Joan Azcona,B
+804,Q7832857B,Valèria Sánchez,B
+805,H64288004,Abril Samper Ibáñez,F
+806,F7093027F,Bruno Valderrama-Gutierrez,E
+807,P3351363A,María Dolores Montesinos Marin,B
+808,F9340007E,Chlóe Moliner,D
+809,J4450361C,Júlia Cano Amorós,A
+810,B27774157,Jordi Revilla,B
+811,Q2116390B,Francisca Marta Arias Ferrero,F
+812,A62916705,Cristina Leiva Quevedo,F
+813,N2518597F,Noa de Grande,C
+814,H46432969,Antònia Noa Pedrero Diéguez,D
+815,R7616148H,Carmen Jana Taboada Almansa,C
+816,U4578017H,Paula Canet Nuñez,C
+817,H42115923,Clàudia Perea Bermudez,E
+818,H46432969,Antònia Noa Pedrero Diéguez,C
+819,S3409072J,Adam del Lara,D
+820,D64321540,María Dolores del Boada,D
+821,D64321540,María Dolores del Boada,D
+822,S8355279D,Antonia Bermejo Bayo,D
+823,B60410958,Pol Cáceres,A
+824,V3380673H,Enzo Alberdi Sainz,D
+825,E47464060,Francisco Palomares Ocaña,D
+826,G07621824,Sara Ángel Nieto,F
+827,W9073176A,Èric Cortina Vazquez,E
+828,J3353939F,Isabel Varela,F
+829,N2759694I,María Dolores Júlia Montenegro Ramón,B
+830,H31037914,Laura Llorente Olivares,B
+831,P0280894G,Leo Gaya Laguna,E
+832,B27774157,Jordi Revilla,F
+833,H48271738,Laia Oliveras Puente,C
+834,V4665297J,Juan Cruz Pallarès,D
+835,B41571647,Mia Escudero Galan,E
+836,F9314032E,David Luís Tolosa,E
+837,D86117876,Enzo Gimeno Carnero,A
+838,Q2834551J,Noa Ordóñez,A
+839,H44219327,David de Carretero,E
+840,W9218380E,Pol del Sanjuan,A
+841,P5810009J,Ramón Donoso Aguilar,A
+842,N7359672H,Daniel Bartolomé Vilar,C
+843,P0280894G,Leo Gaya Laguna,B
+844,U4683589H,Carla Corbacho-Escribano,A
+845,G15254279,Josep Pera,C
+846,D59333971,Anna Montaña-Uriarte,E
+847,V8982148B,Carlos Carlos Espejo,B
+848,A53234324,Marc Navas Bermúdez,A
+849,N1790348E,Arlet Huguet Coloma,A
+850,Q9766397E,Francisco de Cabezas,C
+851,P6579449G,Laura Manjón Barón,E
+852,P8832380C,María Dolores Luz-Pera,D
+853,F8100344D,Abril Macías Guardiola,F
+854,V3555537D,Montserrat Bayo Garay,E
+855,F6017604G,Biel Sedano Oliveras,C
+856,V7809521C,Antònia Anna Saez Belda,A
+857,W4284402G,Mia Ona Tirado Herranz,A
+858,P2473520A,Sílvia Carnero Bas,E
+859,R7687550I,Juan Pozuelo Vila,B
+860,U5982724F,Jorge Manzano-Oliver,E
+861,Q9514578E,Anna Benítez Rovira,E
+862,B22399109,Clàudia Valdés Jover,E
+863,D64321540,María Dolores del Boada,B
+864,P3798114I,Ana de Larrea,A
+865,N9805030E,Laia Real Sanmartín,C
+866,C29574233,Sílvia Ana Mármol Vázquez,D
+867,J8863857B,Rosa Alberola Coll,E
+868,S7366447F,Carlos Crespi Perales,E
+869,S3945679C,Daniel Ródenas Lastra,D
+870,A27475888,Javier Sedano Izquierdo,D
+871,P2473520A,Sílvia Carnero Bas,B
+872,F2328450H,Pol Bosch Sanabria,C
+873,S1410175B,Lucas Frutos Andrés,F
+874,S1267649J,Carmen Corominas,B
+875,N2759694I,María Dolores Júlia Montenegro Ramón,F
+876,F9314032E,David Luís Tolosa,A
+877,N6468272G,Joan Ortuño Segura,C
+878,B36032787,Sara Alfonso Cortes,A
+879,W4799866A,Manuel Cózar Albero,C
+880,G29421625,Isabel Aramburu Baquero,C
+881,G08809550,Biel Alberto Berrocal,E
+882,P3410537I,Martí Paredes,E
+883,G44377703,Noa Mate Diego,F
+884,E96573001,Sara Gárate Nuñez,F
+885,J3353939F,Isabel Varela,E
+886,G26285767,Hugo del Núñez,C
+887,H46432969,Antònia Noa Pedrero Diéguez,B
+888,G13084090,Lucas Ocaña Huertas,A
+889,A90436353,Júlia Saura-Colomer,B
+890,U4804259B,Max Goñi Dávila,F
+891,F8025276J,Carla Ribas Ariño,E
+892,S2330516B,Arnau David Armas Carreño,C
+893,S1410175B,Lucas Frutos Andrés,F
+894,C62524582,Paula Molina Barba,D
+895,G79531372,Laia Seguí,E
+896,N1790348E,Arlet Huguet Coloma,C
+897,Q5328944C,Xavier Carrillo Iglesia,F
+898,E01391861,José Pi Alvarez,E
+899,F9589350I,Daniel Laguna,D
+900,G08270886,José María de Galvez,C
+901,H47198551,Marta Goicoechea Mercader,B
+902,F9314032E,David Luís Tolosa,B
+903,P2473520A,Sílvia Carnero Bas,D
+904,W8974025B,Dolores Mayol Cabrero,D
+905,E23616857,Marc Luz Casas,F
+906,S9029257D,Francisco Vilanova Mármol,F
+907,J7285606E,Emma Pallarès-Colom,E
+908,H42115923,Clàudia Perea Bermudez,D
+909,D89560940,Xavier de Ribes,E
+910,B39226162,Jana Villanueva Quirós,F
+911,G37728771,Noa Gallego Martin,C
+912,R1233513I,Cristina Fábregas Domingo,F
+913,P2302883J,Èric Font Vargas,D
+914,J3659481J,Clàudia Sancho Aragón,B
+915,E52404001,Josefa Uriarte,D
+916,U0847812E,Abril Andres Herrera,D
+917,D86117876,Enzo Gimeno Carnero,B
+918,Q9766397E,Francisco de Cabezas,A
+919,C48788897,Clàudia Manzanares Angulo,D
+920,A90436353,Júlia Saura-Colomer,D
+921,D83545129,Francisca Font Navarro,F
+922,U7038519J,Ana Cortina Rubio,A
+923,J5068533H,Rosa Ramis,F
+924,A95064218,Montserrat Martin Saez,B
+925,D94996444,Núria Miguel Huertas,D
+926,S0727486C,Adam Aliaga Pons,B
+927,F2776503A,Francisca Ureña,E
+928,J3512655F,Enzo Escolano Sanmiguel,A
+929,G76937929,María Dolores Sofía Salvador Teruel,A
+930,G68200534,Martina Cano Pineda,E
+931,E65877607,Antonia Carlos Valderrama,A
+932,S1017264A,Rosa Vigil,D
+933,E73982548,Júlia Palomino Company,C
+934,F8713241A,Antonio Catalá,A
+935,H46432969,Antònia Noa Pedrero Diéguez,F
+936,N0362161B,Álex Jordi Cuéllar Cardona,A
+937,S1898085D,Biel Vazquez Valverde,B
+938,G68200534,Martina Cano Pineda,F
+939,B88818059,Martina María Carreño Villaverde,D
+940,C99290520,Antònia Baró-Elías,B
+941,H31037914,Laura Llorente Olivares,C
+942,G68200534,Martina Cano Pineda,E
+943,G07621824,Sara Ángel Nieto,E
+944,E01391861,José Pi Alvarez,B
+945,P6713486F,Cristina Tomas Salvà,A
+946,E25450909,Martina Paredes-Falcó,D
+947,U9830036A,Núria Goicoechea Milla,E
+948,N5762693I,Josep Ramírez,B
+949,B27774157,Jordi Revilla,B
+950,H04319513,Lucia Castells Huerta,C
+951,E47909023,Sílvia Pinilla Hervás,D
+952,E63638506,Bruno Andreu-Andrade,A
+953,S0662896J,Álex Julián Cervantes,D
+954,U4804259B,Max Goñi Dávila,E
+955,N6853244I,Bruno del Canales,B
+956,P6353735A,Rosa del Neira,F
+957,A28346542,Martina Fuentes-Moll,D
+958,Q7832857B,Valèria Sánchez,B
+959,J2387634E,Martí Antonio Nicolás Giner,A
+960,B64747389,Èric Roman Mena,F
+961,E23616857,Marc Luz Casas,C
+962,G37728771,Noa Gallego Martin,A
+963,Q0552283D,Clàudia Verdú-Montalbán,D
+964,V3555537D,Montserrat Bayo Garay,D
+965,N9624314B,Júlia Vera-Bueno,C
+966,P2473520A,Sílvia Carnero Bas,D
+967,D64321540,María Dolores del Boada,A
+968,F3391179C,Abril Toledo,F
+969,W2486654C,Sofía Abril Caro Rocamora,C
+970,P4346331D,Bruno Joan Fernandez Rozas,C
+971,V3555537D,Montserrat Bayo Garay,E
+972,H13226295,Pau Rosado Palomar,B
+973,C17131251,Lucia Uribe,B
+974,W7861640F,Aleix de Fiol,A
+975,C78976982,Pau del Avilés,B
+976,A30004071,Pau Peláez Cano,F
+977,D62147475,Josep Blázquez,F
+978,B97041974,María Dolores Aramburu Galindo,C
+979,H31037914,Laura Llorente Olivares,C
+980,N2423224A,Biel de Guitart,E
+981,G92617570,Carmen del Martín,B
+982,P2473520A,Sílvia Carnero Bas,D
+983,P1659317J,Hugo Castrillo Otero,B
+984,C26701623,Arnau Bertrán Aragón,E
+985,S5147401C,María Del Carmen Blazquez,B
+986,A27475888,Javier Sedano Izquierdo,C
+987,N2759694I,María Dolores Júlia Montenegro Ramón,E
+988,D89560940,Xavier de Ribes,C
+989,N3620309I,Dolores Gelabert,E
+990,H02560167,Enzo Quesada,A
+991,H73279598,Jordi Manrique Verdugo,E
+992,F1978921C,Jordi Canals,D
+993,A30004071,Pau Peláez Cano,C
+994,G99523896,Pau Ros Pallarès,A
+995,A42249482,Marta del Bernat,B
+996,Q5968253D,Noa Planas Rincón,B
+997,H95977138,Adam Galán Cáceres,F
+998,S8641797I,Aina Pi Trujillo,C
+999,B31484074,Jordi Cuenca Blanes,D
+1000,R7687550I,Juan Pozuelo Vila,D
+1001,P5810009J,Ramón Donoso Aguilar,B
+1002,H75562959,Bruno Lozano Galan,B
+1003,V2167857H,Manuel Cerro Pol,A
+1004,F9589350I,Daniel Laguna,D
+1005,S0085490A,Ona Salvà Pizarro,A
+1006,S0085490A,Ona Salvà Pizarro,F
+1007,J9967593F,Nil Patiño-Perea,C
+1008,N1790348E,Arlet Huguet Coloma,E
+1009,N3380714J,Clàudia Espejo Benitez,D
+1010,J2410709F,Júlia Montenegro Muro,E
+1011,J2259741C,María Bayo Cózar,D
+1012,Q9771076H,Valèria Tomas Ramírez,C
+1013,N0515267C,Noa Ochoa Bartolomé,E
+1014,A94992674,Nil del Roselló,A
+1015,Q5968253D,Noa Planas Rincón,A
+1016,G13084090,Lucas Ocaña Huertas,B
+1017,Q5285042G,Manuel Galiano Teruel,A
+1018,P2473520A,Sílvia Carnero Bas,C
+1019,S3651419H,Enzo Carnero-Aliaga,C
+1020,G92617570,Carmen del Martín,C
+1021,C56963325,Abril Díez,F
+1022,S2330516B,Arnau David Armas Carreño,F
+1023,V5995012A,Laura Roma Boix,B
+1024,B90285073,Lucia de Ballester,B
+1025,W4799866A,Manuel Cózar Albero,A
+1026,B41571647,Mia Escudero Galan,C
+1027,R3314974A,María Teresa Ona Ferrándiz Donoso,A
+1028,H95977138,Adam Galán Cáceres,C
+1029,U4578017H,Paula Canet Nuñez,C
+1030,G26285767,Hugo del Núñez,A
+1031,J9643335D,Juan Maldonado Mayol,B
+1032,E09453762,Ona Talavera Abascal,E
+1033,S9149045H,Pedro de Pellicer,A
+1034,W4799866A,Manuel Cózar Albero,D
+1035,S6417982C,Arnau Gonzalo-Barrios,B
+1036,H48271738,Laia Oliveras Puente,E
+1037,R8192469H,Enzo Escalona Morales,A
+1038,S9149045H,Pedro de Pellicer,F
+1039,D64321540,María Dolores del Boada,C
+1040,C52853389,Carla Leiva Pacheco,F
+1041,Q2116390B,Francisca Marta Arias Ferrero,C
+1042,J8150128J,Cristina Reina Santana,E
+1043,Q5285042G,Manuel Galiano Teruel,B
+1044,P3012798I,Hugo Rueda,B
+1045,U3073814J,Jordi Carretero-Sáez,B
+1046,N5426927I,Aleix Cervera Alfaro,D
+1047,R1233513I,Cristina Fábregas Domingo,B
+1048,G45806411,Hugo Torres Iborra,E
+1049,C47311329,Sofía Guzman Villar,B
+1050,U8112016D,Joan Villalobos Carnero,C
+1051,H48271738,Laia Oliveras Puente,C
+1052,A94611183,Antònia Frías Macías,E
+1053,U4804259B,Max Goñi Dávila,C
+1054,A94992674,Nil del Roselló,F
+1055,N5447529H,Daniel Giménez Córdoba,F
+1056,E01391861,José Pi Alvarez,B
+1057,N3620309I,Dolores Gelabert,A
+1058,F8025276J,Carla Ribas Ariño,B
+1059,G07621824,Sara Ángel Nieto,C
+1060,Q7554170F,José María Cuenca-Pera,F
+1061,P4297671B,David Daniel Prada Arnau,E
+1062,P7482565D,Nil Rosselló Flor,D
+1063,P3240555G,Francisca Buendía Vigil,A
+1064,N2845937H,Montserrat Manzanares-Herrero,C
+1065,S0727486C,Adam Aliaga Pons,E
+1066,R5715872G,Emma de Almagro,A
+1067,A42249482,Marta del Bernat,C
+1068,Q2116390B,Francisca Marta Arias Ferrero,C
+1069,F1405226J,Adam Abella Valle,E
+1070,S8651023G,Adam Pombo Palomo,F
+1071,C26701623,Arnau Bertrán Aragón,D
+1072,Q2116390B,Francisca Marta Arias Ferrero,D
+1073,N2518597F,Noa de Grande,B
+1074,H34827741,David Olivares-Julián,B
+1075,S9149045H,Pedro de Pellicer,C
+1076,C99290520,Antònia Baró-Elías,F
+1077,G83025460,Noa Cueto Ribas,C
+1078,E63659452,Joan Sales,C
+1079,W1495808F,Èric Arnaiz,C
+1080,A84080670,Joan de Olmedo,C
+1081,D18702910,Marc Villar Nicolás,A
+1082,H19110485,María de Villena,D
+1083,P3798114I,Ana de Larrea,C
+1084,R4624337D,Anna del Otero,B
+1085,H31037914,Laura Llorente Olivares,F
+1086,H47198551,Marta Goicoechea Mercader,A
+1087,G37728771,Noa Gallego Martin,D
+1088,C17131251,Lucia Uribe,A
+1089,B97041974,María Dolores Aramburu Galindo,A
+1090,Q4232915A,Antònia Colomer Blanca,C
+1091,H42115923,Clàudia Perea Bermudez,C
+1092,V8231148A,Ona de Arjona,E
+1093,H42115923,Clàudia Perea Bermudez,C
+1094,B41571647,Mia Escudero Galan,B
+1095,A84080670,Joan de Olmedo,B
+1096,A51927812,Lucas Jordi Rodriguez Lobo,A
+1097,V3042112G,Bruno Martorell,A
+1098,G44377703,Noa Mate Diego,B
+1099,F7093027F,Bruno Valderrama-Gutierrez,A
+1100,H02560167,Enzo Quesada,F
+1101,D78897097,Núria Verdejo Arteaga,F
+1102,S9149045H,Pedro de Pellicer,E
+1103,H34827741,David Olivares-Julián,F
+1104,N3620309I,Dolores Gelabert,A
+1105,F9340007E,Chlóe Moliner,C
+1106,J4051218H,Daniel Bermudez Sosa,A
+1107,F5675046F,José Carballo Gutierrez,D
+1108,P6353735A,Rosa del Neira,D
+1109,G96947643,María Del Carmen Esparza Godoy,E
+1110,J8863857B,Rosa Alberola Coll,C
+1111,G37728771,Noa Gallego Martin,D
+1112,D81900805,Rosa Carrión Bauzà,B
+1113,N4218554F,Francisco Sanz Perea,D
+1114,P2473520A,Sílvia Carnero Bas,C
+1115,J3751394B,Josep Ramón Palomar Múgica,E
+1116,J5181672F,Álex del Domínguez,A
+1117,V2447244A,Jordi Vilar Fortuny,F
+1118,D77234466,Enzo Albert Roselló Castejón,D
+1119,G61008355,Arlet Lladó Diego,F
+1120,Q5809313I,Biel Segovia Pedrero,A
+1121,P6057674A,María Del Carmen Valèria Raya Mena,E
+1122,U4804259B,Max Goñi Dávila,E
+1123,D89560940,Xavier de Ribes,F
+1124,E65877607,Antonia Carlos Valderrama,F
+1125,F8773593B,David Sainz-Royo,B
+1126,W4359932C,Dolores del Miguel,C
+1127,A13684352,Leo Adam Saavedra Verdejo,A
+1128,F2431907A,Sílvia Pino Torrent,B
+1129,P3478472H,Laura Mata-Nicolás,A
+1130,H13226295,Pau Rosado Palomar,E
+1131,E25161068,Marta Oliver Alfaro,D
+1132,C17131251,Lucia Uribe,D
+1133,F8713241A,Antonio Catalá,F
+1134,D32512451,Albert Viña Gallardo,F
+1135,D57672396,Chlóe Tomas Santamaria,E
+1136,S9149045H,Pedro de Pellicer,F
+1137,C06753156,Lucas Paniagua Llano,B
+1138,A12410726,Josep Caro Mayoral,C
+1139,Q9514578E,Anna Benítez Rovira,E
+1140,D18702910,Marc Villar Nicolás,B
+1141,P6353735A,Rosa del Neira,F
+1142,W0083928B,Sara Gil Jordán,D
+1143,H13226295,Pau Rosado Palomar,B
+1144,H70835210,Joan de Cañas,D
+1145,A35443936,Pol Salgado Buendía,A
+1146,G73658932,Laura Bilbao Sala,A
+1147,P3351363A,María Dolores Montesinos Marin,B
+1148,J2410709F,Júlia Montenegro Muro,B
+1149,F1978921C,Jordi Canals,C
+1150,P2199273J,Enzo de Osorio,B
+1151,P3351363A,María Dolores Montesinos Marin,C
+1152,J0165116E,Carmen Salcedo Gomila,B
+1153,N4218554F,Francisco Sanz Perea,E
+1154,N2759694I,María Dolores Júlia Montenegro Ramón,C
+1155,E63659452,Joan Sales,F
+1156,N5762693I,Josep Ramírez,D
+1157,Q4579611G,Leo Verdú Sastre,B
+1158,B28472710,Emma María Teresa Sureda Estevez,E
+1159,S3409072J,Adam del Lara,F
+1160,W4799866A,Manuel Cózar Albero,B
+1161,R4624337D,Anna del Otero,F
+1162,N8496367G,Ona de Torrens,C
+1163,S3409072J,Adam del Lara,C
+1164,P0280894G,Leo Gaya Laguna,D
+1165,Q9771076H,Valèria Tomas Ramírez,B
+1166,F2328450H,Pol Bosch Sanabria,C
+1167,S3651419H,Enzo Carnero-Aliaga,D
+1168,D59333971,Anna Montaña-Uriarte,B
+1169,N1790348E,Arlet Huguet Coloma,F
+1170,R5336309I,Rosa Torralba Rozas,B
+1171,U2440145G,María Teresa Sierra Figueras,C
+1172,V4055410G,Clàudia Lobo,F
+1173,N7185603C,Arlet Chaves Roldan,A
+1174,W2486654C,Sofía Abril Caro Rocamora,D
+1175,N4218554F,Francisco Sanz Perea,B
+1176,S8162432B,Jan Albert Marqués Rodrigo,B
+1177,V5404049H,Biel Pau Tolosa Llorens,A
+1178,C78976982,Pau del Avilés,A
+1179,J0165116E,Carmen Salcedo Gomila,C
+1180,P4297671B,David Daniel Prada Arnau,A
+1181,F8299437G,Lucas Marc Robledo Hernandez,C
+1182,R1153706E,Carlos Capdevila,E
+1183,B48122808,Sara Jaume Lobo,A
+1184,D05154323,Paula Tomás Bello,B
+1185,N5111030B,Carlos Ramírez Benavent,A
+1186,H36269512,Antonia Cuevas,C
+1187,N7359672H,Daniel Bartolomé Vilar,B
+1188,G73658932,Laura Bilbao Sala,D
+1189,E05105093,Paula Azorin,C
+1190,A09069840,Leo Abellán,A
+1191,U7308622E,Mia Palomares-Torrijos,C
+1192,P2199273J,Enzo de Osorio,E
+1193,P3531278D,Èric de Agustí,B
+1194,N1790348E,Arlet Huguet Coloma,E
+1195,P6887458E,Nil del Morillo,D
+1196,S0085490A,Ona Salvà Pizarro,F
+1197,W8922173C,Álex Amo Alcalá,E
+1198,H42115923,Clàudia Perea Bermudez,C
+1199,D76934231,Álex Carballo Aranda,F
+1200,J7285606E,Emma Pallarès-Colom,A
+1201,P9570503D,Ramón Heras Pereira,D
+1202,H92027010,Ana Tello Alemán,D
+1203,J9967593F,Nil Patiño-Perea,B
+1204,H78024064,Max Quintana-Morales,F
+1205,H31037914,Laura Llorente Olivares,B
+1206,C95560819,Biel Hierro Salom,D
+1207,B11913498,Pedro Ricart Cantón,B
+1208,G71220651,Júlia Gras Porta,B
+1209,E55193205,Laia Boix Montenegro,E
+1210,P1659317J,Hugo Castrillo Otero,C
+1211,N8631109I,Francisca Martina Rodríguez Hoyos,E
+1212,C52853389,Carla Leiva Pacheco,B
+1213,D28897957,Marc Sarabia Zabala,B
+1214,F6804250F,María Dolores Ferrández Colom,A
+1215,G13084090,Lucas Ocaña Huertas,F
+1216,S9346078J,Francisco Pareja Peinado,D
+1217,F2431907A,Sílvia Pino Torrent,D
+1218,J4450361C,Júlia Cano Amorós,F
+1219,S6417982C,Arnau Gonzalo-Barrios,C
+1220,B11913498,Pedro Ricart Cantón,F
+1221,W1796907B,Mia Abellán Pulido,E
+1222,P2473520A,Sílvia Carnero Bas,E
+1223,N5111030B,Carlos Ramírez Benavent,D
+1224,B19312776,Aleix Doménech Pombo,A
+1225,B41571647,Mia Escudero Galan,D
+1226,V4046368I,María Dolores Mendez Sebastián,C
+1227,F2776503A,Francisca Ureña,A
+1228,E73982548,Júlia Palomino Company,A
+1229,G65300782,Juan Rodrigo-Mercader,D
+1230,N9882065G,Francisca Luís Aller,A
+1231,A10128536,Èric Roman Guijarro,B
+1232,V5404049H,Biel Pau Tolosa Llorens,E
+1233,S9149045H,Pedro de Pellicer,D
+1234,C56963325,Abril Díez,F
+1235,D05154323,Paula Tomás Bello,A
+1236,N1768263D,Èric Bolaños,E
+1237,E71649230,Carmen Herrero Sureda,C
+1238,Q7554170F,José María Cuenca-Pera,C
+1239,P1659317J,Hugo Castrillo Otero,E
+1240,Q7967239J,Paula Agustín Gimeno,E
+1241,S1410175B,Lucas Frutos Andrés,A
+1242,W4799866A,Manuel Cózar Albero,F
+1243,H15620032,Noa Gárate,A
+1244,Q4579611G,Leo Verdú Sastre,C
+1245,H19110485,María de Villena,A
+1246,H92027010,Ana Tello Alemán,C
+1247,H34827741,David Olivares-Julián,F
+1248,S0662896J,Álex Julián Cervantes,F
+1249,G96947643,María Del Carmen Esparza Godoy,F
+1250,N3504030B,Antònia Marquez Rebollo,B
+1251,A94992674,Nil del Roselló,C
+1252,B64747389,Èric Roman Mena,A
+1253,B41571647,Mia Escudero Galan,A
+1254,P7855416I,Leo Bustamante Zapata,D
+1255,E50342690,Ana Anna Perea Bermúdez,B
+1256,C95560819,Biel Hierro Salom,C
+1257,N3620309I,Dolores Gelabert,F
+1258,P2302883J,Èric Font Vargas,D
+1259,J5068533H,Rosa Ramis,E
+1260,B41571647,Mia Escudero Galan,E
+1261,H95977138,Adam Galán Cáceres,D
+1262,W3053262F,Xavier Batlle-Mur,A
+1263,P7855416I,Leo Bustamante Zapata,B
+1264,E23616857,Marc Luz Casas,A
+1265,R3314974A,María Teresa Ona Ferrándiz Donoso,D
+1266,F8100344D,Abril Macías Guardiola,D
+1267,Q7832857B,Valèria Sánchez,E
+1268,A84080670,Joan de Olmedo,C
+1269,N9465554E,Chlóe Cerezo-Arenas,B
+1270,S5147401C,María Del Carmen Blazquez,B
+1271,B37939139,Josep Casanovas Vázquez,F
+1272,B11913498,Pedro Ricart Cantón,B
+1273,B29905627,Pol Gómez Isern,A
+1274,S6417982C,Arnau Gonzalo-Barrios,A
+1275,J2387634E,Martí Antonio Nicolás Giner,C
+1276,D78897097,Núria Verdejo Arteaga,A
+1277,A94992674,Nil del Roselló,B
+1278,U4804259B,Max Goñi Dávila,D
+1279,B90285073,Lucia de Ballester,B
+1280,Q4287906D,José Pou Cobo,C
+1281,R5715872G,Emma de Almagro,D
+1282,F2210369A,Pol Robles-Aguilar,B
+1283,N5426927I,Aleix Cervera Alfaro,E
+1284,E65877607,Antonia Carlos Valderrama,A
+1285,B80106230,Martina Barberá Cabrero,A
+1286,H45996352,Antonia Canals Coloma,F
+1287,C99290520,Antònia Baró-Elías,B
+1288,F2431907A,Sílvia Pino Torrent,A
+1289,G54830989,Sofía Mateo Alemany,B
+1290,U7038519J,Ana Cortina Rubio,A
+1291,H45996352,Antonia Canals Coloma,B
+1292,D05154323,Paula Tomás Bello,E
+1293,S3409072J,Adam del Lara,D
+1294,B19312776,Aleix Doménech Pombo,C
+1295,F8243580A,Montserrat Saez Sabater,F
+1296,P7187021F,Antònia Paula Juliá Jaén,A
+1297,F2210369A,Pol Robles-Aguilar,F
+1298,Q9514578E,Anna Benítez Rovira,C
+1299,S0085490A,Ona Salvà Pizarro,F
+1300,H64502842,Pau Valencia Martinez,A
+1301,H36110567,Laia Castell Llobet,F
+1302,B48122808,Sara Jaume Lobo,F
+1303,V5995012A,Laura Roma Boix,D
+1304,Q4579611G,Leo Verdú Sastre,F
+1305,G92617570,Carmen del Martín,A
+1306,R8192469H,Enzo Escalona Morales,C
+1307,Q2116390B,Francisca Marta Arias Ferrero,E
+1308,P6887458E,Nil del Morillo,F
+1309,C94387792,Paula Rosa Perea,C
+1310,D65605370,Martina Velasco Soriano,E
+1311,Q0041000A,David Chaves Cantero,B
+1312,P4346331D,Bruno Joan Fernandez Rozas,E
+1313,C04838918,Valèria Urrutia Cal,E
+1314,U7141532G,Pau Talavera Moliner,B
+1315,W9742873D,Cristina Mia Falcón Ros,D
+1316,Q7211251I,Marc Reina Arrieta,F
+1317,J5466519E,Arnau Lerma Catalá,C
+1318,R7687550I,Juan Pozuelo Vila,B
+1319,N7185603C,Arlet Chaves Roldan,D
+1320,H44219327,David de Carretero,B
+1321,A33932468,Rosa Valèria Santos Barberá,F
+1322,W9218380E,Pol del Sanjuan,B
+1323,H23073786,Anna Armas Moles,A
+1324,Q2116390B,Francisca Marta Arias Ferrero,D
+1325,F0005249H,Arnau Huguet Chaparro,E
+1326,S8162432B,Jan Albert Marqués Rodrigo,F
+1327,C26701623,Arnau Bertrán Aragón,D
+1328,D81900805,Rosa Carrión Bauzà,B
+1329,B80106230,Martina Barberá Cabrero,A
+1330,N9318716I,Pedro Valderrama Marí,E
+1331,R4624337D,Anna del Otero,B
+1332,C48788897,Clàudia Manzanares Angulo,D
+1333,J2907838C,Carmen Marta Cruz Carpio,F
+1334,Q2116390B,Francisca Marta Arias Ferrero,C
+1335,J2410709F,Júlia Montenegro Muro,B
+1336,H92027010,Ana Tello Alemán,A
+1337,S8355279D,Antonia Bermejo Bayo,B
+1338,E65793119,Enzo Leiva-Sainz,D
+1339,B90285073,Lucia de Ballester,F
+1340,N7359672H,Daniel Bartolomé Vilar,F
+1341,V3042112G,Bruno Martorell,C
+1342,Q9771076H,Valèria Tomas Ramírez,A
+1343,V3380673H,Enzo Alberdi Sainz,E
+1344,W9073176A,Èric Cortina Vazquez,C
+1345,V4258212B,Marc Dominguez Barberá,A
+1346,W0083928B,Sara Gil Jordán,B
+1347,H48271738,Laia Oliveras Puente,A
+1348,D18702910,Marc Villar Nicolás,C
+1349,V2015246H,Martí Agullo-Campos,A
+1350,C21370879,Pol Puente Lucena,B
+1351,N6419040H,Marc Ramos Leon,C
+1352,A57076200,Sara Ávila Collado,E
+1353,N5447529H,Daniel Giménez Córdoba,E
+1354,Q5177739I,Josefa de Muro,D
+1355,N8631109I,Francisca Martina Rodríguez Hoyos,F
+1356,C75059956,Jorge Baena,C
+1357,W9218380E,Pol del Sanjuan,E
+1358,V4258212B,Marc Dominguez Barberá,F
+1359,B88818059,Martina María Carreño Villaverde,D
+1360,J2259741C,María Bayo Cózar,B
+1361,Q2116390B,Francisca Marta Arias Ferrero,F
+1362,G26285767,Hugo del Núñez,E
+1363,W9742873D,Cristina Mia Falcón Ros,B
+1364,Q7010862F,Miguel Torrens Fernandez,F
+1365,F0005249H,Arnau Huguet Chaparro,D
+1366,C21370879,Pol Puente Lucena,C
+1367,P6887458E,Nil del Morillo,C
+1368,V2665575C,Xavier Collado Domínguez,B
+1369,U3750527H,Biel Rojas Arias,C
+1370,F9340007E,Chlóe Moliner,F
+1371,S6417982C,Arnau Gonzalo-Barrios,E
+1372,Q7186100I,Èric Cifuentes,E
+1373,J2387634E,Martí Antonio Nicolás Giner,E
+1374,H23073786,Anna Armas Moles,B
+1375,C90629742,María Del Carmen Herranz-Milla,B
+1376,J3353939F,Isabel Varela,D
+1377,F8299437G,Lucas Marc Robledo Hernandez,A
+1378,Q7211251I,Marc Reina Arrieta,B
+1379,G90306762,Èric Blázquez Gil,A
+1380,P3351363A,María Dolores Montesinos Marin,E
+1381,B48122808,Sara Jaume Lobo,F
+1382,W9833166C,Leo Èric Ibarra Castellanos,C
+1383,J2410709F,Júlia Montenegro Muro,E
+1384,U9908499H,Laura de Villegas,E
+1385,A94992674,Nil del Roselló,B
+1386,G50849165,Jana del Llopis,E
+1387,J8918438F,Francisco Roldan,D
+1388,G24609380,Júlia Miralles-Boada,E
+1389,G08270886,José María de Galvez,B
+1390,H23073786,Anna Armas Moles,F
+1391,N1790348E,Arlet Huguet Coloma,D
+1392,R8192469H,Enzo Escalona Morales,A
+1393,E85913895,Álex Juliá Cantón,F
+1394,N9624314B,Júlia Vera-Bueno,F
+1395,F1405226J,Adam Abella Valle,F
+1396,P2473520A,Sílvia Carnero Bas,C
+1397,J8835130I,Carmen Salas Verdejo,C
+1398,A90436353,Júlia Saura-Colomer,C
+1399,H44219327,David de Carretero,C
+1400,H47198551,Marta Goicoechea Mercader,A
+1401,G83025460,Noa Cueto Ribas,D
+1402,B13701750,Ramón Bastida Valentín,E
+1403,G07621824,Sara Ángel Nieto,E
+1404,J0110698H,Antonio Rocamora Aragón,E
+1405,S6417982C,Arnau Gonzalo-Barrios,D
+1406,N3380714J,Clàudia Espejo Benitez,F
+1407,W4284402G,Mia Ona Tirado Herranz,D
+1408,S1410175B,Lucas Frutos Andrés,B
+1409,E23616857,Marc Luz Casas,D
+1410,F8773593B,David Sainz-Royo,B
+1411,Q0552283D,Clàudia Verdú-Montalbán,C
+1412,P2473520A,Sílvia Carnero Bas,B
+1413,G45806411,Hugo Torres Iborra,F
+1414,D57989162,Noa Carnero Cortés,B
+1415,P9348817I,Antonio Amo Castañeda,D
+1416,C29574233,Sílvia Ana Mármol Vázquez,C
+1417,F5675046F,José Carballo Gutierrez,C
+1418,H70835210,Joan de Cañas,F
+1419,U9961248C,Pau Priego Paniagua,A
+1420,S2330516B,Arnau David Armas Carreño,E
+1421,Q9771076H,Valèria Tomas Ramírez,E
+1422,G96947643,María Del Carmen Esparza Godoy,B
+1423,G90306762,Èric Blázquez Gil,E
+1424,Q0552283D,Clàudia Verdú-Montalbán,E
+1425,G73658932,Laura Bilbao Sala,A
+1426,D83545129,Francisca Font Navarro,A
+1427,H23653579,Manuel David Rosado Acero,F
+1428,N4056672A,Carmen Emma Iñiguez Azcona,A
+1429,U9961248C,Pau Priego Paniagua,E
+1430,F8773593B,David Sainz-Royo,E
+1431,G54830989,Sofía Mateo Alemany,A
+1432,H37157526,Arlet Sala Narváez,C
+1433,S3651419H,Enzo Carnero-Aliaga,A
+1434,D03554946,Joan Azcona,D
+1435,D62147475,Josep Blázquez,F
+1436,J2259741C,María Bayo Cózar,E
+1437,A94611183,Antònia Frías Macías,D
+1438,J6747593I,Arlet Barón-Barco,C
+1439,N0515267C,Noa Ochoa Bartolomé,E
+1440,B41571647,Mia Escudero Galan,A
+1441,B37939139,Josep Casanovas Vázquez,F
+1442,H00974097,Daniel Cornejo Mateos,F
+1443,E47464060,Francisco Palomares Ocaña,C
+1444,B82071457,Noa Coello Mendoza,E
+1445,U4290146B,Aleix de Ávila,C
+1446,H03012952,Mia Méndez Ribes,B
+1447,H15620032,Noa Gárate,F
+1448,F8025276J,Carla Ribas Ariño,A
+1449,B60410958,Pol Cáceres,F
+1450,C52853389,Carla Leiva Pacheco,F
+1451,E99188005,Biel Alcalde Samper,B
+1452,N5762693I,Josep Ramírez,D
+1453,U1774374A,Martina Solano Roma,D
+1454,H44219327,David de Carretero,C
+1455,V3380673H,Enzo Alberdi Sainz,E
+1456,F9340007E,Chlóe Moliner,D
+1457,V8982148B,Carlos Carlos Espejo,B
+1458,H03012952,Mia Méndez Ribes,F
+1459,S3651419H,Enzo Carnero-Aliaga,D
+1460,P7917625A,Joan Ferrera Canals,A
+1461,P2473520A,Sílvia Carnero Bas,C
+1462,G52644184,Martí Enzo Pujadas Pedrero,C
+1463,Q0041000A,David Chaves Cantero,E
+1464,E73982548,Júlia Palomino Company,B
+1465,D33698531,Aina Ferrán-Dávila,E
+1466,F8713241A,Antonio Catalá,B
+1467,E65793119,Enzo Leiva-Sainz,C
+1468,D44217990,Nil Bilbao Sastre,D
+1469,P7917625A,Joan Ferrera Canals,A
+1470,B11913498,Pedro Ricart Cantón,A
+1471,P3531278D,Èric de Agustí,F
+1472,B29905627,Pol Gómez Isern,B
+1473,H21342050,David Arellano Sebastián,C
+1474,V7999367A,Lucia Abascal Tejera,D
+1475,A53234324,Marc Navas Bermúdez,D
+1476,D33698531,Aina Ferrán-Dávila,F
+1477,S9346078J,Francisco Pareja Peinado,A
+1478,J5155116F,Júlia Abellán-Pou,A
+1479,G79531372,Laia Seguí,C
+1480,G68200534,Martina Cano Pineda,B
+1481,D96545363,Jorge Adam Conesa Nevado,F
+1482,R3314974A,María Teresa Ona Ferrándiz Donoso,E
+1483,J2259741C,María Bayo Cózar,C
+1484,R1153706E,Carlos Capdevila,C
+1485,Q7832857B,Valèria Sánchez,E
+1486,D78897097,Núria Verdejo Arteaga,B
+1487,A90436353,Júlia Saura-Colomer,C
+1488,F7517085B,Carlos Rosado Aguiló,E
+1489,G76937929,María Dolores Sofía Salvador Teruel,B
+1490,U0476516J,Isabel Miró Arana,A
+1491,P6353735A,Rosa del Neira,B
+1492,F2776503A,Francisca Ureña,D
+1493,A71678262,Francisco Sanmartín,C
+1494,Q9514578E,Anna Benítez Rovira,E
+1495,B43465343,Hugo Alberto Girón,D
+1496,B19312776,Aleix Doménech Pombo,D
+1497,R5715872G,Emma de Almagro,D
+1498,B88818059,Martina María Carreño Villaverde,B
+1499,Q5285042G,Manuel Galiano Teruel,C
+1500,P2473520A,Sílvia Carnero Bas,E
+1501,C29574233,Sílvia Ana Mármol Vázquez,D
+1502,E73982548,Júlia Palomino Company,F
+1503,H36269512,Antonia Cuevas,D
+1504,A02143311,Francisco Aranda Peinado,D
+1505,S3651419H,Enzo Carnero-Aliaga,F
+1506,H23653579,Manuel David Rosado Acero,D
+1507,D32512451,Albert Viña Gallardo,E
+1508,J8863857B,Rosa Alberola Coll,A
+1509,N2244432G,Laia Solsona Goicoechea,F
+1510,W9727961F,Albert Cerdán Chamorro,F
+1511,C06753156,Lucas Paniagua Llano,C
+1512,V8231148A,Ona de Arjona,E
+1513,C33342999,Anna Avilés-Palomar,F
+1514,J8863857B,Rosa Alberola Coll,E
+1515,B31484074,Jordi Cuenca Blanes,A
+1516,H37157526,Arlet Sala Narváez,C
+1517,H47198551,Marta Goicoechea Mercader,A
+1518,U7141532G,Pau Talavera Moliner,E
+1519,F8100344D,Abril Macías Guardiola,B
+1520,W8545144A,Albert Solís-Acedo,E
+1521,D94996444,Núria Miguel Huertas,B
+1522,V7809521C,Antònia Anna Saez Belda,E
+1523,B29905627,Pol Gómez Isern,C
+1524,J6747593I,Arlet Barón-Barco,F
+1525,S3651419H,Enzo Carnero-Aliaga,A
+1526,C99290520,Antònia Baró-Elías,D
+1527,E88184023,Bruno Recio Cid,B
+1528,C78976982,Pau del Avilés,B
+1529,V5995012A,Laura Roma Boix,F
+1530,A84080670,Joan de Olmedo,F
+1531,H23073786,Anna Armas Moles,D
+1532,S6417982C,Arnau Gonzalo-Barrios,B
+1533,B57625451,Antonia Campoy Alcalde,E
+1534,D34934612,Laura Plaza Guardiola,B
+1535,R1153706E,Carlos Capdevila,E
+1536,C28142149,Aleix Moya Collado,C
+1537,A94992674,Nil del Roselló,D
+1538,N9465554E,Chlóe Cerezo-Arenas,C
+1539,V8982148B,Carlos Carlos Espejo,E
+1540,V4665297J,Juan Cruz Pallarès,F
+1541,E09453762,Ona Talavera Abascal,C
+1542,H23653579,Manuel David Rosado Acero,B
+1543,A94611183,Antònia Frías Macías,B
+1544,W7861640F,Aleix de Fiol,E
+1545,P1659317J,Hugo Castrillo Otero,B
+1546,D10065217,Xavier Bárcena Castillo,D
+1547,Q4232915A,Antònia Colomer Blanca,C
+1548,H36110567,Laia Castell Llobet,C
+1549,F9551675C,Ana Morante-Vazquez,B
+1550,F6683839B,Montserrat Múgica Manrique,B
+1551,P4297671B,David Daniel Prada Arnau,D
+1552,F8100344D,Abril Macías Guardiola,C
+1553,J2410709F,Júlia Montenegro Muro,B
+1554,H15620032,Noa Gárate,F
+1555,P7855416I,Leo Bustamante Zapata,A
+1556,A51927812,Lucas Jordi Rodriguez Lobo,B
+1557,N6720616I,Cristina Coll Marín,D
+1558,Q9514578E,Anna Benítez Rovira,E
+1559,J0324897H,Laia Marcos Gomez,C
+1560,D07727019,Álex Hervia Vazquez,A
+1561,D52947983,Manuel Abad Soler,F
+1562,U1774374A,Martina Solano Roma,F
+1563,S8641797I,Aina Pi Trujillo,F
+1564,W9218380E,Pol del Sanjuan,B
+1565,J5466519E,Arnau Lerma Catalá,F
+1566,G90306762,Èric Blázquez Gil,C
+1567,J6747593I,Arlet Barón-Barco,F
+1568,F6683839B,Montserrat Múgica Manrique,C
+1569,Q4579611G,Leo Verdú Sastre,D
+1570,E50342690,Ana Anna Perea Bermúdez,E
+1571,B13701750,Ramón Bastida Valentín,B
+1572,B48122808,Sara Jaume Lobo,A
+1573,R5715872G,Emma de Almagro,F
+1574,C48788897,Clàudia Manzanares Angulo,C
+1575,F2776503A,Francisca Ureña,B
+1576,R8192469H,Enzo Escalona Morales,E
+1577,P6887458E,Nil del Morillo,E
+1578,F9340007E,Chlóe Moliner,D
+1579,G26937243,Josefa Moll Piñeiro,A
+1580,U4804259B,Max Goñi Dávila,C
+1581,S5147401C,María Del Carmen Blazquez,B
+1582,F1014977A,Pedro Murcia-Valbuena,C
+1583,R8192469H,Enzo Escalona Morales,B
+1584,F6017604G,Biel Sedano Oliveras,E
+1585,G36745990,Marc Blanco Valderrama,A
+1586,F9551675C,Ana Morante-Vazquez,D
+1587,J0324897H,Laia Marcos Gomez,E
+1588,Q2116390B,Francisca Marta Arias Ferrero,F
+1589,G15254279,Josep Pera,B
+1590,R6463216I,Ona Ona Roma Prieto,D
+1591,B55324438,Antònia Elorza Requena,D
+1592,B43837079,Laura Marquez Izquierdo,F
+1593,Q7186100I,Èric Cifuentes,D
+1594,C40980427,Nil Adam Leon Jaén,C
+1595,H00974097,Daniel Cornejo Mateos,E
+1596,S0662896J,Álex Julián Cervantes,A
+1597,H23073786,Anna Armas Moles,E
+1598,G76937929,María Dolores Sofía Salvador Teruel,C
+1599,E25450909,Martina Paredes-Falcó,C
+1600,N0515267C,Noa Ochoa Bartolomé,C
+1601,C94387792,Paula Rosa Perea,F
+1602,V8533935F,María Teresa de Dalmau,C
+1603,H70835210,Joan de Cañas,F
+1604,D81900805,Rosa Carrión Bauzà,F
+1605,J4856729A,Pedro Cabrero Agullo,A
+1606,P6057674A,María Del Carmen Valèria Raya Mena,E
+1607,N2845937H,Montserrat Manzanares-Herrero,B
+1608,J2410709F,Júlia Montenegro Muro,C
+1609,P6353735A,Rosa del Neira,D
+1610,C28142149,Aleix Moya Collado,D
+1611,A95064218,Montserrat Martin Saez,A
+1612,D81900805,Rosa Carrión Bauzà,D
+1613,H70835210,Joan de Cañas,B
+1614,A94992674,Nil del Roselló,A
+1615,C81417628,Núria Martín,C
+1616,E09453762,Ona Talavera Abascal,A
+1617,D64321540,María Dolores del Boada,C
+1618,N2759694I,María Dolores Júlia Montenegro Ramón,A
+1619,D05154323,Paula Tomás Bello,D
+1620,E63638506,Bruno Andreu-Andrade,A
+1621,G54830989,Sofía Mateo Alemany,C
+1622,P6887458E,Nil del Morillo,D
+1623,P7187021F,Antònia Paula Juliá Jaén,A
+1624,W5008386D,Laura Montes Céspedes,E
+1625,Q0041000A,David Chaves Cantero,A
+1626,H15620032,Noa Gárate,E
+1627,C64875321,Pau del Bayón,D
+1628,D05154323,Paula Tomás Bello,D
+1629,G07621824,Sara Ángel Nieto,F
+1630,B57625451,Antonia Campoy Alcalde,E
+1631,Q3854328F,Lucia Sílvia Méndez Uría,C
+1632,C91303552,Aina Dávila Bauzà,B
+1633,A81512261,Sílvia Lobo Ramírez,E
+1634,U7141532G,Pau Talavera Moliner,B
+1635,H34827741,David Olivares-Julián,E
+1636,S0662896J,Álex Julián Cervantes,C
+1637,R5336309I,Rosa Torralba Rozas,F
+1638,H92027010,Ana Tello Alemán,D
+1639,D57672396,Chlóe Tomas Santamaria,B
+1640,F4210663C,Dolores Trujillo Estévez,C
+1641,C26701623,Arnau Bertrán Aragón,D
+1642,A02143311,Francisco Aranda Peinado,F
+1643,U8112016D,Joan Villalobos Carnero,A
+1644,N5426927I,Aleix Cervera Alfaro,F
+1645,J5155116F,Júlia Abellán-Pou,B
+1646,P5728622A,Daniel Castillo Hurtado,C
+1647,B11913498,Pedro Ricart Cantón,B
+1648,A28346542,Martina Fuentes-Moll,E
+1649,P2199273J,Enzo de Osorio,C
+1650,H34827741,David Olivares-Julián,C
+1651,S5147401C,María Del Carmen Blazquez,B
+1652,S3989833C,Aleix Jove Cantero,E
+1653,V8982148B,Carlos Carlos Espejo,B
+1654,S1471928J,Carla Ferrán Tenorio,E
+1655,P3798114I,Ana de Larrea,A
+1656,C87660817,María Dolores Romeu-Bastida,A
+1657,E47464060,Francisco Palomares Ocaña,B
+1658,N2518597F,Noa de Grande,D
+1659,F2776503A,Francisca Ureña,D
+1660,P6887458E,Nil del Morillo,D
+1661,C99290520,Antònia Baró-Elías,A
+1662,B43837079,Laura Marquez Izquierdo,A
+1663,D81900805,Rosa Carrión Bauzà,C
+1664,S9346078J,Francisco Pareja Peinado,B
+1665,W8922173C,Álex Amo Alcalá,D
+1666,P6887458E,Nil del Morillo,A
+1667,G89205264,Montserrat Carla Lobato Salamanca,C
+1668,N4457128I,Francisco Meléndez Gargallo,C
+1669,A78168275,Montserrat Arrieta Baquero,B
+1670,V4258212B,Marc Dominguez Barberá,F
+1671,W9727961F,Albert Cerdán Chamorro,A
+1672,N2759694I,María Dolores Júlia Montenegro Ramón,B
+1673,P6887458E,Nil del Morillo,A
+1674,B90285073,Lucia de Ballester,F
+1675,V4665297J,Juan Cruz Pallarès,C
+1676,A51927812,Lucas Jordi Rodriguez Lobo,B
+1677,W5008386D,Laura Montes Céspedes,E
+1678,N5426927I,Aleix Cervera Alfaro,A
+1679,P5810009J,Ramón Donoso Aguilar,F
+1680,E52404001,Josefa Uriarte,E
+1681,C06753156,Lucas Paniagua Llano,E
+1682,Q2834551J,Noa Ordóñez,F
+1683,U5176314B,Noa Camacho Boada,E
+1684,G61008355,Arlet Lladó Diego,A
+1685,G26285767,Hugo del Núñez,B
+1686,A78168275,Montserrat Arrieta Baquero,A
+1687,W7861640F,Aleix de Fiol,D
+1688,Q2116390B,Francisca Marta Arias Ferrero,B
+1689,V8231148A,Ona de Arjona,C
+1690,A53234324,Marc Navas Bermúdez,E
+1691,B90285073,Lucia de Ballester,F
+1692,D64321540,María Dolores del Boada,A
+1693,E55193205,Laia Boix Montenegro,A
+1694,C06753156,Lucas Paniagua Llano,D
+1695,H13226295,Pau Rosado Palomar,E
+1696,J3512655F,Enzo Escolano Sanmiguel,F
+1697,S1410175B,Lucas Frutos Andrés,A
+1698,W9742873D,Cristina Mia Falcón Ros,B
+1699,J6049614H,Júlia Sevillano Palomar,A
+1700,N3620309I,Dolores Gelabert,C
+1701,A42249482,Marta del Bernat,F
+1702,P7855416I,Leo Bustamante Zapata,F
+1703,N7090594H,Chlóe Plana Echevarría,E
+1704,A28346542,Martina Fuentes-Moll,D
+1705,J3659481J,Clàudia Sancho Aragón,E
+1706,D57672396,Chlóe Tomas Santamaria,D
+1707,U5176314B,Noa Camacho Boada,C
+1708,V3555537D,Montserrat Bayo Garay,F
+1709,P1659317J,Hugo Castrillo Otero,B
+1710,U7558214H,Núria Alegre-Roma,F
+1711,W4359932C,Dolores del Miguel,D
+1712,U4683589H,Carla Corbacho-Escribano,E
+1713,W9073176A,Èric Cortina Vazquez,A
+1714,J3353939F,Isabel Varela,B
+1715,F0005249H,Arnau Huguet Chaparro,E
+1716,E23616857,Marc Luz Casas,E
+1717,N8496367G,Ona de Torrens,E
+1718,F6017604G,Biel Sedano Oliveras,B
+1719,S1410175B,Lucas Frutos Andrés,F
+1720,F1405226J,Adam Abella Valle,E
+1721,P7917625A,Joan Ferrera Canals,E
+1722,E25161068,Marta Oliver Alfaro,E
+1723,B97041974,María Dolores Aramburu Galindo,C
+1724,J6049614H,Júlia Sevillano Palomar,A
+1725,A30004071,Pau Peláez Cano,D
+1726,H64502842,Pau Valencia Martinez,B
+1727,C99290520,Antònia Baró-Elías,E
+1728,N2518597F,Noa de Grande,B
+1729,N9318716I,Pedro Valderrama Marí,F
+1730,A04422861,Francisca Rubio Paredes,B
+1731,P2302883J,Èric Font Vargas,C
+1732,B48122808,Sara Jaume Lobo,C
+1733,D76934231,Álex Carballo Aranda,B
+1734,B13701750,Ramón Bastida Valentín,A
+1735,G44377703,Noa Mate Diego,D
+1736,J3512655F,Enzo Escolano Sanmiguel,F
+1737,R5336309I,Rosa Torralba Rozas,C
+1738,B41571647,Mia Escudero Galan,C
+1739,G13084090,Lucas Ocaña Huertas,B
+1740,J8863857B,Rosa Alberola Coll,F
+1741,J8918438F,Francisco Roldan,E
+1742,F4119576I,Carlos Mayoral Cervantes,F
+1743,F0005249H,Arnau Huguet Chaparro,F
+1744,W9742873D,Cristina Mia Falcón Ros,F
+1745,C91303552,Aina Dávila Bauzà,B
+1746,G99523896,Pau Ros Pallarès,B
+1747,S3409072J,Adam del Lara,B
+1748,Q7186100I,Èric Cifuentes,E
+1749,U0533919G,Carla Pi Falcó,C
+1750,W1796907B,Mia Abellán Pulido,D
+1751,F9340007E,Chlóe Moliner,F
+1752,R7616148H,Carmen Jana Taboada Almansa,F
+1753,F0005249H,Arnau Huguet Chaparro,D
+1754,H64502842,Pau Valencia Martinez,E
+1755,Q7554170F,José María Cuenca-Pera,E
+1756,W0083928B,Sara Gil Jordán,D
+1757,R1233513I,Cristina Fábregas Domingo,B
+1758,G61008355,Arlet Lladó Diego,E
+1759,N3184593F,Antonio Peralta Angulo,E
+1760,E50342690,Ana Anna Perea Bermúdez,B
+1761,W7861640F,Aleix de Fiol,F
+1762,S0662896J,Álex Julián Cervantes,E
+1763,S1898085D,Biel Vazquez Valverde,B
+1764,F8773593B,David Sainz-Royo,B
+1765,G29421625,Isabel Aramburu Baquero,C
+1766,N4457128I,Francisco Meléndez Gargallo,F
+1767,J3512655F,Enzo Escolano Sanmiguel,B
+1768,Q2116390B,Francisca Marta Arias Ferrero,D
+1769,J6747593I,Arlet Barón-Barco,D
+1770,H37157526,Arlet Sala Narváez,D
+1771,C99290520,Antònia Baró-Elías,F
+1772,G79531372,Laia Seguí,C
+1773,C87660817,María Dolores Romeu-Bastida,A
+1774,J8835130I,Carmen Salas Verdejo,C
+1775,P6887458E,Nil del Morillo,E
+1776,B64747389,Èric Roman Mena,E
+1777,E55193205,Laia Boix Montenegro,E
+1778,E50536853,Max Aragonés Cabello,B
+1779,P7256844G,Mia Giménez Carlos,D
+1780,F9340007E,Chlóe Moliner,C
+1781,U4212659I,Xavier Vicente Meléndez,E
+1782,N5111030B,Carlos Ramírez Benavent,D
+1783,V7809521C,Antònia Anna Saez Belda,E
+1784,B90285073,Lucia de Ballester,C
+1785,D62147475,Josep Blázquez,E
+1786,V7809521C,Antònia Anna Saez Belda,D
+1787,S7211209G,María Alemán Saura,E
+1788,D03554946,Joan Azcona,E
+1789,G24609380,Júlia Miralles-Boada,A
+1790,H42115923,Clàudia Perea Bermudez,A
+1791,D32512451,Albert Viña Gallardo,E
+1792,H70835210,Joan de Cañas,B
+1793,J8150128J,Cristina Reina Santana,C
+1794,H64288004,Abril Samper Ibáñez,D
+1795,E09453762,Ona Talavera Abascal,E
+1796,N6419040H,Marc Ramos Leon,E
+1797,F6804250F,María Dolores Ferrández Colom,A
+1798,A51927812,Lucas Jordi Rodriguez Lobo,D
+1799,N5762693I,Josep Ramírez,D
+1800,H64502842,Pau Valencia Martinez,C
+1801,S7995912H,Josefa Laura Llorens Villanueva,F
+1802,G96947643,María Del Carmen Esparza Godoy,E
+1803,F6804250F,María Dolores Ferrández Colom,E
+1804,B41571647,Mia Escudero Galan,B
+1805,S1017264A,Rosa Vigil,D
+1806,W1495808F,Èric Arnaiz,B
+1807,H64288004,Abril Samper Ibáñez,A
+1808,Q2116390B,Francisca Marta Arias Ferrero,F
+1809,H03012952,Mia Méndez Ribes,F
+1810,H23653579,Manuel David Rosado Acero,C
+1811,E85913895,Álex Juliá Cantón,A
+1812,B39226162,Jana Villanueva Quirós,D
+1813,P3531278D,Èric de Agustí,D
+1814,C33342999,Anna Avilés-Palomar,F
+1815,V5404049H,Biel Pau Tolosa Llorens,D
+1816,A90436353,Júlia Saura-Colomer,E
+1817,D83545129,Francisca Font Navarro,F
+1818,E47909023,Sílvia Pinilla Hervás,F
+1819,D57672396,Chlóe Tomas Santamaria,C
+1820,D89560940,Xavier de Ribes,A
+1821,C06753156,Lucas Paniagua Llano,D
+1822,N5426927I,Aleix Cervera Alfaro,A
+1823,J8863857B,Rosa Alberola Coll,F
+1824,J2907838C,Carmen Marta Cruz Carpio,F
+1825,E34862805,Rosa Porta,A
+1826,J8150128J,Cristina Reina Santana,F
+1827,B82071457,Noa Coello Mendoza,D
+1828,J5068533H,Rosa Ramis,D
+1829,D59333971,Anna Montaña-Uriarte,C
+1830,J9643335D,Juan Maldonado Mayol,B
+1831,G96947643,María Del Carmen Esparza Godoy,B
+1832,S7366447F,Carlos Crespi Perales,D
+1833,P9348817I,Antonio Amo Castañeda,D
+1834,A28346542,Martina Fuentes-Moll,A
+1835,J4450361C,Júlia Cano Amorós,D
+1836,Q4579611G,Leo Verdú Sastre,A
+1837,P2302883J,Èric Font Vargas,C
+1838,D81900805,Rosa Carrión Bauzà,B
+1839,C78976982,Pau del Avilés,E
+1840,P8832380C,María Dolores Luz-Pera,C
+1841,F7029229G,Daniel Prat Calvo,E
+1842,B64747389,Èric Roman Mena,B
+1843,W9218380E,Pol del Sanjuan,B
+1844,P6887458E,Nil del Morillo,F
+1845,E09453762,Ona Talavera Abascal,C
+1846,G93234177,Rosa Laura Nogués Casares,C
+1847,R5715872G,Emma de Almagro,E
+1848,C81417628,Núria Martín,C
+1849,W4359932C,Dolores del Miguel,E
+1850,B80106230,Martina Barberá Cabrero,F
+1851,S5329165D,Hugo Sanz Amat,A
+1852,A42249482,Marta del Bernat,B
+1853,D57672396,Chlóe Tomas Santamaria,B
+1854,B37939139,Josep Casanovas Vázquez,F
+1855,G44377703,Noa Mate Diego,D
+1856,E56707995,Aina Otero-Gutiérrez,B
+1857,H78024064,Max Quintana-Morales,E
+1858,A10128536,Èric Roman Guijarro,B
+1859,F8971698I,Ramón Rozas Baró,B
+1860,Q0041000A,David Chaves Cantero,C
+1861,A94611183,Antònia Frías Macías,F
+1862,B48122808,Sara Jaume Lobo,B
+1863,F4210663C,Dolores Trujillo Estévez,C
+1864,D64321540,María Dolores del Boada,D
+1865,A42249482,Marta del Bernat,A
+1866,N3777084I,Pau Herranz Artigas,E
+1867,N2845937H,Montserrat Manzanares-Herrero,E
+1868,S0085490A,Ona Salvà Pizarro,D
+1869,U3398151E,Lucia Rincón Rosales,A
+1870,H42115923,Clàudia Perea Bermudez,E
+1871,F3391179C,Abril Toledo,E
+1872,U0476516J,Isabel Miró Arana,A
+1873,R8469182C,Nil Marc Blanco Barroso,D
+1874,R6463216I,Ona Ona Roma Prieto,A
+1875,H45996352,Antonia Canals Coloma,F
+1876,U7558214H,Núria Alegre-Roma,C
+1877,H95977138,Adam Galán Cáceres,C
+1878,H23653579,Manuel David Rosado Acero,D
+1879,E85913895,Álex Juliá Cantón,A
+1880,S1511089C,Arnau Borja Abril,B
+1881,E73982548,Júlia Palomino Company,A
+1882,E01391861,José Pi Alvarez,A
+1883,U4578017H,Paula Canet Nuñez,E
+1884,F9340007E,Chlóe Moliner,B
+1885,F0005249H,Arnau Huguet Chaparro,A
+1886,H42115923,Clàudia Perea Bermudez,A
+1887,S3409072J,Adam del Lara,F
+1888,D07727019,Álex Hervia Vazquez,B
+1889,H92027010,Ana Tello Alemán,F
+1890,P2302883J,Èric Font Vargas,B
+1891,W8974025B,Dolores Mayol Cabrero,F
+1892,E01391861,José Pi Alvarez,F
+1893,J8863857B,Rosa Alberola Coll,E
+1894,N5426927I,Aleix Cervera Alfaro,A
+1895,B52401858,José Buendía-Sarabia,C
+1896,V4055410G,Clàudia Lobo,B
+1897,N2244432G,Laia Solsona Goicoechea,B
+1898,G83025460,Noa Cueto Ribas,F
+1899,J5466519E,Arnau Lerma Catalá,B
+1900,Q7967239J,Paula Agustín Gimeno,E
+1901,A78168275,Montserrat Arrieta Baquero,D
+1902,E71649230,Carmen Herrero Sureda,A
+1903,P3531278D,Èric de Agustí,C
+1904,N5426927I,Aleix Cervera Alfaro,E
+1905,U7273775B,Albert Montoya Escamilla,E
+1906,R7687550I,Juan Pozuelo Vila,E
+1907,F4119576I,Carlos Mayoral Cervantes,F
+1908,N8152756F,Laia Batalla-Villalba,C
+1909,C75059956,Jorge Baena,A
+1910,F6683839B,Montserrat Múgica Manrique,F
+1911,F9314032E,David Luís Tolosa,E
+1912,U2440145G,María Teresa Sierra Figueras,D
+1913,U9160336E,Xavier Salcedo Villanueva,C
+1914,N1790348E,Arlet Huguet Coloma,A
+1915,H21106232,Mia del Benítez,B
+1916,P3240555G,Francisca Buendía Vigil,C
+1917,J2907838C,Carmen Marta Cruz Carpio,E
+1918,J2410709F,Júlia Montenegro Muro,B
+1919,Q3854328F,Lucia Sílvia Méndez Uría,D
+1920,H65400632,Abril Cáceres Manjón,E
+1921,G93234177,Rosa Laura Nogués Casares,C
+1922,N8496367G,Ona de Torrens,C
+1923,G79531372,Laia Seguí,C
+1924,P6887458E,Nil del Morillo,D
+1925,A71678262,Francisco Sanmartín,F
+1926,U1774374A,Martina Solano Roma,A
+1927,C94387792,Paula Rosa Perea,F
+1928,E25161068,Marta Oliver Alfaro,E
+1929,H19110485,María de Villena,E
+1930,J2259741C,María Bayo Cózar,D
+1931,D47756457,Manuel Izquierdo Duque,E
+1932,E55193205,Laia Boix Montenegro,A
+1933,U4683589H,Carla Corbacho-Escribano,C
+1934,N2518597F,Noa de Grande,B
+1935,Q2116390B,Francisca Marta Arias Ferrero,B
+1936,S2927291A,Lucia Porras Miguel,D
+1937,H23073786,Anna Armas Moles,F
+1938,U7273775B,Albert Montoya Escamilla,A
+1939,P8832380C,María Dolores Luz-Pera,B
+1940,Q2116390B,Francisca Marta Arias Ferrero,A
+1941,V3555537D,Montserrat Bayo Garay,D
+1942,D18702910,Marc Villar Nicolás,F
+1943,R5656344H,Carla Linares Escolano,E
+1944,F5675046F,José Carballo Gutierrez,C
+1945,Q0041000A,David Chaves Cantero,E
+1946,H95977138,Adam Galán Cáceres,C
+1947,G73658932,Laura Bilbao Sala,D
+1948,H80750292,Daniel Miguel Pomares Méndez,C
+1949,B19312776,Aleix Doménech Pombo,E
+1950,F8713241A,Antonio Catalá,E
+1951,S1898085D,Biel Vazquez Valverde,F
+1952,H31037914,Laura Llorente Olivares,C
+1953,U1774374A,Martina Solano Roma,D
+1954,D94996444,Núria Miguel Huertas,F
+1955,J9643335D,Juan Maldonado Mayol,A
+1956,J3353939F,Isabel Varela,C
+1957,H78024064,Max Quintana-Morales,C
+1958,N7359672H,Daniel Bartolomé Vilar,F
+1959,U7141532G,Pau Talavera Moliner,D
+1960,N1790348E,Arlet Huguet Coloma,A
+1961,Q5285042G,Manuel Galiano Teruel,F
+1962,J0110698H,Antonio Rocamora Aragón,D
+1963,H21106232,Mia del Benítez,B
+1964,S8641797I,Aina Pi Trujillo,D
+1965,Q0552283D,Clàudia Verdú-Montalbán,B
+1966,N5426927I,Aleix Cervera Alfaro,B
+1967,G07621824,Sara Ángel Nieto,B
+1968,E47464060,Francisco Palomares Ocaña,C
+1969,E20240735,Enzo de Garrido,D
+1970,J5466519E,Arnau Lerma Catalá,B
+1971,R1153706E,Carlos Capdevila,D
+1972,W2486654C,Sofía Abril Caro Rocamora,E
+1973,S3651419H,Enzo Carnero-Aliaga,D
+1974,J3512655F,Enzo Escolano Sanmiguel,B
+1975,P1659317J,Hugo Castrillo Otero,A
+1976,W9218380E,Pol del Sanjuan,E
+1977,B48122808,Sara Jaume Lobo,D
+1978,S8641797I,Aina Pi Trujillo,A
+1979,R4624337D,Anna del Otero,A
+1980,J9446526G,Marta Águila Cervantes,D
+1981,W1796907B,Mia Abellán Pulido,C
+1982,R4624337D,Anna del Otero,E
+1983,W4359932C,Dolores del Miguel,A
+1984,E85913895,Álex Juliá Cantón,C
+1985,B41571647,Mia Escudero Galan,B
+1986,U5487419C,Pol Nil Barbero Olivera,E
+1987,W4359932C,Dolores del Miguel,E
+1988,C28252815,Èric Botella Armengol,B
+1989,E65877607,Antonia Carlos Valderrama,B
+1990,F1405226J,Adam Abella Valle,B
+1991,C28142149,Aleix Moya Collado,B
+1992,B28472710,Emma María Teresa Sureda Estevez,C
+1993,W9833166C,Leo Èric Ibarra Castellanos,E
+1994,C75059956,Jorge Baena,D
+1995,B31484074,Jordi Cuenca Blanes,C
+1996,H04319513,Lucia Castells Huerta,D
+1997,G92617570,Carmen del Martín,B
+1998,Q7554170F,José María Cuenca-Pera,C
+1999,Q0552283D,Clàudia Verdú-Montalbán,F
+2000,U5176314B,Noa Camacho Boada,A
+2001,N6419040H,Marc Ramos Leon,F
+2002,R8469182C,Nil Marc Blanco Barroso,C
+2003,J3659481J,Clàudia Sancho Aragón,B
+2004,F8773593B,David Sainz-Royo,E
+2005,V3555537D,Montserrat Bayo Garay,B
+2006,P6579449G,Laura Manjón Barón,B
+2007,E99188005,Biel Alcalde Samper,C
+2008,N8243349A,Paula Sáez Ripoll,A
+2009,D86117876,Enzo Gimeno Carnero,C
+2010,G83025460,Noa Cueto Ribas,B
+2011,P0280894G,Leo Gaya Laguna,C
+2012,N4218554F,Francisco Sanz Perea,B
+2013,V7809521C,Antònia Anna Saez Belda,B
+2014,A94611183,Antònia Frías Macías,A
+2015,E63638506,Bruno Andreu-Andrade,D
+2016,B88818059,Martina María Carreño Villaverde,C
+2017,B21983689,Josep de Ibarra,E
+2018,J4450361C,Júlia Cano Amorós,D
+2019,F9340007E,Chlóe Moliner,A
+2020,W2486654C,Sofía Abril Caro Rocamora,A
+2021,F8299437G,Lucas Marc Robledo Hernandez,B
+2022,F9551675C,Ana Morante-Vazquez,A
+2023,Q0041000A,David Chaves Cantero,A
+2024,H37157526,Arlet Sala Narváez,F
+2025,N8631109I,Francisca Martina Rodríguez Hoyos,D
+2026,Q5968253D,Noa Planas Rincón,E
+2027,R4624337D,Anna del Otero,E
+2028,S5147401C,María Del Carmen Blazquez,C
+2029,W1247153H,Martina Nuñez Estevez,D
+2030,P3240555G,Francisca Buendía Vigil,C
+2031,G36745990,Marc Blanco Valderrama,B
+2032,B87614681,Jordi Arnau Carlos Cabrero,E
+2033,P3012798I,Hugo Rueda,B
+2034,B64747389,Èric Roman Mena,C
+2035,P0546131D,José María Bru Cuesta,A
+2036,P6887458E,Nil del Morillo,D
+2037,P3012798I,Hugo Rueda,D
+2038,Q0552283D,Clàudia Verdú-Montalbán,A
+2039,S3651419H,Enzo Carnero-Aliaga,D
+2040,B43837079,Laura Marquez Izquierdo,E
+2041,Q2116390B,Francisca Marta Arias Ferrero,B
+2042,S3989833C,Aleix Jove Cantero,C
+2043,E56707995,Aina Otero-Gutiérrez,A
+2044,E47909023,Sílvia Pinilla Hervás,A
+2045,D05154323,Paula Tomás Bello,D
+2046,B22399109,Clàudia Valdés Jover,A
+2047,C17131251,Lucia Uribe,B
+2048,D28897957,Marc Sarabia Zabala,A
+2049,S3651419H,Enzo Carnero-Aliaga,F
+2050,B13701750,Ramón Bastida Valentín,A
+2051,P3351363A,María Dolores Montesinos Marin,C
+2052,N8631109I,Francisca Martina Rodríguez Hoyos,F
+2053,G37728771,Noa Gallego Martin,A
+2054,N1790348E,Arlet Huguet Coloma,C
+2055,F8025276J,Carla Ribas Ariño,D
+2056,A78168275,Montserrat Arrieta Baquero,E
+2057,A94992674,Nil del Roselló,E
+2058,V2167857H,Manuel Cerro Pol,F
+2059,E86578564,Jordi Ros-Uriarte,E
+2060,B41571647,Mia Escudero Galan,C
+2061,D07727019,Álex Hervia Vazquez,D
+2062,V2015246H,Martí Agullo-Campos,C
+2063,J2259741C,María Bayo Cózar,C
+2064,G13084090,Lucas Ocaña Huertas,D
+2065,N5762693I,Josep Ramírez,A
+2066,B88818059,Martina María Carreño Villaverde,C
+2067,B39226162,Jana Villanueva Quirós,E
+2068,P7917625A,Joan Ferrera Canals,C
+2069,J3353939F,Isabel Varela,E
+2070,N1790348E,Arlet Huguet Coloma,D
+2071,S8355279D,Antonia Bermejo Bayo,E
+2072,R5336309I,Rosa Torralba Rozas,B
+2073,J2907838C,Carmen Marta Cruz Carpio,C
+2074,G08270886,José María de Galvez,C
+2075,U5982724F,Jorge Manzano-Oliver,E
+2076,U3073814J,Jordi Carretero-Sáez,F
+2077,D43493675,Èric Marin Comas,F
+2078,Q2116390B,Francisca Marta Arias Ferrero,B
+2079,P6579449G,Laura Manjón Barón,C
+2080,P3798114I,Ana de Larrea,A
+2081,A51927812,Lucas Jordi Rodriguez Lobo,D
+2082,P2473520A,Sílvia Carnero Bas,C
+2083,G71220651,Júlia Gras Porta,A
+2084,A51927812,Lucas Jordi Rodriguez Lobo,C
+2085,N7185603C,Arlet Chaves Roldan,C
+2086,H37157526,Arlet Sala Narváez,E
+2087,H45996352,Antonia Canals Coloma,B
+2088,H23653579,Manuel David Rosado Acero,A
+2089,P3351363A,María Dolores Montesinos Marin,B
+2090,J5155116F,Júlia Abellán-Pou,E
+2091,G37728771,Noa Gallego Martin,F
+2092,F2545250I,Manuel Castellanos Arenas,E
+2093,S3989833C,Aleix Jove Cantero,D
+2094,F1405226J,Adam Abella Valle,D
+2095,V8982148B,Carlos Carlos Espejo,B
+2096,H23073786,Anna Armas Moles,B
+2097,S9029257D,Francisco Vilanova Mármol,B
+2098,W1495808F,Èric Arnaiz,E
+2099,P4297671B,David Daniel Prada Arnau,A
+2100,D05154323,Paula Tomás Bello,E
+2101,D89560940,Xavier de Ribes,C
+2102,A51927812,Lucas Jordi Rodriguez Lobo,F
+2103,S1471928J,Carla Ferrán Tenorio,D
+2104,Q0552283D,Clàudia Verdú-Montalbán,D
+2105,N6853244I,Bruno del Canales,E
+2106,E25161068,Marta Oliver Alfaro,F
+2107,A13684352,Leo Adam Saavedra Verdejo,F
+2108,J4856729A,Pedro Cabrero Agullo,D
+2109,D33698531,Aina Ferrán-Dávila,C
+2110,F9875383C,Aina Ferrero Torrecilla,D
+2111,J5181672F,Álex del Domínguez,E
+2112,E01391861,José Pi Alvarez,D
+2113,D33698531,Aina Ferrán-Dávila,E
+2114,N7359672H,Daniel Bartolomé Vilar,E
+2115,D59333971,Anna Montaña-Uriarte,C
+2116,S7366447F,Carlos Crespi Perales,B
+2117,D34934612,Laura Plaza Guardiola,E
+2118,D57672396,Chlóe Tomas Santamaria,C
+2119,U9908499H,Laura de Villegas,B
+2120,Q4232915A,Antònia Colomer Blanca,D
+2121,B57625451,Antonia Campoy Alcalde,B
+2122,D57672396,Chlóe Tomas Santamaria,D
+2123,H34827741,David Olivares-Julián,D
+2124,P0546131D,José María Bru Cuesta,A
+2125,E65877607,Antonia Carlos Valderrama,F
+2126,P3240555G,Francisca Buendía Vigil,F
+2127,J9446526G,Marta Águila Cervantes,C
+2128,J7397889B,Montserrat Cánovas,B
+2129,E73982548,Júlia Palomino Company,B
+2130,J2387634E,Martí Antonio Nicolás Giner,F
+2131,S8651023G,Adam Pombo Palomo,C
+2132,H45996352,Antonia Canals Coloma,A
+2133,U7558214H,Núria Alegre-Roma,F
+2134,D65605370,Martina Velasco Soriano,A
+2135,D43493675,Èric Marin Comas,E
+2136,V7809521C,Antònia Anna Saez Belda,F
+2137,Q9771076H,Valèria Tomas Ramírez,E
+2138,C78976982,Pau del Avilés,E
+2139,N5111030B,Carlos Ramírez Benavent,A
+2140,V4055410G,Clàudia Lobo,C
+2141,H59430249,Júlia Aramburu Delgado,D
+2142,G79531372,Laia Seguí,C
+2143,D98780919,María Teresa Aznar-Perez,E
+2144,B74114653,Leo Cordero Acosta,F
+2145,V8982148B,Carlos Carlos Espejo,C
+2146,A28346542,Martina Fuentes-Moll,E
+2147,S9029257D,Francisco Vilanova Mármol,A
+2148,A12410726,Josep Caro Mayoral,D
+2149,U4578017H,Paula Canet Nuñez,F
+2150,J3353939F,Isabel Varela,C
+2151,H78024064,Max Quintana-Morales,F
+2152,J9446526G,Marta Águila Cervantes,F
+2153,U7611560I,Álex Navas Granados,B
+2154,H92027010,Ana Tello Alemán,C
+2155,C87660817,María Dolores Romeu-Bastida,D
+2156,N0362161B,Álex Jordi Cuéllar Cardona,F
+2157,W4799866A,Manuel Cózar Albero,D
+2158,C56963325,Abril Díez,C
+2159,D05154323,Paula Tomás Bello,A
+2160,S8641797I,Aina Pi Trujillo,D
+2161,W8545144A,Albert Solís-Acedo,B
+2162,E05105093,Paula Azorin,F
+2163,P6887458E,Nil del Morillo,A
+2164,V8533935F,María Teresa de Dalmau,F
+2165,P7917625A,Joan Ferrera Canals,C
+2166,J2410709F,Júlia Montenegro Muro,E
+2167,U7308622E,Mia Palomares-Torrijos,C
+2168,A81512261,Sílvia Lobo Ramírez,E
+2169,B60410958,Pol Cáceres,E
+2170,A53234324,Marc Navas Bermúdez,F
+2171,V2738762J,Bruno Adam Bonet Pulido,A
+2172,S0085490A,Ona Salvà Pizarro,D
+2173,B95922167,Miguel Prieto Ribera,C
+2174,J3353939F,Isabel Varela,A
+2175,B41571647,Mia Escudero Galan,E
+2176,W8545144A,Albert Solís-Acedo,C
+2177,S5147401C,María Del Carmen Blazquez,C
+2178,F7513084I,Martí Rocamora Bilbao,F
+2179,V8982148B,Carlos Carlos Espejo,E
+2180,G71220651,Júlia Gras Porta,B
+2181,F6804250F,María Dolores Ferrández Colom,E
+2182,P3531278D,Èric de Agustí,D
+2183,G96947643,María Del Carmen Esparza Godoy,C
+2184,B41571647,Mia Escudero Galan,C
+2185,G13084090,Lucas Ocaña Huertas,D
+2186,U7141532G,Pau Talavera Moliner,D
+2187,E34248922,Pedro Larrañaga Domingo,E
+2188,G07621824,Sara Ángel Nieto,E
+2189,R7687550I,Juan Pozuelo Vila,E
+2190,C80754989,Ana Lucia Montoya Requena,D
+2191,P3240555G,Francisca Buendía Vigil,C
+2192,G44377703,Noa Mate Diego,F
+2193,V2167857H,Manuel Cerro Pol,F
+2194,R5715872G,Emma de Almagro,E
+2195,U7273775B,Albert Montoya Escamilla,F
+2196,N3620309I,Dolores Gelabert,E
+2197,V4665297J,Juan Cruz Pallarès,B
+2198,D05154323,Paula Tomás Bello,B
+2199,H48271738,Laia Oliveras Puente,A
+2200,H46432969,Antònia Noa Pedrero Diéguez,F
+2201,U5487419C,Pol Nil Barbero Olivera,A
+2202,N1790348E,Arlet Huguet Coloma,A
+2203,B31484074,Jordi Cuenca Blanes,E
+2204,S2927291A,Lucia Porras Miguel,C
+2205,A51927812,Lucas Jordi Rodriguez Lobo,C
+2206,H70835210,Joan de Cañas,A
+2207,R4624337D,Anna del Otero,C
+2208,V3555537D,Montserrat Bayo Garay,D
+2209,Q0041000A,David Chaves Cantero,C
+2210,V8982148B,Carlos Carlos Espejo,B
+2211,E47464060,Francisco Palomares Ocaña,A
+2212,H42115923,Clàudia Perea Bermudez,F
+2213,R8192469H,Enzo Escalona Morales,B
+2214,N2759694I,María Dolores Júlia Montenegro Ramón,A
+2215,E73982548,Júlia Palomino Company,F
+2216,D34934612,Laura Plaza Guardiola,F
+2217,W0083928B,Sara Gil Jordán,D
+2218,F7517085B,Carlos Rosado Aguiló,E
+2219,J2992255F,Chlóe Alba Navarrete,E
+2220,P6887458E,Nil del Morillo,E
+2221,J8150128J,Cristina Reina Santana,A
+2222,F7513084I,Martí Rocamora Bilbao,B
+2223,Q9514578E,Anna Benítez Rovira,C
+2224,P7917625A,Joan Ferrera Canals,F
+2225,J3353939F,Isabel Varela,D
+2226,F7093027F,Bruno Valderrama-Gutierrez,D
+2227,N3620309I,Dolores Gelabert,D
+2228,B22399109,Clàudia Valdés Jover,F
+2229,D51426096,Paula de Cantero,E
+2230,D18702910,Marc Villar Nicolás,D
+2231,N3620309I,Dolores Gelabert,A
+2232,U4290146B,Aleix de Ávila,F
+2233,U7308622E,Mia Palomares-Torrijos,D
+2234,H59430249,Júlia Aramburu Delgado,E
+2235,B57625451,Antonia Campoy Alcalde,F
+2236,N2759694I,María Dolores Júlia Montenegro Ramón,D
+2237,R1153706E,Carlos Capdevila,A
+2238,S1410175B,Lucas Frutos Andrés,F
+2239,Q2116390B,Francisca Marta Arias Ferrero,E
+2240,E73982548,Júlia Palomino Company,B
+2241,P2199273J,Enzo de Osorio,E
+2242,Q8575731H,Emma de Rueda,C
+2243,G68200534,Martina Cano Pineda,E
+2244,H92027010,Ana Tello Alemán,E
+2245,F9340007E,Chlóe Moliner,E
+2246,D76934231,Álex Carballo Aranda,B
+2247,A71678262,Francisco Sanmartín,A
+2248,F7517085B,Carlos Rosado Aguiló,A
+2249,F8773593B,David Sainz-Royo,A
+2250,C14434534,María Teresa del Villalonga,E
+2251,U8380205H,Hugo Gálvez Ibarra,B
+2252,B27774157,Jordi Revilla,A
+2253,A02143311,Francisco Aranda Peinado,B
+2254,Q7832857B,Valèria Sánchez,F
+2255,S3409072J,Adam del Lara,E
+2256,A94611183,Antònia Frías Macías,F
+2257,W9742873D,Cristina Mia Falcón Ros,A
+2258,A30004071,Pau Peláez Cano,B
+2259,J4856729A,Pedro Cabrero Agullo,A
+2260,H37157526,Arlet Sala Narváez,E
+2261,G73658932,Laura Bilbao Sala,D
+2262,P7917625A,Joan Ferrera Canals,D
+2263,B87614681,Jordi Arnau Carlos Cabrero,F
+2264,S5147401C,María Del Carmen Blazquez,C
+2265,E55193205,Laia Boix Montenegro,A
+2266,U4804259B,Max Goñi Dávila,A
+2267,C06753156,Lucas Paniagua Llano,F
+2268,D59333971,Anna Montaña-Uriarte,B
+2269,E86578564,Jordi Ros-Uriarte,C
+2270,S6417982C,Arnau Gonzalo-Barrios,E
+2271,P2617169D,Cristina Yáñez Girón,E
+2272,U1774374A,Martina Solano Roma,A
+2273,J3353939F,Isabel Varela,D
+2274,F4119576I,Carlos Mayoral Cervantes,F
+2275,J0165116E,Carmen Salcedo Gomila,E
+2276,W0083928B,Sara Gil Jordán,F
+2277,E96573001,Sara Gárate Nuñez,A
+2278,R5656344H,Carla Linares Escolano,C
+2279,P3798114I,Ana de Larrea,E
+2280,J9643335D,Juan Maldonado Mayol,E
+2281,P2473520A,Sílvia Carnero Bas,B
+2282,J2907838C,Carmen Marta Cruz Carpio,B
+2283,D03554946,Joan Azcona,D
+2284,F6441455J,Carla Hernández Estrada,F
+2285,W4284402G,Mia Ona Tirado Herranz,A
+2286,J2907838C,Carmen Marta Cruz Carpio,A
+2287,C33342999,Anna Avilés-Palomar,D
+2288,E01391861,José Pi Alvarez,B
+2289,C95560819,Biel Hierro Salom,D
+2290,U4212659I,Xavier Vicente Meléndez,B
+2291,F7029229G,Daniel Prat Calvo,C
+2292,B64747389,Èric Roman Mena,D
+2293,P2199273J,Enzo de Osorio,E
+2294,D14737068,Paula Villalba Alcázar,E
+2295,C78976982,Pau del Avilés,B
+2296,H21342050,David Arellano Sebastián,A
+2297,H75562959,Bruno Lozano Galan,A
+2298,A09069840,Leo Abellán,F
+2299,G76937929,María Dolores Sofía Salvador Teruel,B
+2300,H36110567,Laia Castell Llobet,C
+2301,P6887458E,Nil del Morillo,B
+2302,S0662896J,Álex Julián Cervantes,F
+2303,U5487419C,Pol Nil Barbero Olivera,E
+2304,P6579449G,Laura Manjón Barón,A
+2305,P2473520A,Sílvia Carnero Bas,A
+2306,J9643335D,Juan Maldonado Mayol,D
+2307,H31037914,Laura Llorente Olivares,F
+2308,Q5809313I,Biel Segovia Pedrero,F
+2309,G56742331,Max Llano Bertrán,A
+2310,S1511089C,Arnau Borja Abril,B
+2311,A53234324,Marc Navas Bermúdez,B
+2312,S0662896J,Álex Julián Cervantes,A
+2313,F1405226J,Adam Abella Valle,A
+2314,B87614681,Jordi Arnau Carlos Cabrero,A
+2315,C28142149,Aleix Moya Collado,B
+2316,J9643335D,Juan Maldonado Mayol,F
+2317,R4624337D,Anna del Otero,F
+2318,C52853389,Carla Leiva Pacheco,D
+2319,E44235414,Juan de Guerrero,C
+2320,F9314032E,David Luís Tolosa,F
+2321,S3989833C,Aleix Jove Cantero,C
+2322,W9727961F,Albert Cerdán Chamorro,D
+2323,Q8575731H,Emma de Rueda,A
+2324,F7513084I,Martí Rocamora Bilbao,C
+2325,V4055410G,Clàudia Lobo,D
+2326,D53404240,Ramón Huertas Naranjo,D
+2327,D57672396,Chlóe Tomas Santamaria,A
+2328,B64747389,Èric Roman Mena,A
+2329,A35443936,Pol Salgado Buendía,E
+2330,G89205264,Montserrat Carla Lobato Salamanca,C
+2331,N2759694I,María Dolores Júlia Montenegro Ramón,E
+2332,B64747389,Èric Roman Mena,E
+2333,G19357722,Núria Olmedo-Portero,A
+2334,Q2116390B,Francisca Marta Arias Ferrero,F
+2335,W9727961F,Albert Cerdán Chamorro,F
+2336,N3620309I,Dolores Gelabert,E
+2337,A13684352,Leo Adam Saavedra Verdejo,D
+2338,E47909023,Sílvia Pinilla Hervás,A
+2339,R4624337D,Anna del Otero,A
+2340,F7517085B,Carlos Rosado Aguiló,C
+2341,U1774374A,Martina Solano Roma,E
+2342,F1405226J,Adam Abella Valle,C
+2343,C06753156,Lucas Paniagua Llano,B
+2344,H00974097,Daniel Cornejo Mateos,B
+2345,D44217990,Nil Bilbao Sastre,D
+2346,N0515267C,Noa Ochoa Bartolomé,C
+2347,D33698531,Aina Ferrán-Dávila,B
+2348,Q9754107B,Francisco Antón-Cañellas,F
+2349,S8355279D,Antonia Bermejo Bayo,D
+2350,C64875321,Pau del Bayón,A
+2351,P5728622A,Daniel Castillo Hurtado,D
+2352,C26701623,Arnau Bertrán Aragón,F
+2353,S8641797I,Aina Pi Trujillo,C
+2354,J9643335D,Juan Maldonado Mayol,D
+2355,A09069840,Leo Abellán,A
+2356,Q2834551J,Noa Ordóñez,F
+2357,J7285606E,Emma Pallarès-Colom,E
+2358,R4624337D,Anna del Otero,C
+2359,J2410709F,Júlia Montenegro Muro,F
+2360,N3184593F,Antonio Peralta Angulo,A
+2361,D64321540,María Dolores del Boada,B
+2362,J6049614H,Júlia Sevillano Palomar,C
+2363,C40980427,Nil Adam Leon Jaén,F
+2364,P2199273J,Enzo de Osorio,F
+2365,F5675046F,José Carballo Gutierrez,A
+2366,P7917625A,Joan Ferrera Canals,B
+2367,S1410175B,Lucas Frutos Andrés,B
+2368,F8773593B,David Sainz-Royo,B
+2369,R3314974A,María Teresa Ona Ferrándiz Donoso,F
+2370,W9833166C,Leo Èric Ibarra Castellanos,E
+2371,P2199273J,Enzo de Osorio,B
+2372,U9830036A,Núria Goicoechea Milla,C
+2373,G68200534,Martina Cano Pineda,E
+2374,J5950441E,Chlóe del Villalba,E
+2375,C56963325,Abril Díez,E
+2376,A90436353,Júlia Saura-Colomer,B
+2377,H13226295,Pau Rosado Palomar,E
+2378,H31037914,Laura Llorente Olivares,E
+2379,E01391861,José Pi Alvarez,B
+2380,U7308622E,Mia Palomares-Torrijos,E
+2381,J8150128J,Cristina Reina Santana,E
+2382,D86117876,Enzo Gimeno Carnero,F
+2383,P2473520A,Sílvia Carnero Bas,C
+2384,H60091485,Sofía Collado Botella,B
+2385,H46432969,Antònia Noa Pedrero Diéguez,A
+2386,V7809521C,Antònia Anna Saez Belda,F
+2387,Q0041000A,David Chaves Cantero,B
+2388,V4258212B,Marc Dominguez Barberá,A
+2389,B60410958,Pol Cáceres,C
+2390,D07727019,Álex Hervia Vazquez,C
+2391,D43493675,Èric Marin Comas,B
+2392,E47464060,Francisco Palomares Ocaña,B
+2393,P2302883J,Èric Font Vargas,A
+2394,H44219327,David de Carretero,A
+2395,C52853389,Carla Leiva Pacheco,B
+2396,E65793119,Enzo Leiva-Sainz,B
+2397,W9742873D,Cristina Mia Falcón Ros,C
+2398,F7093027F,Bruno Valderrama-Gutierrez,A
+2399,C95560819,Biel Hierro Salom,A
+2400,P7256844G,Mia Giménez Carlos,C
+2401,Q7010862F,Miguel Torrens Fernandez,B
+2402,A42249482,Marta del Bernat,B
+2403,N5426927I,Aleix Cervera Alfaro,A
+2404,S0727486C,Adam Aliaga Pons,E
+2405,W7861640F,Aleix de Fiol,E
+2406,J3353939F,Isabel Varela,A
+2407,P3478472H,Laura Mata-Nicolás,C
+2408,G68200534,Martina Cano Pineda,E
+2409,D32512451,Albert Viña Gallardo,F
+2410,U4804259B,Max Goñi Dávila,A
+2411,W3053262F,Xavier Batlle-Mur,B
+2412,D32512451,Albert Viña Gallardo,F
+2413,N8631109I,Francisca Martina Rodríguez Hoyos,F
+2414,Q7832857B,Valèria Sánchez,A
+2415,J5466519E,Arnau Lerma Catalá,C
+2416,U7141532G,Pau Talavera Moliner,A
+2417,G71220651,Júlia Gras Porta,E
+2418,F1014977A,Pedro Murcia-Valbuena,D
+2419,W9742873D,Cristina Mia Falcón Ros,B
+2420,J8918438F,Francisco Roldan,E
+2421,U7141532G,Pau Talavera Moliner,A
+2422,F1405226J,Adam Abella Valle,B
+2423,N3777084I,Pau Herranz Artigas,B
+2424,B41571647,Mia Escudero Galan,A
+2425,C28142149,Aleix Moya Collado,E
+2426,J1443172J,Pau Javier Lara Tur,A
+2427,Q5328944C,Xavier Carrillo Iglesia,E
+2428,E73982548,Júlia Palomino Company,F
+2429,F5675046F,José Carballo Gutierrez,E
+2430,W9073176A,Èric Cortina Vazquez,A
+2431,W9073176A,Èric Cortina Vazquez,A
+2432,S5147401C,María Del Carmen Blazquez,D
+2433,B21983689,Josep de Ibarra,D
+2434,G15254279,Josep Pera,C
+2435,N4218554F,Francisco Sanz Perea,C
+2436,F9314032E,David Luís Tolosa,C
+2437,H46432969,Antònia Noa Pedrero Diéguez,A
+2438,H42115923,Clàudia Perea Bermudez,E
+2439,W9073176A,Èric Cortina Vazquez,E
+2440,B64747389,Èric Roman Mena,B
+2441,A90436353,Júlia Saura-Colomer,F
+2442,V2447244A,Jordi Vilar Fortuny,C
+2443,R4624337D,Anna del Otero,F
+2444,F8243580A,Montserrat Saez Sabater,F
+2445,R7616148H,Carmen Jana Taboada Almansa,C
+2446,J5950441E,Chlóe del Villalba,C
+2447,W9727961F,Albert Cerdán Chamorro,A
+2448,G79531372,Laia Seguí,C
+2449,N4056672A,Carmen Emma Iñiguez Azcona,C
+2450,H37157526,Arlet Sala Narváez,F
+2451,S8355279D,Antonia Bermejo Bayo,F
+2452,Q5328944C,Xavier Carrillo Iglesia,C
+2453,C64875321,Pau del Bayón,D
+2454,D32512451,Albert Viña Gallardo,B
+2455,C75059956,Jorge Baena,A
+2456,E50342690,Ana Anna Perea Bermúdez,B
+2457,G07621824,Sara Ángel Nieto,A
+2458,H13226295,Pau Rosado Palomar,A
+2459,F8100344D,Abril Macías Guardiola,D
+2460,U3750527H,Biel Rojas Arias,B
+2461,E56707995,Aina Otero-Gutiérrez,A
+2462,W8922173C,Álex Amo Alcalá,D
+2463,S1898085D,Biel Vazquez Valverde,E
+2464,W9727961F,Albert Cerdán Chamorro,C
+2465,R1153706E,Carlos Capdevila,F
+2466,D05154323,Paula Tomás Bello,E
+2467,W9218380E,Pol del Sanjuan,D
+2468,J1701006G,Biel Arrieta Losada,A
+2469,A94611183,Antònia Frías Macías,F
+2470,V4665297J,Juan Cruz Pallarès,E
+2471,J2907838C,Carmen Marta Cruz Carpio,F
+2472,E63659452,Joan Sales,A
+2473,P3531278D,Èric de Agustí,A
+2474,A02143311,Francisco Aranda Peinado,B
+2475,S0662896J,Álex Julián Cervantes,F
+2476,S1410175B,Lucas Frutos Andrés,E
+2477,N8631109I,Francisca Martina Rodríguez Hoyos,B
+2478,S3651419H,Enzo Carnero-Aliaga,C
+2479,E23616857,Marc Luz Casas,D
+2480,E88184023,Bruno Recio Cid,F
+2481,U1774374A,Martina Solano Roma,B
+2482,Q7554170F,José María Cuenca-Pera,D
+2483,V2167857H,Manuel Cerro Pol,A
+2484,N7359672H,Daniel Bartolomé Vilar,A
+2485,J4450361C,Júlia Cano Amorós,C
+2486,H13226295,Pau Rosado Palomar,E
+2487,N6720616I,Cristina Coll Marín,F
+2488,Q4579611G,Leo Verdú Sastre,A
+2489,J7904048A,Èric Portillo Ferrera,C
+2490,E73982548,Júlia Palomino Company,A
+2491,Q7967239J,Paula Agustín Gimeno,C
+2492,Q7554170F,José María Cuenca-Pera,D
+2493,Q7554170F,José María Cuenca-Pera,A
+2494,N0431570A,Xavier Mata González,F
+2495,A13684352,Leo Adam Saavedra Verdejo,A
+2496,B13701750,Ramón Bastida Valentín,C
+2497,F8773593B,David Sainz-Royo,C
+2498,Q7832857B,Valèria Sánchez,C
+2499,B90285073,Lucia de Ballester,C
+2500,E23616857,Marc Luz Casas,B
+2501,R1233513I,Cristina Fábregas Domingo,A
+2502,Q8575731H,Emma de Rueda,B
+2503,R1153706E,Carlos Capdevila,D
+2504,W5008386D,Laura Montes Céspedes,C
+2505,N2845937H,Montserrat Manzanares-Herrero,B
+2506,V5404049H,Biel Pau Tolosa Llorens,D
+2507,G07621824,Sara Ángel Nieto,B
+2508,H23653579,Manuel David Rosado Acero,B
+2509,D18702910,Marc Villar Nicolás,C
+2510,H23653579,Manuel David Rosado Acero,E
+2511,W8974025B,Dolores Mayol Cabrero,D
+2512,F8773593B,David Sainz-Royo,F
+2513,E65877607,Antonia Carlos Valderrama,B
+2514,J3353939F,Isabel Varela,E
+2515,U7273775B,Albert Montoya Escamilla,A
+2516,H31037914,Laura Llorente Olivares,B
+2517,G56742331,Max Llano Bertrán,F
+2518,Q7832857B,Valèria Sánchez,C
+2519,H21106232,Mia del Benítez,A
+2520,Q7211251I,Marc Reina Arrieta,E
+2521,S1471928J,Carla Ferrán Tenorio,F
+2522,N1676896B,Mia Águila Ribas,B
+2523,E52404001,Josefa Uriarte,C
+2524,E56877343,Martí Iglesias Espejo,D
+2525,G68200534,Martina Cano Pineda,C
+2526,S0662896J,Álex Julián Cervantes,F
+2527,V8231148A,Ona de Arjona,C
+2528,G90306762,Èric Blázquez Gil,E
+2529,A42249482,Marta del Bernat,A
+2530,C04838918,Valèria Urrutia Cal,A
+2531,F2210369A,Pol Robles-Aguilar,E
+2532,F2776503A,Francisca Ureña,C
+2533,V3380673H,Enzo Alberdi Sainz,E
+2534,W4799866A,Manuel Cózar Albero,D
+2535,H73279598,Jordi Manrique Verdugo,B
+2536,G83025460,Noa Cueto Ribas,E
+2537,C49543051,Pau Caro Gallego,A
+2538,G61008355,Arlet Lladó Diego,E
+2539,F9551675C,Ana Morante-Vazquez,B
+2540,H03012952,Mia Méndez Ribes,E
+2541,H75562959,Bruno Lozano Galan,A
+2542,N2518597F,Noa de Grande,D
+2543,C47311329,Sofía Guzman Villar,A
+2544,P2473520A,Sílvia Carnero Bas,E
+2545,P2199273J,Enzo de Osorio,C
+2546,G26285767,Hugo del Núñez,D
+2547,E23616857,Marc Luz Casas,F
+2548,G29421625,Isabel Aramburu Baquero,B
+2549,U1774374A,Martina Solano Roma,F
+2550,N3620309I,Dolores Gelabert,F
+2551,H42115923,Clàudia Perea Bermudez,C
+2552,P7187021F,Antònia Paula Juliá Jaén,E
+2553,E96573001,Sara Gárate Nuñez,B
+2554,H60091485,Sofía Collado Botella,B
+2555,C80754989,Ana Lucia Montoya Requena,A
+2556,U1774374A,Martina Solano Roma,B
+2557,N9805030E,Laia Real Sanmartín,B
+2558,H75562959,Bruno Lozano Galan,C
+2559,C52853389,Carla Leiva Pacheco,C
+2560,U6069713C,Álex de Morales,D
+2561,N9805030E,Laia Real Sanmartín,F
+2562,V3042112G,Bruno Martorell,E
+2563,C26701623,Arnau Bertrán Aragón,E
+2564,F3391179C,Abril Toledo,C
+2565,D65605370,Martina Velasco Soriano,E
+2566,H00974097,Daniel Cornejo Mateos,C
+2567,W9727961F,Albert Cerdán Chamorro,C
+2568,Q2834551J,Noa Ordóñez,B
+2569,P3531278D,Èric de Agustí,D
+2570,A90436353,Júlia Saura-Colomer,F
+2571,D33698531,Aina Ferrán-Dávila,A
+2572,A51927812,Lucas Jordi Rodriguez Lobo,A
+2573,V5995012A,Laura Roma Boix,A
+2574,P2302883J,Èric Font Vargas,F
+2575,E86578564,Jordi Ros-Uriarte,E
+2576,N9805030E,Laia Real Sanmartín,B
+2577,J3751394B,Josep Ramón Palomar Múgica,C
+2578,N6419040H,Marc Ramos Leon,C
+2579,G07621824,Sara Ángel Nieto,F
+2580,H42115923,Clàudia Perea Bermudez,F
+2581,P2473520A,Sílvia Carnero Bas,F
+2582,F0005249H,Arnau Huguet Chaparro,B
+2583,F8971698I,Ramón Rozas Baró,F
+2584,B13701750,Ramón Bastida Valentín,D
+2585,A28346542,Martina Fuentes-Moll,A
+2586,S0397959H,María Dolores Arroyo Saez,C
+2587,H23653579,Manuel David Rosado Acero,C
+2588,D83592501,Sílvia Mate-Paredes,D
+2589,U8112016D,Joan Villalobos Carnero,E
+2590,F8299437G,Lucas Marc Robledo Hernandez,A
+2591,P2617169D,Cristina Yáñez Girón,E
+2592,A42249482,Marta del Bernat,C
+2593,B90285073,Lucia de Ballester,C
+2594,H64502842,Pau Valencia Martinez,F
+2595,E47909023,Sílvia Pinilla Hervás,C
+2596,Q5328944C,Xavier Carrillo Iglesia,D
+2597,H48271738,Laia Oliveras Puente,E
+2598,J9643335D,Juan Maldonado Mayol,B
+2599,E56707995,Aina Otero-Gutiérrez,C
+2600,G71220651,Júlia Gras Porta,E
+2601,Q0041000A,David Chaves Cantero,F
+2602,P7917625A,Joan Ferrera Canals,F
+2603,D03554946,Joan Azcona,C
+2604,G07621824,Sara Ángel Nieto,E
+2605,P5728622A,Daniel Castillo Hurtado,E
+2606,H37157526,Arlet Sala Narváez,E
+2607,C94387792,Paula Rosa Perea,D
+2608,J0110698H,Antonio Rocamora Aragón,C
+2609,G56742331,Max Llano Bertrán,F
+2610,Q0041000A,David Chaves Cantero,E
+2611,H34827741,David Olivares-Julián,B
+2612,C75059956,Jorge Baena,C
+2613,U5982724F,Jorge Manzano-Oliver,E
+2614,W9727961F,Albert Cerdán Chamorro,B
+2615,J8863857B,Rosa Alberola Coll,B
+2616,R5336309I,Rosa Torralba Rozas,B
+2617,C90629742,María Del Carmen Herranz-Milla,D
+2618,S2927291A,Lucia Porras Miguel,A
+2619,H60091485,Sofía Collado Botella,D
+2620,P5728622A,Daniel Castillo Hurtado,C
+2621,V7809521C,Antònia Anna Saez Belda,F
+2622,P2473520A,Sílvia Carnero Bas,F
+2623,F6804250F,María Dolores Ferrández Colom,C
+2624,S0397959H,María Dolores Arroyo Saez,D
+2625,U6069713C,Álex de Morales,E
+2626,C87660817,María Dolores Romeu-Bastida,E
+2627,S7995912H,Josefa Laura Llorens Villanueva,A
+2628,E34862805,Rosa Porta,F
+2629,P0280894G,Leo Gaya Laguna,E
+2630,G54830989,Sofía Mateo Alemany,E
+2631,V4046368I,María Dolores Mendez Sebastián,C
+2632,Q5328944C,Xavier Carrillo Iglesia,E
+2633,P0546131D,José María Bru Cuesta,B
+2634,G73658932,Laura Bilbao Sala,E
+2635,B28472710,Emma María Teresa Sureda Estevez,E
+2636,C28142149,Aleix Moya Collado,C
+2637,A84080670,Joan de Olmedo,E
+2638,E50536853,Max Aragonés Cabello,B
+2639,E65877607,Antonia Carlos Valderrama,B
+2640,D59333971,Anna Montaña-Uriarte,B
+2641,D43493675,Èric Marin Comas,B
+2642,N0515267C,Noa Ochoa Bartolomé,F
+2643,C87660817,María Dolores Romeu-Bastida,F
+2644,E25161068,Marta Oliver Alfaro,F
+2645,E65877607,Antonia Carlos Valderrama,F
+2646,D44217990,Nil Bilbao Sastre,E
+2647,F7513084I,Martí Rocamora Bilbao,A
+2648,J0110698H,Antonio Rocamora Aragón,C
+2649,A51927812,Lucas Jordi Rodriguez Lobo,C
+2650,E50536853,Max Aragonés Cabello,E
+2651,B39226162,Jana Villanueva Quirós,B
+2652,C17131251,Lucia Uribe,D
+2653,S0662896J,Álex Julián Cervantes,C
+2654,N2759694I,María Dolores Júlia Montenegro Ramón,A
+2655,J7285606E,Emma Pallarès-Colom,F
+2656,C48788897,Clàudia Manzanares Angulo,B
+2657,G93234177,Rosa Laura Nogués Casares,D
+2658,W3053262F,Xavier Batlle-Mur,F
+2659,B52401858,José Buendía-Sarabia,B
+2660,P0546131D,José María Bru Cuesta,D
+2661,A81512261,Sílvia Lobo Ramírez,C
+2662,B37939139,Josep Casanovas Vázquez,C
+2663,B55324438,Antònia Elorza Requena,E
+2664,W4284402G,Mia Ona Tirado Herranz,E
+2665,H78024064,Max Quintana-Morales,A
+2666,D32512451,Albert Viña Gallardo,A
+2667,W4359932C,Dolores del Miguel,D
+2668,J9967593F,Nil Patiño-Perea,B
+2669,N5426927I,Aleix Cervera Alfaro,B
+2670,S3409072J,Adam del Lara,D
+2671,B27774157,Jordi Revilla,B
+2672,N8243349A,Paula Sáez Ripoll,E
+2673,S0085490A,Ona Salvà Pizarro,E
+2674,N9465554E,Chlóe Cerezo-Arenas,C
+2675,D86117876,Enzo Gimeno Carnero,F
+2676,Q4232915A,Antònia Colomer Blanca,F
+2677,E01391861,José Pi Alvarez,D
+2678,S1267649J,Carmen Corominas,C
+2679,E52404001,Josefa Uriarte,C
+2680,S8641797I,Aina Pi Trujillo,F
+2681,N9318716I,Pedro Valderrama Marí,F
+2682,F6804250F,María Dolores Ferrández Colom,F
+2683,S1898085D,Biel Vazquez Valverde,D
+2684,D77234466,Enzo Albert Roselló Castejón,F
+2685,R3314974A,María Teresa Ona Ferrándiz Donoso,A
+2686,E23616857,Marc Luz Casas,A
+2687,R4624337D,Anna del Otero,A
+2688,P6353735A,Rosa del Neira,B
+2689,U4578017H,Paula Canet Nuñez,F
+2690,N1790348E,Arlet Huguet Coloma,A
+2691,C48788897,Clàudia Manzanares Angulo,B
+2692,P3531278D,Èric de Agustí,B
+2693,E20240735,Enzo de Garrido,B
+2694,S7995912H,Josefa Laura Llorens Villanueva,C
+2695,S8037889F,Arlet Torre Ponce,E
+2696,D53404240,Ramón Huertas Naranjo,B
+2697,E73982548,Júlia Palomino Company,C
+2698,P8832380C,María Dolores Luz-Pera,F
+2699,C75059956,Jorge Baena,D
+2700,N5426927I,Aleix Cervera Alfaro,F
+2701,U9961248C,Pau Priego Paniagua,A
+2702,U7141532G,Pau Talavera Moliner,B
+2703,Q4232915A,Antònia Colomer Blanca,E
+2704,S5329165D,Hugo Sanz Amat,F
+2705,J9446526G,Marta Águila Cervantes,D
+2706,A04422861,Francisca Rubio Paredes,E
+2707,U5487419C,Pol Nil Barbero Olivera,D
+2708,B82071457,Noa Coello Mendoza,E
+2709,H70835210,Joan de Cañas,B
+2710,F2545250I,Manuel Castellanos Arenas,F
+2711,R7616148H,Carmen Jana Taboada Almansa,B
+2712,P7917625A,Joan Ferrera Canals,C
+2713,W5008386D,Laura Montes Céspedes,F
+2714,B43837079,Laura Marquez Izquierdo,E
+2715,D59333971,Anna Montaña-Uriarte,F
+2716,N8496367G,Ona de Torrens,B
+2717,U7038519J,Ana Cortina Rubio,F
+2718,A94611183,Antònia Frías Macías,B
+2719,S1511089C,Arnau Borja Abril,E
+2720,F6683839B,Montserrat Múgica Manrique,E
+2721,N2518597F,Noa de Grande,E
+2722,V7809521C,Antònia Anna Saez Belda,C
+2723,D64321540,María Dolores del Boada,A
+2724,Q5968253D,Noa Planas Rincón,D
+2725,J4856729A,Pedro Cabrero Agullo,A
+2726,C40980427,Nil Adam Leon Jaén,C
+2727,H19110485,María de Villena,B
+2728,A13684352,Leo Adam Saavedra Verdejo,C
+2729,Q7186100I,Èric Cifuentes,E
+2730,W8545144A,Albert Solís-Acedo,A
+2731,P3771212B,Josep de Martí,F
+2732,F8025276J,Carla Ribas Ariño,B
+2733,B90285073,Lucia de Ballester,D
+2734,H37157526,Arlet Sala Narváez,A
+2735,W9727961F,Albert Cerdán Chamorro,D
+2736,J3512655F,Enzo Escolano Sanmiguel,A
+2737,N8152756F,Laia Batalla-Villalba,C
+2738,W8604747I,Lucia Ribas Dalmau,D
+2739,A12410726,Josep Caro Mayoral,A
+2740,R1153706E,Carlos Capdevila,B
+2741,B39226162,Jana Villanueva Quirós,C
+2742,C75059956,Jorge Baena,E
+2743,S7366447F,Carlos Crespi Perales,C
+2744,B87614681,Jordi Arnau Carlos Cabrero,D
+2745,G71220651,Júlia Gras Porta,E
+2746,S5147401C,María Del Carmen Blazquez,D
+2747,C06753156,Lucas Paniagua Llano,A
+2748,S0662896J,Álex Julián Cervantes,E
+2749,R3314974A,María Teresa Ona Ferrándiz Donoso,E
+2750,P0078682B,María Del Carmen del Belda,B
+2751,E86578564,Jordi Ros-Uriarte,D
+2752,S0662896J,Álex Julián Cervantes,A
+2753,G62107743,Emma Farré,C
+2754,E56877343,Martí Iglesias Espejo,D
+2755,B74114653,Leo Cordero Acosta,D
+2756,R5656344H,Carla Linares Escolano,D
+2757,C21370879,Pol Puente Lucena,A
+2758,Q7832857B,Valèria Sánchez,D
+2759,D83545129,Francisca Font Navarro,C
+2760,Q7211251I,Marc Reina Arrieta,D
+2761,H36110567,Laia Castell Llobet,D
+2762,N7090594H,Chlóe Plana Echevarría,A
+2763,V2015246H,Martí Agullo-Campos,E
+2764,P3012798I,Hugo Rueda,B
+2765,U0847812E,Abril Andres Herrera,D
+2766,H42115923,Clàudia Perea Bermudez,E
+2767,C40980427,Nil Adam Leon Jaén,B
+2768,D43493675,Èric Marin Comas,C
+2769,F5675046F,José Carballo Gutierrez,F
+2770,D44217990,Nil Bilbao Sastre,E
+2771,W0083928B,Sara Gil Jordán,A
+2772,S3651419H,Enzo Carnero-Aliaga,E
+2773,C95560819,Biel Hierro Salom,A
+2774,D34934612,Laura Plaza Guardiola,B
+2775,C48788897,Clàudia Manzanares Angulo,E
+2776,F2776503A,Francisca Ureña,C
+2777,S0397959H,María Dolores Arroyo Saez,B
+2778,E65877607,Antonia Carlos Valderrama,C
+2779,D44217990,Nil Bilbao Sastre,B
+2780,D05154323,Paula Tomás Bello,B
+2781,G08270886,José María de Galvez,E
+2782,P6713486F,Cristina Tomas Salvà,B
+2783,E85913895,Álex Juliá Cantón,C
+2784,F2545250I,Manuel Castellanos Arenas,A
+2785,H42115923,Clàudia Perea Bermudez,E
+2786,S0662896J,Álex Julián Cervantes,A
+2787,E52404001,Josefa Uriarte,E
+2788,S1410175B,Lucas Frutos Andrés,F
+2789,H65400632,Abril Cáceres Manjón,F
+2790,N4457128I,Francisco Meléndez Gargallo,F
+2791,P0280894G,Leo Gaya Laguna,D
+2792,F2431907A,Sílvia Pino Torrent,D
+2793,E56877343,Martí Iglesias Espejo,E
+2794,H42115923,Clàudia Perea Bermudez,E
+2795,N4056672A,Carmen Emma Iñiguez Azcona,C
+2796,N6720616I,Cristina Coll Marín,D
+2797,Q0041000A,David Chaves Cantero,B
+2798,W1796907B,Mia Abellán Pulido,C
+2799,F9340007E,Chlóe Moliner,E
+2800,C26701623,Arnau Bertrán Aragón,A
+2801,B11913498,Pedro Ricart Cantón,A
+2802,N1676896B,Mia Águila Ribas,E
+2803,N1790348E,Arlet Huguet Coloma,F
+2804,F0005249H,Arnau Huguet Chaparro,F
+2805,V7999367A,Lucia Abascal Tejera,A
+2806,B21983689,Josep de Ibarra,D
+2807,V3380673H,Enzo Alberdi Sainz,A
+2808,C78976982,Pau del Avilés,F
+2809,E20240735,Enzo de Garrido,B
+2810,V2447244A,Jordi Vilar Fortuny,A
+2811,G26285767,Hugo del Núñez,D
+2812,W1247153H,Martina Nuñez Estevez,A
+2813,B82071457,Noa Coello Mendoza,D
+2814,V4665297J,Juan Cruz Pallarès,E
+2815,C33342999,Anna Avilés-Palomar,D
+2816,P2199273J,Enzo de Osorio,E
+2817,S8641797I,Aina Pi Trujillo,A
+2818,N8496367G,Ona de Torrens,D
+2819,A13684352,Leo Adam Saavedra Verdejo,B
+2820,E48027734,Francisco Arnau Calderón Ángel,C
+2821,C28252815,Èric Botella Armengol,E
+2822,Q0041000A,David Chaves Cantero,F
+2823,R1233513I,Cristina Fábregas Domingo,B
+2824,P3531278D,Èric de Agustí,E
+2825,V5995012A,Laura Roma Boix,E
+2826,J5466519E,Arnau Lerma Catalá,E
+2827,B87614681,Jordi Arnau Carlos Cabrero,F
+2828,W9218380E,Pol del Sanjuan,F
+2829,W9218380E,Pol del Sanjuan,D
+2830,H31037914,Laura Llorente Olivares,B
+2831,N1790348E,Arlet Huguet Coloma,E
+2832,E96573001,Sara Gárate Nuñez,D
+2833,P1659317J,Hugo Castrillo Otero,D
+2834,G07621824,Sara Ángel Nieto,C
+2835,D18702910,Marc Villar Nicolás,D
+2836,N2244432G,Laia Solsona Goicoechea,D
+2837,N2423224A,Biel de Guitart,F
+2838,F0005249H,Arnau Huguet Chaparro,A
+2839,F6441455J,Carla Hernández Estrada,D
+2840,B36032787,Sara Alfonso Cortes,D
+2841,G08270886,José María de Galvez,C
+2842,N2518597F,Noa de Grande,E
+2843,C28142149,Aleix Moya Collado,E
+2844,Q3614781G,María Dolores Martínez Aznar,B
+2845,B52401858,José Buendía-Sarabia,A
+2846,J6049614H,Júlia Sevillano Palomar,A
+2847,U7308622E,Mia Palomares-Torrijos,C
+2848,N0431570A,Xavier Mata González,D
+2849,P3798114I,Ana de Larrea,D
+2850,N2759694I,María Dolores Júlia Montenegro Ramón,E
+2851,J5466519E,Arnau Lerma Catalá,B
+2852,P3067352I,Dolores Carbó,B
+2853,S0662896J,Álex Julián Cervantes,D
+2854,H34184069,Bruno del Ojeda,D
+2855,S1471928J,Carla Ferrán Tenorio,E
+2856,P3240555G,Francisca Buendía Vigil,F
+2857,V4665297J,Juan Cruz Pallarès,E
+2858,Q9771076H,Valèria Tomas Ramírez,A
+2859,J4856729A,Pedro Cabrero Agullo,E
+2860,A94992674,Nil del Roselló,F
+2861,J0110698H,Antonio Rocamora Aragón,C
+2862,F6804250F,María Dolores Ferrández Colom,D
+2863,Q7010862F,Miguel Torrens Fernandez,D
+2864,E50342690,Ana Anna Perea Bermúdez,F
+2865,U2440145G,María Teresa Sierra Figueras,E
+2866,P3798114I,Ana de Larrea,F
+2867,J3512655F,Enzo Escolano Sanmiguel,E
+2868,U7273775B,Albert Montoya Escamilla,A
+2869,A94992674,Nil del Roselló,B
+2870,E50342690,Ana Anna Perea Bermúdez,B
+2871,U4578017H,Paula Canet Nuñez,E
+2872,J8835130I,Carmen Salas Verdejo,F
+2873,H15620032,Noa Gárate,A
+2874,W5008386D,Laura Montes Céspedes,C
+2875,F0005249H,Arnau Huguet Chaparro,A
+2876,R4624337D,Anna del Otero,A
+2877,V2167857H,Manuel Cerro Pol,A
+2878,S1267649J,Carmen Corominas,A
+2879,J3353939F,Isabel Varela,A
+2880,U4290146B,Aleix de Ávila,E
+2881,C52853389,Carla Leiva Pacheco,B
+2882,U4804259B,Max Goñi Dávila,D
+2883,F2776503A,Francisca Ureña,A
+2884,B37939139,Josep Casanovas Vázquez,C
+2885,P7256844G,Mia Giménez Carlos,D
+2886,R8192469H,Enzo Escalona Morales,E
+2887,F8243580A,Montserrat Saez Sabater,F
+2888,S9149045H,Pedro de Pellicer,A
+2889,N4056672A,Carmen Emma Iñiguez Azcona,F
+2890,B11913498,Pedro Ricart Cantón,A
+2891,F8025276J,Carla Ribas Ariño,B
+2892,G56742331,Max Llano Bertrán,D
+2893,J3659481J,Clàudia Sancho Aragón,F
+2894,R3314974A,María Teresa Ona Ferrándiz Donoso,D
+2895,J8835130I,Carmen Salas Verdejo,A
+2896,G90306762,Èric Blázquez Gil,D
+2897,H21342050,David Arellano Sebastián,D
+2898,W4359932C,Dolores del Miguel,E
+2899,S9346078J,Francisco Pareja Peinado,E
+2900,H02560167,Enzo Quesada,F
+2901,H59430249,Júlia Aramburu Delgado,A
+2902,P6887458E,Nil del Morillo,C
+2903,H19110485,María de Villena,E
+2904,J0110698H,Antonio Rocamora Aragón,D
+2905,N0515267C,Noa Ochoa Bartolomé,F
+2906,J3751394B,Josep Ramón Palomar Múgica,A
+2907,D77234466,Enzo Albert Roselló Castejón,D
+2908,C26701623,Arnau Bertrán Aragón,C
+2909,B37939139,Josep Casanovas Vázquez,E
+2910,A95064218,Montserrat Martin Saez,E
+2911,J9446526G,Marta Águila Cervantes,C
+2912,S8037889F,Arlet Torre Ponce,E
+2913,J7285606E,Emma Pallarès-Colom,C
+2914,C27618396,Rosa Mariño,B
+2915,Q5328944C,Xavier Carrillo Iglesia,C
+2916,N2795608E,Èric de Bustamante,D
+2917,S9149045H,Pedro de Pellicer,D
+2918,C64875321,Pau del Bayón,C
+2919,U4290146B,Aleix de Ávila,E
+2920,E25450909,Martina Paredes-Falcó,B
+2921,J9967593F,Nil Patiño-Perea,F
+2922,H59348128,Antonio Dominguez Gilabert,B
+2923,C28777001,Ana Vidal Lamas,C
+2924,E23616857,Marc Luz Casas,A
+2925,V2015246H,Martí Agullo-Campos,B
+2926,W9742873D,Cristina Mia Falcón Ros,E
+2927,J8835130I,Carmen Salas Verdejo,C
+2928,P3351363A,María Dolores Montesinos Marin,A
+2929,H13226295,Pau Rosado Palomar,A
+2930,G90306762,Èric Blázquez Gil,C
+2931,A27475888,Javier Sedano Izquierdo,B
+2932,A78168275,Montserrat Arrieta Baquero,C
+2933,Q0552283D,Clàudia Verdú-Montalbán,F
+2934,Q9771076H,Valèria Tomas Ramírez,D
+2935,Q2116390B,Francisca Marta Arias Ferrero,B
+2936,S3945679C,Daniel Ródenas Lastra,E
+2937,A28346542,Martina Fuentes-Moll,F
+2938,P8832380C,María Dolores Luz-Pera,C
+2939,C64875321,Pau del Bayón,C
+2940,W4699949F,Mia Catalán Barros,C
+2941,G07621824,Sara Ángel Nieto,C
+2942,J2259741C,María Bayo Cózar,A
+2943,U8380205H,Hugo Gálvez Ibarra,C
+2944,B48122808,Sara Jaume Lobo,C
+2945,A95064218,Montserrat Martin Saez,D
+2946,N8496367G,Ona de Torrens,C
+2947,E52404001,Josefa Uriarte,D
+2948,C97387187,Sara de Jover,B
+2949,H31037914,Laura Llorente Olivares,A
+2950,V5629270I,Arlet Quintanilla Pina,A
+2951,N7359672H,Daniel Bartolomé Vilar,B
+2952,G68200534,Martina Cano Pineda,F
+2953,D03554946,Joan Azcona,E
+2954,R8469182C,Nil Marc Blanco Barroso,C
+2955,J3659481J,Clàudia Sancho Aragón,D
+2956,R5336309I,Rosa Torralba Rozas,A
+2957,U6069713C,Álex de Morales,F
+2958,G37728771,Noa Gallego Martin,E
+2959,R8469182C,Nil Marc Blanco Barroso,E
+2960,E47909023,Sílvia Pinilla Hervás,C
+2961,J2410709F,Júlia Montenegro Muro,F
+2962,W5008386D,Laura Montes Céspedes,F
+2963,C99290520,Antònia Baró-Elías,E
+2964,E65877607,Antonia Carlos Valderrama,E
+2965,F7513084I,Martí Rocamora Bilbao,D
+2966,A51927812,Lucas Jordi Rodriguez Lobo,B
+2967,E47909023,Sílvia Pinilla Hervás,B
+2968,N7359672H,Daniel Bartolomé Vilar,D
+2969,C29574233,Sílvia Ana Mármol Vázquez,E
+2970,P2473520A,Sílvia Carnero Bas,F
+2971,B90285073,Lucia de Ballester,D
+2972,J2410709F,Júlia Montenegro Muro,B
+2973,E73982548,Júlia Palomino Company,A
+2974,G83025460,Noa Cueto Ribas,D
+2975,P0280894G,Leo Gaya Laguna,F
+2976,W9073176A,Èric Cortina Vazquez,C
+2977,F9875383C,Aina Ferrero Torrecilla,D
+2978,P5810009J,Ramón Donoso Aguilar,E
+2979,H95977138,Adam Galán Cáceres,E
+2980,H49305378,Antonio Sanjuan Belda,B
+2981,Q4232915A,Antònia Colomer Blanca,F
+2982,D43493675,Èric Marin Comas,B
+2983,D43493675,Èric Marin Comas,A
+2984,F9340007E,Chlóe Moliner,C
+2985,B31484074,Jordi Cuenca Blanes,B
+2986,W8545144A,Albert Solís-Acedo,A
+2987,G92617570,Carmen del Martín,A
+2988,A78168275,Montserrat Arrieta Baquero,E
+2989,S1410175B,Lucas Frutos Andrés,F
+2990,F5675046F,José Carballo Gutierrez,D
+2991,Q2116390B,Francisca Marta Arias Ferrero,F
+2992,F2431907A,Sílvia Pino Torrent,C
+2993,B27774157,Jordi Revilla,A
+2994,H65400632,Abril Cáceres Manjón,B
+2995,G44377703,Noa Mate Diego,F
+2996,A42249482,Marta del Bernat,D
+2997,D53404240,Ramón Huertas Naranjo,B
+2998,D76934231,Álex Carballo Aranda,D
+2999,A53234324,Marc Navas Bermúdez,C
+3000,H44219327,David de Carretero,B
+3001,D65605370,Martina Velasco Soriano,D
+3002,J5068533H,Rosa Ramis,C
+3003,P3410537I,Martí Paredes,E
+3004,Q2116390B,Francisca Marta Arias Ferrero,A
+3005,J2259741C,María Bayo Cózar,A
+3006,N6468272G,Joan Ortuño Segura,E
+3007,Q7010862F,Miguel Torrens Fernandez,E
+3008,S3651419H,Enzo Carnero-Aliaga,A
+3009,F8773593B,David Sainz-Royo,A
+3010,H65400632,Abril Cáceres Manjón,D
+3011,N6468272G,Joan Ortuño Segura,E
+3012,F8773593B,David Sainz-Royo,B
+3013,U2440145G,María Teresa Sierra Figueras,C
+3014,B90285073,Lucia de Ballester,E
+3015,E88184023,Bruno Recio Cid,F
+3016,F8971698I,Ramón Rozas Baró,E
+3017,F9340007E,Chlóe Moliner,A
+3018,N2759694I,María Dolores Júlia Montenegro Ramón,A
+3019,H21342050,David Arellano Sebastián,B
+3020,W5008386D,Laura Montes Céspedes,E
+3021,R8192469H,Enzo Escalona Morales,B
+3022,G52644184,Martí Enzo Pujadas Pedrero,F
+3023,C40980427,Nil Adam Leon Jaén,A
+3024,W4799866A,Manuel Cózar Albero,A
+3025,U9908499H,Laura de Villegas,F
+3026,P3410537I,Martí Paredes,F
+3027,G13084090,Lucas Ocaña Huertas,E
+3028,D28897957,Marc Sarabia Zabala,A
+3029,N7185603C,Arlet Chaves Roldan,D
+3030,A35443936,Pol Salgado Buendía,A
+3031,A95064218,Montserrat Martin Saez,F
+3032,F1014977A,Pedro Murcia-Valbuena,E
+3033,G54830989,Sofía Mateo Alemany,A
+3034,V8982148B,Carlos Carlos Espejo,E
+3035,F7029229G,Daniel Prat Calvo,A
+3036,V8231148A,Ona de Arjona,F
+3037,W1247153H,Martina Nuñez Estevez,A
+3038,A02143311,Francisco Aranda Peinado,D
+3039,E65877607,Antonia Carlos Valderrama,A
+3040,E25161068,Marta Oliver Alfaro,B
+3041,N5426927I,Aleix Cervera Alfaro,F
+3042,J0324897H,Laia Marcos Gomez,A
+3043,U1774374A,Martina Solano Roma,D
+3044,H21342050,David Arellano Sebastián,F
+3045,E47909023,Sílvia Pinilla Hervás,F
+3046,U3398151E,Lucia Rincón Rosales,D
+3047,G96947643,María Del Carmen Esparza Godoy,A
+3048,J2907838C,Carmen Marta Cruz Carpio,F
+3049,D33698531,Aina Ferrán-Dávila,A
+3050,Q5285042G,Manuel Galiano Teruel,B
+3051,C28777001,Ana Vidal Lamas,F
+3052,R1153706E,Carlos Capdevila,F
+3053,F3391179C,Abril Toledo,B
+3054,D94996444,Núria Miguel Huertas,D
+3055,S0662896J,Álex Julián Cervantes,E
+3056,D47756457,Manuel Izquierdo Duque,D
+3057,A71678262,Francisco Sanmartín,E
+3058,G19357722,Núria Olmedo-Portero,F
+3059,S3409072J,Adam del Lara,A
+3060,J4051218H,Daniel Bermudez Sosa,C
+3061,S1410175B,Lucas Frutos Andrés,E
+3062,S7995912H,Josefa Laura Llorens Villanueva,B
+3063,C56963325,Abril Díez,E
+3064,J7397889B,Montserrat Cánovas,F
+3065,W9727961F,Albert Cerdán Chamorro,F
+3066,N8496367G,Ona de Torrens,B
+3067,V3555537D,Montserrat Bayo Garay,E
+3068,Q4579611G,Leo Verdú Sastre,F
+3069,R8469182C,Nil Marc Blanco Barroso,D
+3070,P6057674A,María Del Carmen Valèria Raya Mena,A
+3071,E50536853,Max Aragonés Cabello,F
+3072,P4346331D,Bruno Joan Fernandez Rozas,E
+3073,P3410537I,Martí Paredes,A
+3074,E05105093,Paula Azorin,F
+3075,A84080670,Joan de Olmedo,E
+3076,A35443936,Pol Salgado Buendía,C
+3077,J8150128J,Cristina Reina Santana,F
+3078,F2431907A,Sílvia Pino Torrent,A
+3079,J0110698H,Antonio Rocamora Aragón,F
+3080,D62147475,Josep Blázquez,E
+3081,A30004071,Pau Peláez Cano,D
+3082,G56742331,Max Llano Bertrán,F
+3083,C91303552,Aina Dávila Bauzà,D
+3084,B64747389,Èric Roman Mena,F
+3085,S0085490A,Ona Salvà Pizarro,A
+3086,H34827741,David Olivares-Julián,A
+3087,V2738762J,Bruno Adam Bonet Pulido,E
+3088,H37157526,Arlet Sala Narváez,F
+3089,D07727019,Álex Hervia Vazquez,A
+3090,N3380714J,Clàudia Espejo Benitez,F
+3091,N3620309I,Dolores Gelabert,E
+3092,H34827741,David Olivares-Julián,B
+3093,F9551675C,Ana Morante-Vazquez,A
+3094,E99188005,Biel Alcalde Samper,F
+3095,V8982148B,Carlos Carlos Espejo,C
+3096,V5629270I,Arlet Quintanilla Pina,B
+3097,J3512655F,Enzo Escolano Sanmiguel,D
+3098,R5672939E,Cristina Laia Bonilla Alvarado,F
+3099,Q4232915A,Antònia Colomer Blanca,C
+3100,N2845937H,Montserrat Manzanares-Herrero,F
+3101,B82071457,Noa Coello Mendoza,A
+3102,H37157526,Arlet Sala Narváez,E
+3103,S7211209G,María Alemán Saura,F
+3104,W9218380E,Pol del Sanjuan,E
+3105,G62107743,Emma Farré,F
+3106,A30004071,Pau Peláez Cano,F
+3107,D57672396,Chlóe Tomas Santamaria,A
+3108,E55193205,Laia Boix Montenegro,F
+3109,H23653579,Manuel David Rosado Acero,A
+3110,S1898085D,Biel Vazquez Valverde,C
+3111,W4345678I,Leo Franco Nieto,C
+3112,D81900805,Rosa Carrión Bauzà,B
+3113,J3751394B,Josep Ramón Palomar Múgica,F
+3114,G07621824,Sara Ángel Nieto,F
+3115,H03012952,Mia Méndez Ribes,B
+3116,E55193205,Laia Boix Montenegro,E
+3117,J3353939F,Isabel Varela,D
+3118,D05154323,Paula Tomás Bello,B
+3119,N5111030B,Carlos Ramírez Benavent,C
+3120,U8112016D,Joan Villalobos Carnero,F
+3121,Q7010862F,Miguel Torrens Fernandez,C
+3122,F0005249H,Arnau Huguet Chaparro,B
+3123,N5426927I,Aleix Cervera Alfaro,F
+3124,J2410709F,Júlia Montenegro Muro,D
+3125,P6887458E,Nil del Morillo,F
+3126,Q2834551J,Noa Ordóñez,D
+3127,C62524582,Paula Molina Barba,E
+3128,F6441455J,Carla Hernández Estrada,D
+3129,B41571647,Mia Escudero Galan,E
+3130,H95977138,Adam Galán Cáceres,B
+3131,U8380205H,Hugo Gálvez Ibarra,B
+3132,A04422861,Francisca Rubio Paredes,E
+3133,B48122808,Sara Jaume Lobo,E
+3134,C28142149,Aleix Moya Collado,F
+3135,Q2116390B,Francisca Marta Arias Ferrero,D
+3136,G36745990,Marc Blanco Valderrama,C
+3137,G61008355,Arlet Lladó Diego,F
+3138,V3380673H,Enzo Alberdi Sainz,E
+3139,Q3854328F,Lucia Sílvia Méndez Uría,D
+3140,N2759694I,María Dolores Júlia Montenegro Ramón,F
+3141,N9318716I,Pedro Valderrama Marí,C
+3142,P3012798I,Hugo Rueda,D
+3143,N5426927I,Aleix Cervera Alfaro,A
+3144,J6747593I,Arlet Barón-Barco,E
+3145,P3798114I,Ana de Larrea,E
+3146,S2927291A,Lucia Porras Miguel,B
+3147,H59430249,Júlia Aramburu Delgado,C
+3148,V8982148B,Carlos Carlos Espejo,B
+3149,R1153706E,Carlos Capdevila,F
+3150,F6683839B,Montserrat Múgica Manrique,C
+3151,H34184069,Bruno del Ojeda,C
+3152,B41571647,Mia Escudero Galan,A
+3153,R1233513I,Cristina Fábregas Domingo,A
+3154,W9742873D,Cristina Mia Falcón Ros,C
+3155,P2473520A,Sílvia Carnero Bas,C
+3156,A02143311,Francisco Aranda Peinado,A
+3157,B39226162,Jana Villanueva Quirós,F
+3158,D44217990,Nil Bilbao Sastre,F
+3159,S8355279D,Antonia Bermejo Bayo,C
+3160,D98780919,María Teresa Aznar-Perez,C
+3161,C06753156,Lucas Paniagua Llano,E
+3162,W4799866A,Manuel Cózar Albero,C
+3163,J8863857B,Rosa Alberola Coll,C
+3164,D64321540,María Dolores del Boada,A
+3165,R5336309I,Rosa Torralba Rozas,C
+3166,G19357722,Núria Olmedo-Portero,C
+3167,G45806411,Hugo Torres Iborra,F
+3168,F5675046F,José Carballo Gutierrez,F
+3169,U9908499H,Laura de Villegas,D
+3170,P6579449G,Laura Manjón Barón,C
+3171,H31037914,Laura Llorente Olivares,F
+3172,D03554946,Joan Azcona,F
+3173,C49543051,Pau Caro Gallego,F
+3174,S1471928J,Carla Ferrán Tenorio,E
+3175,Q7554170F,José María Cuenca-Pera,C
+3176,G29421625,Isabel Aramburu Baquero,A
+3177,U7141532G,Pau Talavera Moliner,A
+3178,W9073176A,Èric Cortina Vazquez,C
+3179,S1410175B,Lucas Frutos Andrés,F
+3180,J3353939F,Isabel Varela,F
+3181,H23073786,Anna Armas Moles,A
+3182,G61008355,Arlet Lladó Diego,A
+3183,A94992674,Nil del Roselló,D
+3184,J2259741C,María Bayo Cózar,E
+3185,F5675046F,José Carballo Gutierrez,F
+3186,D65605370,Martina Velasco Soriano,A
+3187,A04422861,Francisca Rubio Paredes,C
+3188,G26937243,Josefa Moll Piñeiro,F
+3189,E73982548,Júlia Palomino Company,A
+3190,G08270886,José María de Galvez,D
+3191,D83592501,Sílvia Mate-Paredes,F
+3192,N3504030B,Antònia Marquez Rebollo,E
+3193,U7273775B,Albert Montoya Escamilla,D
+3194,G68200534,Martina Cano Pineda,B
+3195,P7187021F,Antònia Paula Juliá Jaén,A
+3196,N2795608E,Èric de Bustamante,C
+3197,H42115923,Clàudia Perea Bermudez,E
+3198,D98780919,María Teresa Aznar-Perez,D
+3199,E96573001,Sara Gárate Nuñez,A
+3200,G52644184,Martí Enzo Pujadas Pedrero,F
+3201,D57672396,Chlóe Tomas Santamaria,E
+3202,Q0041000A,David Chaves Cantero,D
+3203,B88818059,Martina María Carreño Villaverde,A
+3204,G68200534,Martina Cano Pineda,C
+3205,N1790348E,Arlet Huguet Coloma,D
+3206,C81417628,Núria Martín,B
+3207,J4856729A,Pedro Cabrero Agullo,C
+3208,B37939139,Josep Casanovas Vázquez,F
+3209,S9149045H,Pedro de Pellicer,E
+3210,Q8575731H,Emma de Rueda,F
+3211,V7809521C,Antònia Anna Saez Belda,D
+3212,E73982548,Júlia Palomino Company,B
+3213,C91303552,Aina Dávila Bauzà,D
+3214,A94992674,Nil del Roselló,B
+3215,V4258212B,Marc Dominguez Barberá,C
+3216,G15254279,Josep Pera,D
+3217,Q9514578E,Anna Benítez Rovira,F
+3218,F6441455J,Carla Hernández Estrada,D
+3219,F4119576I,Carlos Mayoral Cervantes,A
+3220,D64321540,María Dolores del Boada,A
+3221,U9961248C,Pau Priego Paniagua,D
+3222,U7308622E,Mia Palomares-Torrijos,B
+3223,P3771212B,Josep de Martí,A
+3224,S3651419H,Enzo Carnero-Aliaga,A
+3225,N8243349A,Paula Sáez Ripoll,C
+3226,E25161068,Marta Oliver Alfaro,D
+3227,Q4232915A,Antònia Colomer Blanca,B
+3228,W9727961F,Albert Cerdán Chamorro,B
+3229,E01391861,José Pi Alvarez,A
+3230,N8631109I,Francisca Martina Rodríguez Hoyos,B
+3231,S9029257D,Francisco Vilanova Mármol,E
+3232,E55193205,Laia Boix Montenegro,B
+3233,E47464060,Francisco Palomares Ocaña,C
+3234,C75059956,Jorge Baena,C
+3235,S7211209G,María Alemán Saura,A
+3236,U0847812E,Abril Andres Herrera,C
+3237,N2795608E,Èric de Bustamante,A
+3238,G79531372,Laia Seguí,E
+3239,V5629270I,Arlet Quintanilla Pina,A
+3240,V4258212B,Marc Dominguez Barberá,F
+3241,Q7554170F,José María Cuenca-Pera,B
+3242,V5404049H,Biel Pau Tolosa Llorens,E
+3243,U7038519J,Ana Cortina Rubio,B
+3244,N7185603C,Arlet Chaves Roldan,A
+3245,E65877607,Antonia Carlos Valderrama,D
+3246,C48788897,Clàudia Manzanares Angulo,F
+3247,P6579449G,Laura Manjón Barón,F
+3248,C78976982,Pau del Avilés,B
+3249,N7359672H,Daniel Bartolomé Vilar,F
+3250,W4359932C,Dolores del Miguel,E
+3251,G45806411,Hugo Torres Iborra,B
+3252,V8982148B,Carlos Carlos Espejo,F
+3253,U1774374A,Martina Solano Roma,A
+3254,U4578017H,Paula Canet Nuñez,C
+3255,H00974097,Daniel Cornejo Mateos,F
+3256,U7308622E,Mia Palomares-Torrijos,D
+3257,S3945679C,Daniel Ródenas Lastra,E
+3258,G13084090,Lucas Ocaña Huertas,E
+3259,N7090594H,Chlóe Plana Echevarría,F
+3260,D33698531,Aina Ferrán-Dávila,D
+3261,E20240735,Enzo de Garrido,E
+3262,C90629742,María Del Carmen Herranz-Milla,F
+3263,N9624314B,Júlia Vera-Bueno,D
+3264,D83545129,Francisca Font Navarro,A
+3265,S0662896J,Álex Julián Cervantes,B
+3266,S0662896J,Álex Julián Cervantes,D
+3267,Q2116390B,Francisca Marta Arias Ferrero,D
+3268,N7090594H,Chlóe Plana Echevarría,C
+3269,N2518597F,Noa de Grande,D
+3270,E50342690,Ana Anna Perea Bermúdez,A
+3271,U4290146B,Aleix de Ávila,F
+3272,J2907838C,Carmen Marta Cruz Carpio,D
+3273,B36032787,Sara Alfonso Cortes,B
+3274,Q9754107B,Francisco Antón-Cañellas,F
+3275,N2795608E,Èric de Bustamante,D
+3276,S0727486C,Adam Aliaga Pons,B
+3277,W9727961F,Albert Cerdán Chamorro,D
+3278,N5111030B,Carlos Ramírez Benavent,D
+3279,A13684352,Leo Adam Saavedra Verdejo,B
+3280,N1768263D,Èric Bolaños,F
+3281,D81900805,Rosa Carrión Bauzà,A
+3282,N4056672A,Carmen Emma Iñiguez Azcona,E
+3283,W3053262F,Xavier Batlle-Mur,A
+3284,G15254279,Josep Pera,B
+3285,C29574233,Sílvia Ana Mármol Vázquez,F
+3286,A90436353,Júlia Saura-Colomer,E
+3287,A12410726,Josep Caro Mayoral,C
+3288,B41571647,Mia Escudero Galan,D
+3289,N6209101B,Francisco Dueñas,E
+3290,Q5328944C,Xavier Carrillo Iglesia,B
+3291,A57076200,Sara Ávila Collado,A
+3292,B90285073,Lucia de Ballester,D
+3293,P6353735A,Rosa del Neira,F
+3294,R1153706E,Carlos Capdevila,F
+3295,N6419040H,Marc Ramos Leon,C
+3296,N5447529H,Daniel Giménez Córdoba,C
+3297,P6353735A,Rosa del Neira,F
+3298,C56963325,Abril Díez,F
+3299,D59333971,Anna Montaña-Uriarte,A
+3300,V8982148B,Carlos Carlos Espejo,F
+3301,N5426927I,Aleix Cervera Alfaro,E
+3302,G26937243,Josefa Moll Piñeiro,E
+3303,F9314032E,David Luís Tolosa,D
+3304,V3555537D,Montserrat Bayo Garay,F
+3305,N3380714J,Clàudia Espejo Benitez,E
+3306,D05154323,Paula Tomás Bello,A
+3307,N6468272G,Joan Ortuño Segura,A
+3308,E99188005,Biel Alcalde Samper,D
+3309,G79531372,Laia Seguí,A
+3310,E65877607,Antonia Carlos Valderrama,C
+3311,H59348128,Antonio Dominguez Gilabert,B
+3312,Q5328944C,Xavier Carrillo Iglesia,D
+3313,C48788897,Clàudia Manzanares Angulo,B
+3314,H03012952,Mia Méndez Ribes,A
+3315,B43465343,Hugo Alberto Girón,A
+3316,A94992674,Nil del Roselló,F
+3317,A94992674,Nil del Roselló,D
+3318,Q0041000A,David Chaves Cantero,B
+3319,A51927812,Lucas Jordi Rodriguez Lobo,A
+3320,N6419040H,Marc Ramos Leon,E
+3321,A42249482,Marta del Bernat,B
+3322,C91303552,Aina Dávila Bauzà,B
+3323,S1898085D,Biel Vazquez Valverde,D
+3324,R5336309I,Rosa Torralba Rozas,F
+3325,R5336309I,Rosa Torralba Rozas,F
+3326,A27475888,Javier Sedano Izquierdo,B
+3327,D78897097,Núria Verdejo Arteaga,E
+3328,W9727961F,Albert Cerdán Chamorro,E
+3329,H00974097,Daniel Cornejo Mateos,A
+3330,A42249482,Marta del Bernat,F
+3331,P3067352I,Dolores Carbó,C
+3332,N0362161B,Álex Jordi Cuéllar Cardona,F
+3333,P3240555G,Francisca Buendía Vigil,E
+3334,C21370879,Pol Puente Lucena,D
+3335,F7513084I,Martí Rocamora Bilbao,C
+3336,P1659317J,Hugo Castrillo Otero,C
+3337,E01391861,José Pi Alvarez,A
+3338,G99523896,Pau Ros Pallarès,E
+3339,G37728771,Noa Gallego Martin,F
+3340,W0083928B,Sara Gil Jordán,C
+3341,F6017604G,Biel Sedano Oliveras,B
+3342,N1768263D,Èric Bolaños,C
+3343,G96947643,María Del Carmen Esparza Godoy,D
+3344,E65877607,Antonia Carlos Valderrama,F
+3345,R8469182C,Nil Marc Blanco Barroso,B
+3346,V5995012A,Laura Roma Boix,A
+3347,G07621824,Sara Ángel Nieto,A
+3348,N8631109I,Francisca Martina Rodríguez Hoyos,D
+3349,D32512451,Albert Viña Gallardo,B
+3350,F7513084I,Martí Rocamora Bilbao,C
+3351,J4856729A,Pedro Cabrero Agullo,F
+3352,U7308622E,Mia Palomares-Torrijos,C
+3353,S3945679C,Daniel Ródenas Lastra,A
+3354,D52947983,Manuel Abad Soler,C
+3355,H13226295,Pau Rosado Palomar,E
+3356,H36269512,Antonia Cuevas,E
+3357,N6853244I,Bruno del Canales,E
+3358,E55193205,Laia Boix Montenegro,B
+3359,U3750527H,Biel Rojas Arias,A
+3360,H04319513,Lucia Castells Huerta,C
+3361,U1774374A,Martina Solano Roma,D
+3362,J8918438F,Francisco Roldan,D
+3363,D62147475,Josep Blázquez,A
+3364,D07727019,Álex Hervia Vazquez,E
+3365,A94992674,Nil del Roselló,B
+3366,P7917625A,Joan Ferrera Canals,A
+3367,C87660817,María Dolores Romeu-Bastida,A
+3368,W9727961F,Albert Cerdán Chamorro,E
+3369,U7141532G,Pau Talavera Moliner,B
+3370,P7917625A,Joan Ferrera Canals,C
+3371,F4119576I,Carlos Mayoral Cervantes,B
+3372,J2410709F,Júlia Montenegro Muro,B
+3373,H31037914,Laura Llorente Olivares,C
+3374,B27774157,Jordi Revilla,E
+3375,R5672939E,Cristina Laia Bonilla Alvarado,A
+3376,H46432969,Antònia Noa Pedrero Diéguez,F
+3377,P3771212B,Josep de Martí,C
+3378,H34184069,Bruno del Ojeda,B
+3379,R3314974A,María Teresa Ona Ferrándiz Donoso,B
+3380,S7211209G,María Alemán Saura,E
+3381,C70021340,Arnau Álex Villanueva Ojeda,D
+3382,S1898085D,Biel Vazquez Valverde,B
+3383,D62147475,Josep Blázquez,E
+3384,D98780919,María Teresa Aznar-Perez,B
+3385,H04319513,Lucia Castells Huerta,F
+3386,D18702910,Marc Villar Nicolás,F
+3387,C06753156,Lucas Paniagua Llano,D
+3388,S2927291A,Lucia Porras Miguel,C
+3389,W4284402G,Mia Ona Tirado Herranz,E
+3390,Q4287906D,José Pou Cobo,D
+3391,C52853389,Carla Leiva Pacheco,D
+3392,G73658932,Laura Bilbao Sala,D
+3393,A57076200,Sara Ávila Collado,F
+3394,J2410709F,Júlia Montenegro Muro,F
+3395,S0662896J,Álex Julián Cervantes,A
+3396,C81417628,Núria Martín,C
+3397,C52853389,Carla Leiva Pacheco,E
+3398,B11913498,Pedro Ricart Cantón,B
+3399,J0324897H,Laia Marcos Gomez,C
+3400,U4578017H,Paula Canet Nuñez,E
+3401,N3380714J,Clàudia Espejo Benitez,C
+3402,G76937929,María Dolores Sofía Salvador Teruel,F
+3403,U7308622E,Mia Palomares-Torrijos,D
+3404,R4624337D,Anna del Otero,B
+3405,H21342050,David Arellano Sebastián,A
+3406,G99523896,Pau Ros Pallarès,E
+3407,E47909023,Sílvia Pinilla Hervás,B
+3408,H78024064,Max Quintana-Morales,D
+3409,P8832380C,María Dolores Luz-Pera,F
+3410,E34248922,Pedro Larrañaga Domingo,B
+3411,W1495808F,Èric Arnaiz,A
+3412,H46432969,Antònia Noa Pedrero Diéguez,C
+3413,D94996444,Núria Miguel Huertas,C
+3414,D98780919,María Teresa Aznar-Perez,E
+3415,H80750292,Daniel Miguel Pomares Méndez,F
+3416,N8631109I,Francisca Martina Rodríguez Hoyos,E
+3417,D57672396,Chlóe Tomas Santamaria,C
+3418,Q0552283D,Clàudia Verdú-Montalbán,D
+3419,S9149045H,Pedro de Pellicer,B
+3420,G29421625,Isabel Aramburu Baquero,D
+3421,J2992255F,Chlóe Alba Navarrete,C
+3422,E63638506,Bruno Andreu-Andrade,C
+3423,W1796907B,Mia Abellán Pulido,B
+3424,Q5285042G,Manuel Galiano Teruel,B
+3425,W4345678I,Leo Franco Nieto,C
+3426,V7809521C,Antònia Anna Saez Belda,A
+3427,D10065217,Xavier Bárcena Castillo,B
+3428,C94387792,Paula Rosa Perea,C
+3429,S8651023G,Adam Pombo Palomo,E
+3430,H23653579,Manuel David Rosado Acero,E
+3431,Q7186100I,Èric Cifuentes,E
+3432,H78024064,Max Quintana-Morales,D
+3433,P2473520A,Sílvia Carnero Bas,C
+3434,Q3854328F,Lucia Sílvia Méndez Uría,E
+3435,R7616148H,Carmen Jana Taboada Almansa,E
+3436,J1701006G,Biel Arrieta Losada,A
+3437,P1659317J,Hugo Castrillo Otero,B
+3438,A94992674,Nil del Roselló,A
+3439,Q2116390B,Francisca Marta Arias Ferrero,B
+3440,Q7186100I,Èric Cifuentes,D
+3441,S9346078J,Francisco Pareja Peinado,B
+3442,N2244432G,Laia Solsona Goicoechea,A
+3443,U4683589H,Carla Corbacho-Escribano,C
+3444,Q4232915A,Antònia Colomer Blanca,E
+3445,B29905627,Pol Gómez Isern,A
+3446,H46432969,Antònia Noa Pedrero Diéguez,A
+3447,R5672939E,Cristina Laia Bonilla Alvarado,F
+3448,B11913498,Pedro Ricart Cantón,E
+3449,R1153706E,Carlos Capdevila,E
+3450,S8037889F,Arlet Torre Ponce,E
+3451,F8773593B,David Sainz-Royo,B
+3452,S7995912H,Josefa Laura Llorens Villanueva,D
+3453,G99523896,Pau Ros Pallarès,C
+3454,S6417982C,Arnau Gonzalo-Barrios,C
+3455,N9882065G,Francisca Luís Aller,B
+3456,U7308622E,Mia Palomares-Torrijos,E
+3457,D98780919,María Teresa Aznar-Perez,F
+3458,J2259741C,María Bayo Cózar,D
+3459,F9314032E,David Luís Tolosa,C
+3460,S1471928J,Carla Ferrán Tenorio,D
+3461,R1153706E,Carlos Capdevila,B
+3462,U7273775B,Albert Montoya Escamilla,C
+3463,G71220651,Júlia Gras Porta,D
+3464,G26285767,Hugo del Núñez,B
+3465,J2387634E,Martí Antonio Nicolás Giner,F
+3466,G44377703,Noa Mate Diego,C
+3467,R1153706E,Carlos Capdevila,C
+3468,H19110485,María de Villena,C
+3469,H59430249,Júlia Aramburu Delgado,C
+3470,E34248922,Pedro Larrañaga Domingo,A
+3471,S0662896J,Álex Julián Cervantes,C
+3472,D64321540,María Dolores del Boada,E
+3473,B87614681,Jordi Arnau Carlos Cabrero,B
+3474,E25450909,Martina Paredes-Falcó,B
+3475,V4258212B,Marc Dominguez Barberá,C
+3476,Q4232915A,Antònia Colomer Blanca,F
+3477,S8651023G,Adam Pombo Palomo,E
+3478,C29574233,Sílvia Ana Mármol Vázquez,F
+3479,C75059956,Jorge Baena,A
+3480,B22399109,Clàudia Valdés Jover,F
+3481,S1017264A,Rosa Vigil,A
+3482,S1410175B,Lucas Frutos Andrés,D
+3483,B41571647,Mia Escudero Galan,D
+3484,D57989162,Noa Carnero Cortés,E
+3485,U7308622E,Mia Palomares-Torrijos,B
+3486,S1898085D,Biel Vazquez Valverde,C
+3487,F1405226J,Adam Abella Valle,C
+3488,G24609380,Júlia Miralles-Boada,D
+3489,A27475888,Javier Sedano Izquierdo,D
+3490,B52401858,José Buendía-Sarabia,B
+3491,V3555537D,Montserrat Bayo Garay,F
+3492,H13226295,Pau Rosado Palomar,F
+3493,R4624337D,Anna del Otero,D
+3494,P2199273J,Enzo de Osorio,D
+3495,G13084090,Lucas Ocaña Huertas,A
+3496,F6683839B,Montserrat Múgica Manrique,A
+3497,E25450909,Martina Paredes-Falcó,E
+3498,G96947643,María Del Carmen Esparza Godoy,F
+3499,C70021340,Arnau Álex Villanueva Ojeda,D
+3500,G65300782,Juan Rodrigo-Mercader,E
+3501,B21983689,Josep de Ibarra,B
+3502,G90306762,Èric Blázquez Gil,B
+3503,G83025460,Noa Cueto Ribas,F
+3504,J9967593F,Nil Patiño-Perea,F
+3505,B31484074,Jordi Cuenca Blanes,D
+3506,E47909023,Sílvia Pinilla Hervás,D
+3507,G79531372,Laia Seguí,A
+3508,P7855416I,Leo Bustamante Zapata,D
+3509,S9029257D,Francisco Vilanova Mármol,B
+3510,N2759694I,María Dolores Júlia Montenegro Ramón,C
+3511,P6713486F,Cristina Tomas Salvà,D
+3512,D96545363,Jorge Adam Conesa Nevado,B
+3513,B11913498,Pedro Ricart Cantón,F
+3514,R7687550I,Juan Pozuelo Vila,E
+3515,S8162432B,Jan Albert Marqués Rodrigo,C
+3516,F2776503A,Francisca Ureña,D
+3517,P6353735A,Rosa del Neira,B
+3518,H44219327,David de Carretero,B
+3519,D34934612,Laura Plaza Guardiola,F
+3520,J3353939F,Isabel Varela,A
+3521,S5329165D,Hugo Sanz Amat,B
+3522,H42115923,Clàudia Perea Bermudez,F
+3523,U4804259B,Max Goñi Dávila,E
+3524,G07621824,Sara Ángel Nieto,F
+3525,F9340007E,Chlóe Moliner,D
+3526,Q3614781G,María Dolores Martínez Aznar,C
+3527,G68200534,Martina Cano Pineda,A
+3528,H73279598,Jordi Manrique Verdugo,E
+3529,G71220651,Júlia Gras Porta,C
+3530,N4056672A,Carmen Emma Iñiguez Azcona,B
+3531,B31484074,Jordi Cuenca Blanes,E
+3532,D65605370,Martina Velasco Soriano,E
+3533,J9967593F,Nil Patiño-Perea,B
+3534,E65877607,Antonia Carlos Valderrama,F
+3535,J2387634E,Martí Antonio Nicolás Giner,F
+3536,E48027734,Francisco Arnau Calderón Ángel,A
+3537,G99523896,Pau Ros Pallarès,C
+3538,A57076200,Sara Ávila Collado,C
+3539,S0662896J,Álex Julián Cervantes,A
+3540,F9340007E,Chlóe Moliner,F
+3541,C64875321,Pau del Bayón,F
+3542,G26937243,Josefa Moll Piñeiro,E
+3543,N9318716I,Pedro Valderrama Marí,D
+3544,U0533919G,Carla Pi Falcó,D
+3545,S6417982C,Arnau Gonzalo-Barrios,B
+3546,J4856729A,Pedro Cabrero Agullo,A
+3547,N2423224A,Biel de Guitart,F
+3548,H80750292,Daniel Miguel Pomares Méndez,C
+3549,E44235414,Juan de Guerrero,D
+3550,E73982548,Júlia Palomino Company,C
+3551,U7558214H,Núria Alegre-Roma,A
+3552,H59348128,Antonio Dominguez Gilabert,C
+3553,Q8575731H,Emma de Rueda,D
+3554,P0280894G,Leo Gaya Laguna,E
+3555,A78168275,Montserrat Arrieta Baquero,F
+3556,G07621824,Sara Ángel Nieto,C
+3557,C56963325,Abril Díez,F
+3558,H21342050,David Arellano Sebastián,C
+3559,S9149045H,Pedro de Pellicer,F
+3560,D94996444,Núria Miguel Huertas,D
+3561,C78976982,Pau del Avilés,A
+3562,A94992674,Nil del Roselló,F
+3563,W8545144A,Albert Solís-Acedo,B
+3564,V8533935F,María Teresa de Dalmau,C
+3565,Q5285042G,Manuel Galiano Teruel,F
+3566,P8832380C,María Dolores Luz-Pera,F
+3567,P6345075C,Enzo Pera Arias,E
+3568,Q9754107B,Francisco Antón-Cañellas,C
+3569,E73982548,Júlia Palomino Company,D
+3570,D83545129,Francisca Font Navarro,A
+3571,J2387634E,Martí Antonio Nicolás Giner,D
+3572,N9882065G,Francisca Luís Aller,E
+3573,J9643335D,Juan Maldonado Mayol,F
+3574,E85913895,Álex Juliá Cantón,F
+3575,C75059956,Jorge Baena,E
+3576,C81417628,Núria Martín,B
+3577,C87660817,María Dolores Romeu-Bastida,D
+3578,G08809550,Biel Alberto Berrocal,C
+3579,E73982548,Júlia Palomino Company,C
+3580,R8192469H,Enzo Escalona Morales,E
+3581,P0546131D,José María Bru Cuesta,C
+3582,C14434534,María Teresa del Villalonga,C
+3583,G36745990,Marc Blanco Valderrama,D
+3584,G07621824,Sara Ángel Nieto,A
+3585,G44377703,Noa Mate Diego,B
+3586,C90629742,María Del Carmen Herranz-Milla,E
+3587,J4856729A,Pedro Cabrero Agullo,A
+3588,Q6050189G,María Ordóñez Llamas,F
+3589,S0662896J,Álex Julián Cervantes,E
+3590,U7273775B,Albert Montoya Escamilla,F
+3591,V7809521C,Antònia Anna Saez Belda,A
+3592,G90306762,Èric Blázquez Gil,A
+3593,A95064218,Montserrat Martin Saez,B
+3594,H95977138,Adam Galán Cáceres,F
+3595,D83545129,Francisca Font Navarro,A
+3596,N8631109I,Francisca Martina Rodríguez Hoyos,E
+3597,G26285767,Hugo del Núñez,B
+3598,A51927812,Lucas Jordi Rodriguez Lobo,B
+3599,C48788897,Clàudia Manzanares Angulo,D
+3600,W1247153H,Martina Nuñez Estevez,A
+3601,J2387634E,Martí Antonio Nicolás Giner,E
+3602,H73279598,Jordi Manrique Verdugo,E
+3603,H21342050,David Arellano Sebastián,F
+3604,A02143311,Francisco Aranda Peinado,D
+3605,F9340007E,Chlóe Moliner,E
+3606,D89560940,Xavier de Ribes,E
+3607,F6804250F,María Dolores Ferrández Colom,E
+3608,J8835130I,Carmen Salas Verdejo,E
+3609,G26285767,Hugo del Núñez,A
+3610,Q7211251I,Marc Reina Arrieta,D
+3611,J2387634E,Martí Antonio Nicolás Giner,F
+3612,J0165116E,Carmen Salcedo Gomila,E
+3613,B95922167,Miguel Prieto Ribera,A
+3614,Q9771076H,Valèria Tomas Ramírez,A
+3615,R8192469H,Enzo Escalona Morales,B
+3616,F3391179C,Abril Toledo,E
+3617,E23616857,Marc Luz Casas,D
+3618,S8641797I,Aina Pi Trujillo,A
+3619,B41571647,Mia Escudero Galan,C
+3620,N7359672H,Daniel Bartolomé Vilar,B
+3621,G92617570,Carmen del Martín,D
+3622,C95560819,Biel Hierro Salom,E
+3623,E47464060,Francisco Palomares Ocaña,D
+3624,N7185603C,Arlet Chaves Roldan,B
+3625,E25161068,Marta Oliver Alfaro,F
+3626,H64288004,Abril Samper Ibáñez,E
+3627,R8469182C,Nil Marc Blanco Barroso,A
+3628,C17131251,Lucia Uribe,D
+3629,D83545129,Francisca Font Navarro,A
+3630,N5762693I,Josep Ramírez,E
+3631,B41571647,Mia Escudero Galan,E
+3632,N3504030B,Antònia Marquez Rebollo,F
+3633,W7861640F,Aleix de Fiol,E
+3634,F6804250F,María Dolores Ferrández Colom,A
+3635,N9624314B,Júlia Vera-Bueno,E
+3636,N2845937H,Montserrat Manzanares-Herrero,D
+3637,C40980427,Nil Adam Leon Jaén,B
+3638,Q9766397E,Francisco de Cabezas,F
+3639,S3651419H,Enzo Carnero-Aliaga,C
+3640,A28346542,Martina Fuentes-Moll,E
+3641,B43837079,Laura Marquez Izquierdo,B
+3642,H15620032,Noa Gárate,A
+3643,P7855416I,Leo Bustamante Zapata,A
+3644,P3798114I,Ana de Larrea,A
+3645,C33342999,Anna Avilés-Palomar,E
+3646,F1405226J,Adam Abella Valle,B
+3647,N7359672H,Daniel Bartolomé Vilar,B
+3648,P0078682B,María Del Carmen del Belda,B
+3649,H75562959,Bruno Lozano Galan,D
+3650,R4624337D,Anna del Otero,E
+3651,F3391179C,Abril Toledo,D
+3652,G65300782,Juan Rodrigo-Mercader,A
+3653,H73279598,Jordi Manrique Verdugo,F
+3654,B31484074,Jordi Cuenca Blanes,C
+3655,W1247153H,Martina Nuñez Estevez,F
+3656,F6804250F,María Dolores Ferrández Colom,D
+3657,H19110485,María de Villena,A
+3658,Q6050189G,María Ordóñez Llamas,B
+3659,S1410175B,Lucas Frutos Andrés,F
+3660,J5950441E,Chlóe del Villalba,A
+3661,A51927812,Lucas Jordi Rodriguez Lobo,E
+3662,V7809521C,Antònia Anna Saez Belda,E
+3663,A94611183,Antònia Frías Macías,D
+3664,N3620309I,Dolores Gelabert,C
+3665,Q3854328F,Lucia Sílvia Méndez Uría,E
+3666,Q7967239J,Paula Agustín Gimeno,A
+3667,A94611183,Antònia Frías Macías,A
+3668,H59348128,Antonio Dominguez Gilabert,B
+3669,R1153706E,Carlos Capdevila,A
+3670,C97387187,Sara de Jover,E
+3671,E65877607,Antonia Carlos Valderrama,D
+3672,D05154323,Paula Tomás Bello,A
+3673,P1659317J,Hugo Castrillo Otero,A
+3674,W4359932C,Dolores del Miguel,E
+3675,E01391861,José Pi Alvarez,C
+3676,F1014977A,Pedro Murcia-Valbuena,A
+3677,J6049614H,Júlia Sevillano Palomar,D
+3678,S0727486C,Adam Aliaga Pons,B
+3679,E63659452,Joan Sales,F
+3680,D32512451,Albert Viña Gallardo,D
+3681,D07727019,Álex Hervia Vazquez,E
+3682,G73658932,Laura Bilbao Sala,A
+3683,G99523896,Pau Ros Pallarès,D
+3684,B41571647,Mia Escudero Galan,F
+3685,A04422861,Francisca Rubio Paredes,E
+3686,Q5328944C,Xavier Carrillo Iglesia,F
+3687,V2167857H,Manuel Cerro Pol,D
+3688,H23653579,Manuel David Rosado Acero,C
+3689,P2473520A,Sílvia Carnero Bas,E
+3690,G92617570,Carmen del Martín,D
+3691,H03012952,Mia Méndez Ribes,B
+3692,C87660817,María Dolores Romeu-Bastida,D
+3693,E73982548,Júlia Palomino Company,C
+3694,B19312776,Aleix Doménech Pombo,C
+3695,V2447244A,Jordi Vilar Fortuny,C
+3696,D86117876,Enzo Gimeno Carnero,E
+3697,S5147401C,María Del Carmen Blazquez,C
+3698,N8152756F,Laia Batalla-Villalba,C
+3699,P7917625A,Joan Ferrera Canals,A
+3700,D07727019,Álex Hervia Vazquez,B
+3701,N4457128I,Francisco Meléndez Gargallo,B
+3702,P2302883J,Èric Font Vargas,F
+3703,C87660817,María Dolores Romeu-Bastida,E
+3704,E25161068,Marta Oliver Alfaro,E
+3705,D59333971,Anna Montaña-Uriarte,B
+3706,U7273775B,Albert Montoya Escamilla,D
+3707,W9727961F,Albert Cerdán Chamorro,D
+3708,R1233513I,Cristina Fábregas Domingo,E
+3709,U9830036A,Núria Goicoechea Milla,E
+3710,U4804259B,Max Goñi Dávila,C
+3711,C91303552,Aina Dávila Bauzà,D
+3712,P6579449G,Laura Manjón Barón,C
+3713,D86117876,Enzo Gimeno Carnero,E
+3714,S7211209G,María Alemán Saura,A
+3715,S9149045H,Pedro de Pellicer,B
+3716,F9340007E,Chlóe Moliner,B
+3717,H34827741,David Olivares-Julián,A
+3718,H15620032,Noa Gárate,D
+3719,P6353735A,Rosa del Neira,B
+3720,F9314032E,David Luís Tolosa,E
+3721,V2015246H,Martí Agullo-Campos,A
+3722,D81900805,Rosa Carrión Bauzà,E
+3723,A78168275,Montserrat Arrieta Baquero,F
+3724,U1774374A,Martina Solano Roma,E
+3725,H31037914,Laura Llorente Olivares,F
+3726,A13684352,Leo Adam Saavedra Verdejo,B
+3727,A42249482,Marta del Bernat,D
+3728,S7211209G,María Alemán Saura,B
+3729,P2199273J,Enzo de Osorio,F
+3730,H75562959,Bruno Lozano Galan,D
+3731,H95977138,Adam Galán Cáceres,D
+3732,W7861640F,Aleix de Fiol,D
+3733,B97041974,María Dolores Aramburu Galindo,A
+3734,N1790348E,Arlet Huguet Coloma,A
+3735,J7285606E,Emma Pallarès-Colom,C
+3736,W8604747I,Lucia Ribas Dalmau,E
+3737,D65605370,Martina Velasco Soriano,B
+3738,C91303552,Aina Dávila Bauzà,F
+3739,Q0041000A,David Chaves Cantero,D
+3740,A28346542,Martina Fuentes-Moll,D
+3741,B36032787,Sara Alfonso Cortes,B
+3742,B90285073,Lucia de Ballester,C
+3743,E56707995,Aina Otero-Gutiérrez,B
+3744,F9551675C,Ana Morante-Vazquez,C
+3745,N2845937H,Montserrat Manzanares-Herrero,F
+3746,U8112016D,Joan Villalobos Carnero,A
+3747,J2259741C,María Bayo Cózar,B
+3748,G13084090,Lucas Ocaña Huertas,D
+3749,C28252815,Èric Botella Armengol,B
+3750,S9149045H,Pedro de Pellicer,B
+3751,F9340007E,Chlóe Moliner,E
+3752,W3053262F,Xavier Batlle-Mur,B
+3753,U4683589H,Carla Corbacho-Escribano,A
+3754,U7308622E,Mia Palomares-Torrijos,A
+3755,P6713486F,Cristina Tomas Salvà,B
+3756,B11913498,Pedro Ricart Cantón,F
+3757,V7999367A,Lucia Abascal Tejera,C
+3758,S8355279D,Antonia Bermejo Bayo,A
+3759,P9348817I,Antonio Amo Castañeda,C
+3760,E01391861,José Pi Alvarez,A
+3761,R4624337D,Anna del Otero,E
+3762,B43837079,Laura Marquez Izquierdo,F
+3763,G93234177,Rosa Laura Nogués Casares,C
+3764,W4359932C,Dolores del Miguel,A
+3765,P3798114I,Ana de Larrea,A
+3766,V7999367A,Lucia Abascal Tejera,E
+3767,H23653579,Manuel David Rosado Acero,B
+3768,U7141532G,Pau Talavera Moliner,D
+3769,P6887458E,Nil del Morillo,D
+3770,H23653579,Manuel David Rosado Acero,F
+3771,N7185603C,Arlet Chaves Roldan,C
+3772,J9643335D,Juan Maldonado Mayol,C
+3773,W4359932C,Dolores del Miguel,A
+3774,S7211209G,María Alemán Saura,E
+3775,E52404001,Josefa Uriarte,D
+3776,A27475888,Javier Sedano Izquierdo,C
+3777,P6887458E,Nil del Morillo,C
+3778,A10128536,Èric Roman Guijarro,C
+3779,C21370879,Pol Puente Lucena,C
+3780,V4046368I,María Dolores Mendez Sebastián,A
+3781,U6069713C,Álex de Morales,B
+3782,E99188005,Biel Alcalde Samper,B
+3783,Q4232915A,Antònia Colomer Blanca,D
+3784,B39226162,Jana Villanueva Quirós,F
+3785,H37157526,Arlet Sala Narváez,F
+3786,J8863857B,Rosa Alberola Coll,B
+3787,V4665297J,Juan Cruz Pallarès,B
+3788,G90306762,Èric Blázquez Gil,E
+3789,S1471928J,Carla Ferrán Tenorio,B
+3790,C33342999,Anna Avilés-Palomar,F
+3791,F8025276J,Carla Ribas Ariño,F
+3792,G44377703,Noa Mate Diego,A
+3793,E01391861,José Pi Alvarez,C
+3794,W1796907B,Mia Abellán Pulido,D
+3795,G52644184,Martí Enzo Pujadas Pedrero,A
+3796,S1471928J,Carla Ferrán Tenorio,C
+3797,P7855416I,Leo Bustamante Zapata,D
+3798,V5404049H,Biel Pau Tolosa Llorens,A
+3799,J8863857B,Rosa Alberola Coll,A
+3800,U3398151E,Lucia Rincón Rosales,D
+3801,W1247153H,Martina Nuñez Estevez,A
+3802,D44217990,Nil Bilbao Sastre,F
+3803,S8641797I,Aina Pi Trujillo,C
+3804,D83545129,Francisca Font Navarro,D
+3805,S9149045H,Pedro de Pellicer,B
+3806,D65605370,Martina Velasco Soriano,F
+3807,E85913895,Álex Juliá Cantón,A
+3808,E47909023,Sílvia Pinilla Hervás,A
+3809,N4457128I,Francisco Meléndez Gargallo,F
+3810,E44235414,Juan de Guerrero,A
+3811,C78976982,Pau del Avilés,C
+3812,E73982548,Júlia Palomino Company,A
+3813,C81417628,Núria Martín,A
+3814,F8713241A,Antonio Catalá,E
+3815,Q4579611G,Leo Verdú Sastre,C
+3816,J9967593F,Nil Patiño-Perea,F
+3817,B64747389,Èric Roman Mena,B
+3818,N5426927I,Aleix Cervera Alfaro,D
+3819,C28142149,Aleix Moya Collado,A
+3820,P7917625A,Joan Ferrera Canals,D
+3821,D28897957,Marc Sarabia Zabala,B
+3822,B19312776,Aleix Doménech Pombo,B
+3823,D57672396,Chlóe Tomas Santamaria,C
+3824,N4457128I,Francisco Meléndez Gargallo,D
+3825,U4683589H,Carla Corbacho-Escribano,A
+3826,E34862805,Rosa Porta,E
+3827,S0085490A,Ona Salvà Pizarro,F
+3828,H13226295,Pau Rosado Palomar,D
+3829,Q7186100I,Èric Cifuentes,B
+3830,P7917625A,Joan Ferrera Canals,E
+3831,H92027010,Ana Tello Alemán,A
+3832,N2518597F,Noa de Grande,A
+3833,V3555537D,Montserrat Bayo Garay,F
+3834,D59333971,Anna Montaña-Uriarte,E
+3835,W7861640F,Aleix de Fiol,C
+3836,S0662896J,Álex Julián Cervantes,C
+3837,A51927812,Lucas Jordi Rodriguez Lobo,F
+3838,B95922167,Miguel Prieto Ribera,A
+3839,Q7186100I,Èric Cifuentes,D
+3840,C49543051,Pau Caro Gallego,C
+3841,Q7186100I,Èric Cifuentes,C
+3842,B37939139,Josep Casanovas Vázquez,A
+3843,S8641797I,Aina Pi Trujillo,A
+3844,H19110485,María de Villena,B
+3845,G62107743,Emma Farré,F
+3846,A84080670,Joan de Olmedo,E
+3847,S9149045H,Pedro de Pellicer,B
+3848,B43837079,Laura Marquez Izquierdo,B
+3849,S3989833C,Aleix Jove Cantero,D
+3850,W4699949F,Mia Catalán Barros,D
+3851,V5404049H,Biel Pau Tolosa Llorens,C
+3852,E47464060,Francisco Palomares Ocaña,E
+3853,B19312776,Aleix Doménech Pombo,F
+3854,C64875321,Pau del Bayón,B
+3855,R3314974A,María Teresa Ona Ferrándiz Donoso,E
+3856,U7308622E,Mia Palomares-Torrijos,E
+3857,F2545250I,Manuel Castellanos Arenas,F
+3858,R5672939E,Cristina Laia Bonilla Alvarado,F
+3859,N1790348E,Arlet Huguet Coloma,A
+3860,B11913498,Pedro Ricart Cantón,B
+3861,G62107743,Emma Farré,A
+3862,W9727961F,Albert Cerdán Chamorro,A
+3863,C91303552,Aina Dávila Bauzà,F
+3864,E52404001,Josefa Uriarte,D
+3865,Q7186100I,Èric Cifuentes,B
+3866,N9465554E,Chlóe Cerezo-Arenas,E
+3867,D28897957,Marc Sarabia Zabala,A
+3868,H42115923,Clàudia Perea Bermudez,A
+3869,A35443936,Pol Salgado Buendía,F
+3870,N8243349A,Paula Sáez Ripoll,D
+3871,H49305378,Antonio Sanjuan Belda,A
+3872,C70021340,Arnau Álex Villanueva Ojeda,C
+3873,S8641797I,Aina Pi Trujillo,E
+3874,C99290520,Antònia Baró-Elías,A
+3875,V7809521C,Antònia Anna Saez Belda,C
+3876,U6069713C,Álex de Morales,B
+3877,C87660817,María Dolores Romeu-Bastida,E
+3878,S0727486C,Adam Aliaga Pons,B
+3879,B37939139,Josep Casanovas Vázquez,F
+3880,V7999367A,Lucia Abascal Tejera,E
+3881,B43837079,Laura Marquez Izquierdo,A
+3882,S0662896J,Álex Julián Cervantes,B
+3883,C56963325,Abril Díez,F
+3884,B88818059,Martina María Carreño Villaverde,A
+3885,W4799866A,Manuel Cózar Albero,A
+3886,P6353735A,Rosa del Neira,D
+3887,F6804250F,María Dolores Ferrández Colom,C
+3888,Q7967239J,Paula Agustín Gimeno,D
+3889,N5111030B,Carlos Ramírez Benavent,C
+3890,P6579449G,Laura Manjón Barón,A
+3891,A30004071,Pau Peláez Cano,F
+3892,P8832380C,María Dolores Luz-Pera,B
+3893,N2759694I,María Dolores Júlia Montenegro Ramón,B
+3894,S6417982C,Arnau Gonzalo-Barrios,F
+3895,E52404001,Josefa Uriarte,D
+3896,J3751394B,Josep Ramón Palomar Múgica,F
+3897,H42115923,Clàudia Perea Bermudez,D
+3898,E55193205,Laia Boix Montenegro,C
+3899,P3410537I,Martí Paredes,D
+3900,A53234324,Marc Navas Bermúdez,D
+3901,F1014977A,Pedro Murcia-Valbuena,C
+3902,H02560167,Enzo Quesada,A
+3903,H23653579,Manuel David Rosado Acero,F
+3904,Q3443120E,Emma Aina Fábregas Moll,D
+3905,V2167857H,Manuel Cerro Pol,B
+3906,G76937929,María Dolores Sofía Salvador Teruel,E
+3907,Q7211251I,Marc Reina Arrieta,C
+3908,H42115923,Clàudia Perea Bermudez,B
+3909,P6579449G,Laura Manjón Barón,C
+3910,G13084090,Lucas Ocaña Huertas,B
+3911,H48271738,Laia Oliveras Puente,C
+3912,W1495808F,Èric Arnaiz,F
+3913,R7687550I,Juan Pozuelo Vila,B
+3914,Q2834551J,Noa Ordóñez,E
+3915,H49305378,Antonio Sanjuan Belda,A
+3916,F1978921C,Jordi Canals,C
+3917,S3989833C,Aleix Jove Cantero,D
+3918,C91303552,Aina Dávila Bauzà,A
+3919,D78897097,Núria Verdejo Arteaga,A
+3920,U7273775B,Albert Montoya Escamilla,D
+3921,V4258212B,Marc Dominguez Barberá,E
+3922,S8355279D,Antonia Bermejo Bayo,F
+3923,Q7967239J,Paula Agustín Gimeno,F
+3924,N2759694I,María Dolores Júlia Montenegro Ramón,C
+3925,S9346078J,Francisco Pareja Peinado,F
+3926,G56742331,Max Llano Bertrán,D
+3927,C06753156,Lucas Paniagua Llano,D
+3928,Q0552283D,Clàudia Verdú-Montalbán,B
+3929,G71220651,Júlia Gras Porta,D
+3930,E52404001,Josefa Uriarte,C
+3931,P7187021F,Antònia Paula Juliá Jaén,A
+3932,Q9514578E,Anna Benítez Rovira,A
+3933,B31484074,Jordi Cuenca Blanes,D
+3934,J4856729A,Pedro Cabrero Agullo,D
+3935,A81512261,Sílvia Lobo Ramírez,D
+3936,G71220651,Júlia Gras Porta,F
+3937,H60091485,Sofía Collado Botella,C
+3938,C97387187,Sara de Jover,A
+3939,J3659481J,Clàudia Sancho Aragón,E
+3940,H44219327,David de Carretero,D
+3941,G83025460,Noa Cueto Ribas,F
+3942,J2259741C,María Bayo Cózar,D
+3943,F6804250F,María Dolores Ferrández Colom,E
+3944,H03012952,Mia Méndez Ribes,F
+3945,D44217990,Nil Bilbao Sastre,B
+3946,G56742331,Max Llano Bertrán,C
+3947,B19312776,Aleix Doménech Pombo,B
+3948,V4665297J,Juan Cruz Pallarès,A
+3949,D65605370,Martina Velasco Soriano,C
+3950,R8192469H,Enzo Escalona Morales,C
+3951,H15620032,Noa Gárate,D
+3952,N3620309I,Dolores Gelabert,C
+3953,J5181672F,Álex del Domínguez,B
+3954,Q2116390B,Francisca Marta Arias Ferrero,E
+3955,C56963325,Abril Díez,E
+3956,U5487419C,Pol Nil Barbero Olivera,E
+3957,F9314032E,David Luís Tolosa,F
+3958,F7029229G,Daniel Prat Calvo,F
+3959,J4051218H,Daniel Bermudez Sosa,F
+3960,D10065217,Xavier Bárcena Castillo,D
+3961,F2545250I,Manuel Castellanos Arenas,A
+3962,A10128536,Èric Roman Guijarro,F
+3963,C75059956,Jorge Baena,D
+3964,S7366447F,Carlos Crespi Perales,D
+3965,S5329165D,Hugo Sanz Amat,C
+3966,B37939139,Josep Casanovas Vázquez,C
+3967,N5426927I,Aleix Cervera Alfaro,F
+3968,C75059956,Jorge Baena,E
+3969,S1471928J,Carla Ferrán Tenorio,C
+3970,A78168275,Montserrat Arrieta Baquero,A
+3971,H59348128,Antonio Dominguez Gilabert,D
+3972,E47464060,Francisco Palomares Ocaña,A
+3973,G93234177,Rosa Laura Nogués Casares,A
+3974,B21983689,Josep de Ibarra,E
+3975,Q2834551J,Noa Ordóñez,E
+3976,F2776503A,Francisca Ureña,A
+3977,P6057674A,María Del Carmen Valèria Raya Mena,A
+3978,G61008355,Arlet Lladó Diego,E
+3979,H65400632,Abril Cáceres Manjón,D
+3980,S8641797I,Aina Pi Trujillo,E
+3981,D33698531,Aina Ferrán-Dávila,B
+3982,G08270886,José María de Galvez,B
+3983,S3945679C,Daniel Ródenas Lastra,E
+3984,Q9514578E,Anna Benítez Rovira,D
+3985,G90306762,Èric Blázquez Gil,E
+3986,U0476516J,Isabel Miró Arana,E
+3987,F1405226J,Adam Abella Valle,C
+3988,H60091485,Sofía Collado Botella,D
+3989,U4578017H,Paula Canet Nuñez,E
+3990,S1410175B,Lucas Frutos Andrés,F
+3991,J4450361C,Júlia Cano Amorós,B
+3992,U1774374A,Martina Solano Roma,E
+3993,J5155116F,Júlia Abellán-Pou,E
+3994,S7211209G,María Alemán Saura,C
+3995,U4804259B,Max Goñi Dávila,B
+3996,N0515267C,Noa Ochoa Bartolomé,B
+3997,R5336309I,Rosa Torralba Rozas,F
+3998,N7359672H,Daniel Bartolomé Vilar,F
+3999,N5426927I,Aleix Cervera Alfaro,D

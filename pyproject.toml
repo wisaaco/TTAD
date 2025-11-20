@@ -17,4 +17,5 @@ dependencies = [
     "sphinx-rtd-theme>=3.0.2",
     "nbsphinx>=0.9.7",
     "sphinxcontrib-napoleon>=0.7",
+    "ipykernel>=7.1.0",
 ]

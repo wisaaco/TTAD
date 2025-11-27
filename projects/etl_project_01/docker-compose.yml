@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  price-simulator:
+    build:
+      context: .
+      dockerfile: Dockerfile.simulator
+    container_name: price-simulator
+    ports:
+      - "8088:8088"
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+    networks:
+      - price-network
+
+  student-container:
+    build:
+      context: .
+      dockerfile: Dockerfile.student
+    container_name: student-container
+    volumes:
+      - ./data:/app/data
+      - ./scripts:/app/scripts
+    depends_on:
+      - price-simulator
+    restart: unless-stopped
+    networks:
+      - price-network
+
+networks:
+  price-network:
+    driver: bridge
+
+volumes:
+  data:
+

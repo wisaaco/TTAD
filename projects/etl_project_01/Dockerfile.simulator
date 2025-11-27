@@ -1,0 +1,19 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install required packages
+RUN pip install --no-cache-dir flask
+
+# Copy the price simulator script
+COPY price_simulator.py /app/price_simulator.py
+
+# Create data directory
+RUN mkdir -p /app/data
+
+# Expose the port
+EXPOSE 8088
+
+# Run the price simulator
+CMD ["python", "price_simulator.py"]
+

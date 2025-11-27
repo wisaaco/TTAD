@@ -1,0 +1,31 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install required packages
+RUN apt-get update && apt-get install -y \
+    cron \
+    curl \
+    nano-tiny \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Python packages
+RUN pip install --no-cache-dir requests pandas flask
+
+# Create directories
+RUN mkdir -p /app/data /app/scripts
+
+# Set default timezone (optional, adjust as needed)
+ENV TZ=UTC
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
+
+# Create the log file to be able to run tail
+RUN touch /var/log/cron.log
+
+# Copy status server
+COPY status_server.py /app/status_server.py
+
+# Start cron and Flask status server
+CMD sh -c "cron && python /app/status_server.py"
+

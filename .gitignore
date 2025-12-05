@@ -8,6 +8,7 @@ __pycache__/
 
 OLD/
 crontab.template
+tallers/
 
 # Distribution / packaging
 .Python

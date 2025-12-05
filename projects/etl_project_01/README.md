@@ -74,10 +74,10 @@ docker exec -it student-container bash
 crontab -e
 ```
 
-2.3. Add your cron job. The format is: minute hour day month weekday command. For example, to run every minute:
+2.3. Add your cron job. The format is: minute hour day month weekday command (some web examples: https://crontab.guru/ ). For example, to run every minute:
 
 ```
-* * * * * /usr/bin/python3 /app/scripts/fetch_prices.py >> /var/log/cron.log 2>&1
+* * * * * /usr/local/bin/python3 /app/scripts/example_fetch_prices.py >> /var/log/cron.log 2>&1
 ```
 
 2.4. Verify crontab is set:

@@ -9,6 +9,7 @@ __pycache__/
 OLD/
 crontab.template
 tallers/
+home_projects/project_panda/
 
 # Distribution / packaging
 .Python

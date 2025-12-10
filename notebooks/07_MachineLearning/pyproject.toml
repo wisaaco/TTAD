@@ -1,0 +1,11 @@
+[project]
+name = "07-machinelearning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "scikit-learn==1.6.1",
+    "seaborn==0.13.2",
+    "sklearn-pandas==2.2.0",
+]

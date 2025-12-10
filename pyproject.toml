@@ -21,3 +21,8 @@ dependencies = [
     "sklearn-pandas==2.2.0",
     "memory-profiler>=0.61.0",
 ]
+
+[tool.uv.workspace]
+members = [
+    "notebooks/07_MachineLearning",
+]

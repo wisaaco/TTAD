@@ -2,6 +2,29 @@ version = 1
 revision = 2
 requires-python = ">=3.12"
 
+[manifest]
+members = [
+    "07-machinelearning",
+    "ttad-master",
+]
+
+[[package]]
+name = "07-machinelearning"
+version = "0.1.0"
+source = { virtual = "notebooks/07_MachineLearning" }
+dependencies = [
+    { name = "scikit-learn" },
+    { name = "seaborn" },
+    { name = "sklearn-pandas" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "scikit-learn", specifier = "==1.6.1" },
+    { name = "seaborn", specifier = "==0.13.2" },
+    { name = "sklearn-pandas", specifier = "==2.2.0" },
+]
+
 [[package]]
 name = "alabaster"
 version = "1.0.0"

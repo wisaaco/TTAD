@@ -20,6 +20,8 @@ dependencies = [
     "ipykernel>=7.1.0",
     "sklearn-pandas==2.2.0",
     "memory-profiler>=0.61.0",
+    "owslib>=0.35.0",
+    "shapely>=2.1.2",
 ]
 
 [tool.uv.workspace]

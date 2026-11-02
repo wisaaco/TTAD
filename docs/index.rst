@@ -16,6 +16,7 @@ Welcome to TTAD-master's documentation!
    notebooks/00_Proyectos/03_Notebooks_y_scripts
    notebooks/00_Proyectos/04_Paths
    notebooks/00_Proyectos/05_Terminal
+   notebooks/00_Proyectos/06_git
 
 
 .. toctree::

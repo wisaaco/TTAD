@@ -9,6 +9,17 @@ Welcome to TTAD-master's documentation!
 
 .. toctree::
    :maxdepth: 1
+   :caption: Estructura de proyecto
+
+   notebooks/00_Proyectos/01_Introduction
+   notebooks/00_Proyectos/02_Proyectos
+   notebooks/00_Proyectos/03_Notebooks_y_scripts
+   notebooks/00_Proyectos/04_Paths
+   notebooks/00_Proyectos/05_Terminal
+
+
+.. toctree::
+   :maxdepth: 1
    :caption: Introducción a Python
 
    notebooks/01_Python/01_BasicConcepts
@@ -16,14 +27,12 @@ Welcome to TTAD-master's documentation!
    notebooks/01_Python/03_OtherTypes
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Estructura de proyecto
+   :maxdepth: 2
+   :caption: ETL Process
 
-   notebooks/02_Proyectos/01_Introduction
-   notebooks/02_Proyectos/02_Proyectos
-   notebooks/02_Proyectos/03_Notebooks_y_scripts
-   notebooks/02_Proyectos/04_Paths
-   notebooks/02_Proyectos/05_Terminal
+   notebooks/02_ETLprocess/01_Introduction
+   notebooks/02_ETLprocess/02_Automatization
+   notebooks/02_ETLprocess/03_Orchestration
 
 
 .. toctree::
@@ -47,14 +56,6 @@ Welcome to TTAD-master's documentation!
    notebooks/05_Pandas/03_GroupingData
    notebooks/05_Pandas/04_OtherActions
    notebooks/05_Pandas/05_Visualization
-
-.. toctree::
-   :maxdepth: 2
-   :caption: ETL Process
-
-   notebooks/06_ETLprocess/01_Introduction
-   notebooks/06_ETLprocess/02_Automatization
-   notebooks/06_ETLprocess/03_Orchestration
 
 .. toctree::
    :maxdepth: 2

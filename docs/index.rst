@@ -16,7 +16,7 @@ Welcome to TTAD-master's documentation!
    notebooks/00_Proyectos/03_Notebooks_y_scripts
    notebooks/00_Proyectos/04_Paths
    notebooks/00_Proyectos/05_Terminal
-   notebooks/00_Proyectos/06_git
+   notebooks/00_Proyectos/06_Git
 
 
 .. toctree::
@@ -42,11 +42,6 @@ Welcome to TTAD-master's documentation!
    
    notebooks/03_Numpy/01_Introduction
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Control de versiones
-
-   notebooks/04_Git/01_Git
 
 .. toctree::
    :maxdepth: 1
